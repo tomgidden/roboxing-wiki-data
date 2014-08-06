@@ -1,5 +1,4 @@
 ===== Pyramid 1 =====
-{{tag>things}}
 
 The standard test pyramid.  Download it here:
 
