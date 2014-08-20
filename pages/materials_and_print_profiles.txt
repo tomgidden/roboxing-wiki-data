@@ -1,0 +1,30 @@
+===== Materials and Print Profiles =====
+
+Recently, development has been concentrated on getting the [[ABS]] print setup working as well as possible, but it already prints [[PLA]] well.
+==== Officially supported ====
+
+    * [[ABS]]
+
+    * [[PLA]]
+
+    * [[Robox NYLON]]
+
+==== Not (yet) supported ====
+
+    * Nylon
+        * [[Taulman Bridge]]
+        * [[Nylon 618]]
+        * [[Nylon 645]]
+
+   * PET / PETT / PETE
+       * [[Taulman t-glase]]
+ 
+=== Support material ===
+    * [[PVOH]] (a.k.a. PVA)
+    * [[HIPS]] (via Limonene)
+
+=== Flexible Filaments ===
+(see Experiments:[[Flexible Filament]])
+    * [[NinjaFlex]]
+    * [[Zen Toolworks Flexible Filament]]
+    * [[PolyFlex]]
