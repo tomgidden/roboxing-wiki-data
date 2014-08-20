@@ -2,7 +2,7 @@
 
 This is an unofficial documentation, help, and... heck, fan site for the [[http://www.cel-robox.com/|CEL Robox® 3D Printer]].
 
-It is maintained and edited by Robox users, and is not affiliated with CEL. Oh, and **__if something suggested here ends up with a negative result (eg. it voiding your warranty; or your Robox setting itself, you, your belongings, your pets or your house on fire) then it's not our fault.  It's up to you to decide if what you read here is correct, advisable and safe, and act accordingly.  In particular, we don't recommend modification of your Robox without getting approval from CEL first.__** Just ask: they're nice.
+It is maintained and edited by Robox users, and is not affiliated with CEL. Oh, and **if something suggested here ends up with a negative result (eg. it voiding your warranty; or your Robox setting itself, you, your belongings, your pets or your house on fire) then it's not our fault.  It's up to you to decide if what you read here is correct, advisable and safe, and act accordingly.  In particular, we don't recommend modification of your Robox without getting approval from CEL first.** Just ask: they're nice.
 
 This site is intended to //complement// CEL's official website, support site, and forums; not replace them.
 
