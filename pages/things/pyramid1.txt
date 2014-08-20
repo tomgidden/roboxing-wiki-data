@@ -7,4 +7,4 @@ The standard test pyramid.  Download it here:
 
 ===== Printing tips =====
 
-    * If the top of the pyramid is blobby, it's because the print speeds up as the layers get smaller, so layers don't have time to cool before the next layer starts.  As a result, it's a gooey mess.  Try printing three or four pyramids at once. This should give them time to cool. //[β: hopefully AutoMaker will soon include a pause between small layers, or something like that.]//
+    * If the top of the pyramid is blobby, it's because the print speeds up as the layers get smaller, so layers don't have time to cool before the next layer starts.  As a result, it's a gooey mess.  Try printing three or four pyramids at once. This should give them time to cool. //[hopefully AutoMaker will soon include a pause between small layers, or something like that.]//
