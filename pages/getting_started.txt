@@ -8,18 +8,18 @@ This is an unfinished guide of some things you should know before you get starte
 
    * When you're finished using the Robox for the day, **let it cool down in it's own time**. Once the temperatures level off and the fans stop, then it's time to switch off at the back. This lets it retract filament or whatever it needs to do to keep things in good condition.
 
+   * Keep an eye on the head and bed temperatures. There are currently some minor issues that may cause [[Head overheating|overheating of the head]].  This can ruin the head quickly, but it may not become apparent until much later.
+
+   * If it makes bad noises -- and it's fairly intuitive what's a bad noise and what's a good noise -- then **don't push it any further**. For example, if the extruder is slipping -- which is a distinctly bad sound -- that can cause subsequent problems with the head, the [[Bowden tube|tube]] that carries the filament to the head, and other components.
+
+   * **If you have any doubts, stop and post to the forums to ask for help.** If you provide a detailed and complete description of the problem (and the settings you've used) ideally with video, someone more experienced will probably be able to help.
+
    * When you're finished with the Robox and you know you won't be using it for a while, **unload the filament and put it back in a sealed bag** with dessicant pouches.  The plastics normally used pick up humidity from the air and print quality will suffer.
 
    * Keep it clean. Use IPA (isopropyl alcohol; isopropanol) for good results. See [[cleaning_the_printing_surface|Cleaning the printing surface]].  A 50/50 or 70/30 mix of IPA and deionised water is common and relatively safe, but some users prefer 99% IPA.  **DO NOT** use other solvents, such as acetone, as they can seriously damage the printer, the print bed, etc.
 
    * However, do be careful if you're spraying solvents (diluted or otherwise) near an electrical device, esp. one that reaches temperatures of 250ºC. Additionally, the Robox's power supply is at the top of the case and has ventilation holes that spray or drips could get into.
 
-   * Keep an eye on the head and bed temperatures. There are currently some minor issues that may cause [[Head overheating|overheating of the head]].  This can ruin the head quickly, but it may not become apparent until much later.
-
    * Ideally, wear gloves or similar when loading filament: getting dirt, oil, sweat, etc. into the filament path isn't the best idea.  At least make sure your hands are clean.
-
-   * If it makes bad noises -- and it's fairly intuitive what's a bad noise and what's a good noise -- then **don't push it any further**. For example, if the extruder is slipping -- which is a distinctly bad sound -- that can cause subsequent problems with the head, the [[Bowden tube|tube]] that carries the filament to the head, and other components.
-
-   * If you have any doubts, stop and post to the forums to ask for help. If you provide a detailed and complete description of the problem (and the settings you've used) ideally with video, someone more experienced will probably be able to help.
 
    * Don't be too ambitious to start with: while the Robox is a lot more "plug-and-play" than other 3D printers, you still need some experience to pull off a really good print... at least for now, while the Robox is still being developed.  Do simple, easy, fast (small) prints to begin with and get used to it.  Otherwise you'll waste nine hours on a print that will fail right near the end and you'll want to defenestrate the Robox. Resist the urge.
