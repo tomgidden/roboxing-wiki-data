@@ -24,7 +24,7 @@ Using the [[things:pyramid1|standard test pyramid]] and starting with the standa
 == Details ==
    * [[settings:Material Settings|Material Settings]]
      *  [[settings:Material|Material]]: PLA, white
-     *  [[settings:Filament ø|Filament ø]]:  1.75mm (unchanged)
+     *  [[settings:Filament ø|Filament ø]]:  1.75mm
      *  **[[settings:Filament multiplier|Filament multiplier]]: 1.50**
      *  **[[settings:Feed rate multiplier|Feed rate multiplier]]: 1.50**
      *  **[[settings:Bed (1st layer)|Bed (1st layer)]]: 85ºC**
