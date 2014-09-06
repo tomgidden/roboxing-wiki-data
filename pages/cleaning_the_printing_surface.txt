@@ -11,10 +11,14 @@ To clean, just use [[wp>Isopropyl Alcohol]] or IPA for short. It's cheap and can
 Other solvents (other than water, that is) may damage the printing surface VERY easily, so don't bother.
 
 Typical ratios of IPA to distilled water include:
-* 1% IPA, 99% distilled water:  used for cleaning CDs and DVDs
-* 50% IPA, 50% distilled water:  screen cleaners and wipes... sometimes with a small amount of detergent too
-* 70% IPA, 30% distilled water:  also common
-* 99% IPA: the neat stuff: a bit brutal on the hands, and actually doesn't tend to clean quite as well as a mix of IPA and water.
+
+   * 1% IPA, 99% distilled water:  used for cleaning CDs and DVDs
+
+   * 50% IPA, 50% distilled water:  screen cleaners and wipes... sometimes with a small amount of detergent too
+
+   * 70% IPA, 30% distilled water:  also common
+
+   * 99% IPA: the neat stuff: a bit brutal on the hands, and actually doesn't tend to clean quite as well as a mix of IPA and water.
 
 Some users have suggested that 70/30 works well, or even 99% IPA.  However, the water isn't just to bulk it out or for safely: water and IPA complement each other or work together for the best cleaning, especially when it comes to biological mess. When it comes to the typical oil residues that come from fingerprints and the plastics involved, straight IPA is fine.
 
