@@ -1,0 +1,20 @@
+====== Cleaning the printing surface ======
+
+The print bed is made of [[wp>Polyetherimide]] or PEI for short.
+
+As tempting as it sounds to clean off smeared ABS plastic with Acetone (nail varnish remover): **DON'T**. It'll dissolve the PEI just as well as the ABS.
+
+(It's also worth mentioning that a lot of the Robox itself is made of ABS, so keep the Acetone away. It might make your prints nice and shiny when used carefully, but it can also destroy your printer.)
+
+To clean, just use [[wp>Isopropyl Alcohol]] or IPA for short. It's cheap and can be bought in bulk and spray bottles from eBay. It is also commonly used (diluted) in screen wipes and wipes for glasses.
+
+Other solvents (other than water) may damage the printing surface VERY easily, so don't bother.
+
+Note, IPA is fairly safe, but it is highly flammable. It is NOT a good idea to spray it inside the Robox, especially when it's hot. Remove the printing surface first and clean it away from the printer.
+
+----
+
+
+TIP: I have a one litre spray bottle of IPA mixed 50/50 with distilled water. I keep it next to my desk for quick cleans of my computer screens and my glasses. It works well with the Robox print bed.  --[[user:gid|@gid]]
+
+Other users have suggested that 70/30 works better, or even 99% IPA.  However, the water isn't just to bulk it out or for safely: water and IPA work together for the best cleaning. When it comes to the typical oil residues that come from fingerprints and the plastics involved, straight IPA is good.
