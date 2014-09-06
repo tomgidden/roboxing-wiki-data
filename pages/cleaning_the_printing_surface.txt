@@ -8,13 +8,18 @@ As tempting as it sounds to clean off smeared ABS plastic with Acetone (nail var
 
 To clean, just use [[wp>Isopropyl Alcohol]] or IPA for short. It's cheap and can be bought in bulk and spray bottles from eBay. It is also commonly used (diluted) in screen wipes and wipes for glasses.
 
-Other solvents (other than water) may damage the printing surface VERY easily, so don't bother.
+Other solvents (other than water, that is) may damage the printing surface VERY easily, so don't bother.
+
+Typical ratios of IPA to distilled water include:
+* 1% IPA, 99% distilled water:  used for cleaning CDs and DVDs
+* 50% IPA, 50% distilled water:  screen cleaners and wipes... sometimes with a small amount of detergent too
+* 70% IPA, 30% distilled water:  also common
+* 99% IPA: the neat stuff: a bit brutal on the hands, and actually doesn't tend to clean quite as well as a mix of IPA and water.
+
+Some users have suggested that 70/30 works well, or even 99% IPA.  However, the water isn't just to bulk it out or for safely: water and IPA complement each other or work together for the best cleaning, especially when it comes to biological mess. When it comes to the typical oil residues that come from fingerprints and the plastics involved, straight IPA is fine.
 
 Note, IPA is fairly safe, but it is highly flammable. It is NOT a good idea to spray it inside the Robox, especially when it's hot. Remove the printing surface first and clean it away from the printer.
 
 ----
 
-
 TIP: I have a one litre spray bottle of IPA mixed 50/50 with distilled water. I keep it next to my desk for quick cleans of my computer screens and my glasses. It works well with the Robox print bed.  --[[user:gid|@gid]]
-
-Other users have suggested that 70/30 works better, or even 99% IPA.  However, the water isn't just to bulk it out or for safely: water and IPA work together for the best cleaning. When it comes to the typical oil residues that come from fingerprints and the plastics involved, straight IPA is good.
