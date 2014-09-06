@@ -19,6 +19,8 @@ Thanks in advance for your contributions!
 
 ===== Starter pages =====
 
+  * [[Getting Started]]
+
   * [[Things]]... and how to best print them
 
   * [[Settings]]
