@@ -1,0 +1,95 @@
+====== 20 micron Buddha ======
+
+From this forum post by [[user:luis_bustamante|@luis_bustamante]] : [http://www.cel-robox.com/forums/topic/20-micron-half-size-buddha-print/#post-5654]
+
+A good early 20 micron print, with some tweaking of settings.
+
+==== Model ====
+[http://www.thingiverse.com/thing:42077]
+
+==== Results ====
+{{:things:20_micron_buddha_-_img_2934.jpg?200}}
+{{:things:20_micron_buddha_-_img_2928.jpg?200}}
+{{:things:20_micron_buddha_-_img_2935.jpg?200}}
+
+Print time: roughly 2 hours
+
+==== Settings ====
+Using the [[things:pyramid1|standard test pyramid]] and starting with the standard Fine profile and PLA material settings; modifying the layer height to 0.02mm (20µm); and then tweaking filament and flow rate multipliers.
+
+== Downloads ==
+    * {{::settings:luis_bustamante_-_ultrafinesettings_1.roboxprofile|Material profile}}
+    * {{::settings:luis_bustamante_-_white_pla_1.5-pla.roboxfilament|Print Profile}}
+
+== Details ==
+   * [[settings:Material Settings|Material Settings]]
+     *  [[settings:Material|Material]]: PLA, white
+     *  [[settings:Filament ø|Filament ø]]:  1.75mm (unchanged)
+     *  **[[settings:Filament multiplier|Filament multiplier]]: 1.50**
+     *  **[[settings:Feed rate multiplier|Feed rate multiplier]]: 1.50**
+     *  **[[settings:Bed (1st layer)|Bed (1st layer)]]: 85ºC**
+     *  **[[settings:Bed|Bed]]: 65ºC**
+     *  [[settings:Nozzle (1st layer)|Nozzle (1st layer)]]: 220ºC
+     *  [[settings:Nozzle|Nozzle]]: 210ºC
+     *  [[settings:Ambient|Ambient]]: 35ºC
+
+   * [[settings:Profile Settings|Profile Settings]]
+
+     * [[settings:Extrusion|Extrusion]]
+       * **[[settings:Layer height|Layer height]]: 0.02mm**
+       * **[[settings:Fill density|Fill density]]: 0.1**
+       * [[settings:Fill pattern|Fill pattern]]: line
+       * [[settings:Infill every|Infill every]]: 1 layers
+       * **[[settings:Solid layers at top|Solid layers at top]]: 3**
+       * **[[settings:Solid layers at bottom|Solid layers at bottom]]: 3**
+       * [[settings:Number of perimeters|Number of perimeters]]: 4
+       * [[settings:Brim width|Brim width]]: 0
+
+     * [[settings:Nozzles|Nozzles]]
+       * **[[settings:Nozzles - First layer|First layer]]: 0.80mm width, 0.8mm nozzle**
+       * [[settings:Nozzles - Perimeter|Perimeter]]: 0.30mm width, 0.3mm nozzle
+       * [[settings:Nozzles - Infill|Infill]]: 0.30mm width
+       * [[settings:Nozzles - Solid infill|Solid infill]]: 0.30mm width, 0.3mm nozzle
+       * [[settings:Nozzles - Top Solid infill|Top Solid infill]]: 0.30mm width
+       * [[settings:Nozzles - Support|Support]]: 0.30mm width, 0.3mm nozzle
+       * [[settings:Nozzles - Support interface|Support interface]]: 0.3mm nozzle
+
+       * [[settings:Nozzles - 0.3mm T0]]:
+         * [[settings:Open volume|Open volume]]: 0.40 mm³
+         * **[[settings:Pre-ejection volume|Pre-ejection volume]]: 0.30 mm³**
+         * **[[settings:Ejection volume|Ejection volume]]: 1.30 mm³**
+         * [[settings:Intermediate valve position|Intermediate valve position]]: 0.50
+         * [[settings:Close midpoint|Close midpoint]]: 60%
+         * [[settings:Wipe volume|Wipe volume]]: 0.10 mm³
+         * [[settings:Partial open value|Partial open value]]: 0.3
+         * [[settings:Retract Length|Retract length]]: 1.0mm
+         * [[settings:Retract/unretract speed|Retract/unretract speed]]: 35mm/s
+
+     * [[settings:Support|Support]]
+       * [[settings:Generate support material|Generate support material]]: NO
+       * [[settings:Support Overhang threshold|Overhang threshold]]: 40
+       * [[settings:Forced support for first layers|Forced support for first x layers]]: 0
+       * [[settings:Support pattern|Support pattern]]: rectilinear
+       * [[settings:Support Pattern spacing|Pattern spacing]]: 2mm
+       * [[settings:Support Pattern angle|Pattern angle]]: 0
+
+     * [[settings:Speed|Speed]]
+       * [[settings:Speed - Perimeters|Perimeters]]: 30mm/s
+       * [[settings:Speed - Small perimeters|Small perimeters]]: 20mm/s
+       * [[settings:Speed - External perimeters|External perimeters]]: 28mm/s
+       * [[settings:Speed - Infill|Infill]]: 30mm/s
+       * [[settings:Speed - Solid infill|Solid infill]]: 30mm/s
+       * [[settings:Speed - Top solid infill|Top solid infill]]: 20mm/s
+       * [[settings:Speed - Support material|Support material]]: 30mm/s
+       * [[settings:Speed - Bridges|Bridges]]: 20mm/s
+       * [[settings:Speed - Gap fill|Gap fill]]: 20mm/s
+
+     * [[settings:Cooling|Cooling]]
+       * [[settings:Enable auto cooling|Enable auto cooling]]: YES
+       * [[settings:Min speed|Fan settings - Min speed]]: 60
+       * [[settings:Max speed|Fan settings - Max speed]]: 100
+       * [[settings:Bridges fan speed|Bridges fan speed]]: 100%
+       * [[settings:Disable fan for first x layers|Disable fan for first]]: 0 layers
+       * [[settings:Enable fan if layer time|Enable fan if layer time < ]]: 60 secs
+       * [[settings:Go slow if layer time|Go slow if layer time < ]]: 15 secs
+       * [[settings:Min print speed|Min print speed]]: 15 mm/s
