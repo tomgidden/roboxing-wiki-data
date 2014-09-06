@@ -1,0 +1,25 @@
+====== Switch it off first ======
+
+The Robox has two main sources of power: USB and the mains power supply.  It's meant to be able to do basic configuration and so forth on just USB, but to do anything that involves heating, movement, lighting and so forth, it needs to be powered up.
+
+When powered up, there's a fairly strong 24V current going through the mainboard, through the ribbon cable joining the extruder to the main board, and along the two-wire cable in the print chamber going from the mainboard to the head.
+
+The head is connected to the mainboard via "pogo pins": two rows of small gold electrical contacts with springs in them.  These can get stuck in or make a loose connection.  There is an official support solution on this matter: [[https://robox.freshdesk.com/support/solutions/articles/1000074632-headlock-system-remove-and-replace-the|Headlock system - Remove and replace the head]]
+
+Now, if the 24V connection's bad for any reason -- such as stuck pins, misaligned pins or head, dirty contacts, or a loose wire or plug/socket on the 24V line -- **it can easily zap the firmware** in the head.  One unfortunate symptom of this is that the head's heater can become uncontrollable and will just continually heat up until it destroys itself.
+
+Even if the head isn't zapped, if the pins for the temperature sensor aren't contacting well, the Robox can still get into a state where it will think the head is cold and will overheat it.
+
+Both of these circumstances are very bad indeed.
+
+It's also possible to zap the mainboard in the same way. So, the two most expensive components in the Robox can be zapped by carelessly fiddling with them while the power is left on.  Just don't do it.
+
+----
+//Both of these things happened to my Robox.  On the second day I had it, the head overheated and billowed dark grey smoke.  On removing the head, I noticed one of the pins stuck down.  In Automaker, the head was reporting that the temperature was "Cold", so it kept heating. When I prodded the head, the temperature leaped up to 270ºC.//
+
+//It was determined later that this event may have melted the nozzle seals causing a slow leak that wasn't detected until weeks later when it catastrophically failed in a blob of molten plastic.  Until that time, print quality was terrible, as the leak starved the head of plastic.//
+
+//CEL replaced the head, a few days later the head's firmware got zapped. We suspect it was a loose 24V connection.  This resulted in the runaway temperature problem as noted above, and another new head was needed.
+
+Now, in my case, both were due to faults rather than messing with the head while plugged in, but the same thing could very easily happen that way too.//
+--[[user:gid|@gid]]:
