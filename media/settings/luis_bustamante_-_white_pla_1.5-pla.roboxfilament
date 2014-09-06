@@ -1,0 +1,14 @@
+#Robox data
+#Sat Sep 06 13:47:29 BST 2014
+name=White PLA 1.5
+diameter_mm=1.75
+display_colour=\#FFFFFF
+nozzle_temperature_C=210
+first_layer_nozzle_temperature_C=220
+ambient_temperature_C=35
+first_layer_bed_temperature_C=85
+material=PLA
+bed_temperature_C=65
+feed_rate_multiplier=1.50
+reelID=Ud591a5196114cd
+filament_multiplier=1.50
