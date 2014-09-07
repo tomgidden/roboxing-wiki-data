@@ -12,7 +12,7 @@ A good early 20 micron print, with some tweaking of settings.
 {{:things:20_micron_buddha_-_img_2928.jpg?200}}
 {{:things:20_micron_buddha_-_img_2935.jpg?200}}
 
-Print time: roughly 2 hours
+Print time: roughly 2 hours at 50% scale
 
 ==== Settings ====
 Using the [[things:pyramid1|standard test pyramid]] and starting with the standard Fine profile and PLA material settings; modifying the layer height to 0.02mm (20µm); and then tweaking filament and flow rate multipliers.
