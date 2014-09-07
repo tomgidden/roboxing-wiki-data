@@ -1,0 +1,7 @@
+====== Settings: Brim width ======
+
+    * Default setting: ?
+
+===== Description =====
+A brim can be added to the outside of the first layer of a print.  This additional area provides more surface area against the bed, and can help smaller details to adhere better to the bed.  As brim is only one layer thick, it can be removed easily once completed.
+
