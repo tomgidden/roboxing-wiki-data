@@ -17,9 +17,9 @@ It's also possible to zap the mainboard in the same way. So, the two most expens
 ----
 //Both of these things happened to my Robox.  On the second day I had it, the head overheated and billowed dark grey smoke.  On removing the head, I noticed one of the pins stuck down.  In Automaker, the head was reporting that the temperature was "Cold", so it kept heating. When I prodded the head, the temperature leaped up to 270ºC.//
 
-//It was determined later that this event may have melted the nozzle seals causing a slow leak that wasn't detected until weeks later when it catastrophically failed in a blob of molten plastic.  Until that time, print quality was terrible, as the leak starved the head of plastic.//
-
 {{ head_overheating_-_img_3257.jpg?200}}
+
+//It was determined later that this event may have melted the nozzle seals causing a slow leak that wasn't detected until weeks later when it catastrophically failed in a blob of molten plastic.  Until that time, print quality was terrible, as the leak starved the head of plastic.//
 
 //CEL replaced the head, a few days later the head's firmware got zapped. We suspect it was a loose 24V connection.  This resulted in the runaway temperature problem as noted above, and another new head was needed.
 
