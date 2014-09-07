@@ -3,4 +3,11 @@
     * Default setting: ?
 
 ===== Description =====
-(to be added)
+
+This adjusts the extrusion rate of the material: setting it to 2 will double the amount of filament extruded.
+
+Simply put, the extruder should push enough filament to the head so that it the same length of filament comes out of the nozzle as distance the head travels.
+
+Typically, this value would be 1.00.
+
+Compare with [[settings:Filament multiplier]]
