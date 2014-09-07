@@ -23,3 +23,7 @@ This is an unfinished guide of some things you should know before you get starte
    * Ideally, wear gloves or similar when loading filament: getting dirt, oil, sweat, etc. into the filament path isn't the best idea.  At least make sure your hands are clean.
 
    * Don't be too ambitious to start with: while the Robox is a lot more "plug-and-play" than other 3D printers, you still need some experience to pull off a really good print... at least for now, while the Robox is still being developed.  Do simple, easy, fast (small) prints to begin with and get used to it.  Otherwise you'll waste nine hours on a print that will fail right near the end and you'll want to defenestrate the Robox. Resist the urge.
+
+==== Calibration ====
+
+(to be added)
