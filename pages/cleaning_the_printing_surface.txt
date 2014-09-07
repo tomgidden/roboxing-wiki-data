@@ -26,4 +26,4 @@ Note, IPA is fairly safe, but it is highly flammable. It is NOT a good idea to s
 
 ----
 
-TIP: I have a one litre spray bottle of IPA mixed 50/50 with distilled water. I keep it next to my desk for quick cleans of my computer screens and my glasses. It works well with the Robox print bed.  --[[user:gid|@gid]]
+//TIP: I have a one litre spray bottle of IPA mixed 50/50 with distilled water. I keep it next to my desk for quick cleans of my computer screens and my glasses. It works well with the Robox print bed.  --[[user:gid|@gid]]//
