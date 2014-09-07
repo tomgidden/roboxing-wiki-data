@@ -19,6 +19,8 @@ It's also possible to zap the mainboard in the same way. So, the two most expens
 
 //It was determined later that this event may have melted the nozzle seals causing a slow leak that wasn't detected until weeks later when it catastrophically failed in a blob of molten plastic.  Until that time, print quality was terrible, as the leak starved the head of plastic.//
 
+{{ head_overheating_-_img_3257.jpg?200}}
+
 //CEL replaced the head, a few days later the head's firmware got zapped. We suspect it was a loose 24V connection.  This resulted in the runaway temperature problem as noted above, and another new head was needed.
 
 Now, in my case, both were due to faults rather than messing with the head while plugged in, but the same thing could very easily happen that way too.//
