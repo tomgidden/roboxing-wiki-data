@@ -1,6 +1,6 @@
 ====== Settings ======
 
-   * [[settings:Material Settings|Material Settings]]
+===== Material Settings =====
      *  [[settings:Material|Material]]
      *  [[settings:Filament ø|Filament ø]]
      *  [[settings:Filament multiplier|Filament multiplier]]
@@ -11,8 +11,9 @@
      *  [[settings:Nozzle|Nozzle]]
      *  [[settings:Ambient|Ambient]]
 
-   * [[settings:Profile Settings|Profile Settings]]
-      * [[settings:Extrusion|Extrusion]]
+=====  Profile Settings ===== 
+
+==== Extrusion ====
          * [[settings:Layer height|Layer height]]
          * [[settings:Fill density|Fill density]]
          * [[settings:Fill pattern|Fill pattern]]
@@ -21,7 +22,8 @@
          * [[settings:Solid layers at bottom|Solid layers at bottom]]
          * [[settings:Number of perimeters|Number of perimeters]]
          * [[settings:Brim width|Brim width]]
-      * [[settings:Nozzles|Nozzles]]
+
+==== Nozzles ====
          * [[settings:Nozzles - First layer|First layer]]
          * [[settings:Nozzles - Perimeter|Perimeter]]
          * [[settings:Nozzles - Infill|Infill]]
@@ -29,7 +31,7 @@
          * [[settings:Nozzles - Top Solid infill|Top Solid infill]]
          * [[settings:Nozzles - Support|Support]]
          * [[settings:Nozzles - Support interface|Support interface]]
-         * [[settings:Nozzles - 0.3mm T0]]
+=== Nozzles - 0.3mm T0 ===
            * [[settings:Open volume|Open volume]]
            * [[settings:Pre-ejection volume|Pre-ejection volume]]
            * [[settings:Ejection volume|Ejection volume]]
@@ -39,14 +41,16 @@
            * [[settings:Partial open value|Partial open value]]
            * [[settings:Retract Length|Retract length]]
            * [[settings:Retract_unretract speed|Retract/unretract speed]]
-      * [[settings:Support|Support]]
+
+==== Support ====
          * [[settings:Generate support material|Generate support material]]
          * [[settings:Support Overhang threshold|Overhang threshold]]
          * [[settings:Forced support for first layers|Forced support for first x layers]]
          * [[settings:Support pattern|Support pattern]]
          * [[settings:Support Pattern spacing|Pattern spacing]]
          * [[settings:Support Pattern angle|Pattern angle]]
-      * [[settings:Speed|Speed]]
+
+==== Speed ====
          * [[settings:Speed - Perimeters|Perimeters]]
          * [[settings:Speed - Small perimeters|Small perimeters]]
          * [[settings:Speed - External perimeters|External perimeters]]
@@ -56,7 +60,8 @@
          * [[settings:Speed - Support material|Support material]]
          * [[settings:Speed - Bridges|Bridges]]
          * [[settings:Speed - Gap fill|Gap fill]]
-      * [[settings:Cooling|Cooling]]
+
+==== Cooling ====
          * [[settings:Enable auto cooling|Enable auto cooling]]
          * [[settings:Min speed|Fan settings - Min speed]]
          * [[settings:Max speed|Fan settings - Max speed]]
