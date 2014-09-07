@@ -7,4 +7,4 @@ The diameter of the filament used.
 
 Currently, 1.75mm for Robox, but you can use digital calipers to enter a more precise figure.
 
-Nowadays, adequate digital calipers are cheap and easy to obtain: US $10 or £8 can get you digital calipers with 0.1mm accuracy.  These can also be useful for measuring objects for 3D modelling (along with digital angle finders) so it's not a bad idea to get som.
+Nowadays, adequate digital calipers are cheap and easy to obtain: US $10 or £8 can get you digital calipers with purported 0.01mm resolution (and ±0.02mm accuracy).  These can also be useful for measuring objects for 3D modelling (along with digital angle finders) so it's not a bad idea to get some.
