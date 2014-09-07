@@ -38,7 +38,7 @@
            * [[settings:Wipe volume|Wipe volume]]
            * [[settings:Partial open value|Partial open value]]
            * [[settings:Retract Length|Retract length]]
-           * [[settings:Retract/unretract speed|Retract/unretract speed]]
+           * [[settings:Retract_unretract speed|Retract/unretract speed]]
       * [[settings:Support|Support]]
          * [[settings:Generate support material|Generate support material]]
          * [[settings:Support Overhang threshold|Overhang threshold]]
