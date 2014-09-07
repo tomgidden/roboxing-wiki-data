@@ -1,0 +1,11 @@
+====== Feed Rate Multiplier ======
+
+   * Stored in the reel; material specific
+
+   * Default setting: 1.00
+
+===== Explanation =====
+(to be added)
+
+===== Effect =====
+(to be added)
