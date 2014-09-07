@@ -3,4 +3,8 @@
     * Default setting: ?
 
 ===== Description =====
-(to be added)
+Filament multiplier compensates for the compressibility of the filament in use, which may result in an effective change in diameter as it is compressed and pushed through the extruder.
+
+A perfectly hard filament will probably use a multiplier of 1.00.
+
+Compare with [[settings:Feed rate multiplier]]
