@@ -1,0 +1,25 @@
+===== ABS =====
+  * [[wp>Acrylonitrile Butadiene Styrene]]
+
+==== Properties ====
+  * Good all-rounder
+  * What's it like? [[WP>LEGO]]
+  * Dissolves in acetone
+  * Needs heated bed
+  * Temperature range: 200ºC-250ºC depending on brand.
+  * Hygroscopic: keep sealed with [[dessicants]], eg. silica gel
+
+==== Availability ====
+
+  * Widely available
+  * Also available on officially-supported Robox Reel direct from CEL: [[http://robox.cel-uk.com/filament/abs-filament.html]]
+
+==== Hints and Tips ====
+  * Keep it dry and sealed when not in use.
+
+==== Print profiles and tweaks ====
+  * Standard Robox profiles
+
+==== Safety ====
+  * Debatable / controversial.  Regardless, probably not the best choice as a variety of joss-stick or dessert topping.
+  * Produces light fumes when being printed. Still undefined how much harm this causes to humans but if you want to play it safe do try to have some ventilation to avoid breathing them. Cel has talked about adding a carbon filter to the printer to minimize this potential health hazard.
