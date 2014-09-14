@@ -1,0 +1,7 @@
+==== Robox details ====
+  * Robox Name: My imaginary tool
+  * Location: 50.841959N, 3.319182W (Gavers Lake, Harelbeke, Belgium)
+  * Model: Kickstarter PRE-ORDER
+  * Head: 
+  * Nozzle Heights: 
+  * Platform: Ubuntu current version, 64b
