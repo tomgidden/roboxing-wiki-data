@@ -1,6 +1,6 @@
 ==== Robox details ====
   * Robox Name: MicroCloud
-  * Location: 48.529186N, 2.662035W
+  * Location: 48.529186, 2.662035
   * Model: Kickstarter Early Bird, green
   * Head: 
   * Nozzle Heights: 
