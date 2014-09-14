@@ -14,7 +14,7 @@ To add yourself to this map, create yourself a user page and add details of your
   * Platform: OS X 10.10 Yosemite DP7
 </code>
 
-You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).  Anyway, if your page contains a line like //%%Location: 12.34N, 56.78E%%//, your page will get added to the map. You're encouraged to include any other relevant information, such as your OS, any configuration settings or tweaks you've made.
+You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).  Anyway, if your page contains a line like //%%Robox Location: 12.34N, 56.78E%%//, your page will get added to the map. You're encouraged to include any other relevant information, such as your OS, any configuration settings or tweaks you've made.
 
 ==== Users ====
    * [[user:gid]]
