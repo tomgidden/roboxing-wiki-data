@@ -1,0 +1,13 @@
+====== @gid's page ======
+
+Not much here yet!  I haven't had much luck with my Robox, as I joined the beta late and the printer hasn't really behaved itself very well.
+
+{{ :users:gid:oops1.jpg?200|This is what happens when you miscalibrate needle height}}
+
+==== Robox details ====
+  * Name: gidBOT; The Destroyer of Heads
+  * Location: 51.490N, 2.764W (Portishead, North Somerset, UK)
+  * Model: Beta, green; obtained from another backer during Beta
+  * Head: #53, Rev. 4?
+  * Nozzle Heights: 0.55, 0.80 (Extremely variable, though)
+  * Platform: OS X 10.10 Yosemite DP7
