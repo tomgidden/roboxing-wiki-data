@@ -2,7 +2,7 @@
 
 <function=usermap>
 
-To add yourself to this map, create yourself a user page and add details of your Robox to it.  To create a user page, add yourself to the list of users below using the same syntax.  Click the link and Create Page, and then add details of your printer, including the latitude and longitude.  For example:
+To add yourself to this map, create yourself a user page and add details of your Robox to it.  To create a user page, add yourself to the list of users below using the same syntax.  Click the link and Create Page, and then add a section with details of your printer, including the latitude and longitude.  For example:
 
 <code>
 ==== Robox details ====
