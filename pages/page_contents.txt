@@ -1,10 +1,10 @@
 	* [[:start|Welcome to Roboxing.com!]]
-	* [[Getting Started]]
-	* [[Things]]
-	* [[Settings]]
-	* [[Materials and Print Profiles]]
-	* [[Maintenance tips]]
-	* [[Experiments and Ideas]]
-	* [[Gallery]]
-
+	* [[:Getting Started]]
+	* [[:Things]]
+	* [[:Settings]]
+	* [[:Materials and Print Profiles]]
+	* [[:Maintenance tips]]
+	* [[:Experiments and Ideas]]
+	* [[:Gallery]]
+	* [[:User Locations]]
 
