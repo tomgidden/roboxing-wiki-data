@@ -6,8 +6,8 @@ To add yourself to this map, create yourself a user page and add details of your
 
 <code>
 ==== Robox details ====
-  * Name: Robox Of Gid
-  * Location: 51.490N, 2.764W (Portishead, North Somerset, UK)
+  * Robox Name: gidBOX
+  * Robox Location: 51.490N, 2.764W (Portishead, North Somerset, UK)
   * Model: Beta, green; obtained from another backer during Beta
   * Head: #53, Rev. 4?
   * Nozzle Heights: 0.55, 0.80 (Extremely variable, though)
