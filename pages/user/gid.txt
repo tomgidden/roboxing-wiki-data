@@ -14,7 +14,7 @@ Not much here yet!  I haven't had much luck with my Robox, as I joined the beta 
 ==== Robox details ====
   * Robox Name: gidBOT; The Destroyer of Heads
   * Location: 51.490N, 2.764W (Portishead, North Somerset, UK)
-  * Model: Beta, green; obtained from another backer during Beta
+  * Model: Beta, green; obtained from another backer, July 2014
   * Head: #53, Rev. 4?
   * Nozzle Heights: 0.55, 0.80 (Extremely variable, though)
   * Platform: OS X 10.10 Yosemite DP7
