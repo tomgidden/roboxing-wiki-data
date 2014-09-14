@@ -1,7 +1,7 @@
 ==== Robox details ====
   * Robox Name: MicroCloud
-  * Location: 48.529186, 2.662035
+  * Location: 48.529186, 2.662035 (Melun, Seine-et-Marne, FR)
   * Model: Kickstarter Early Bird, green
-  * Head: 
-  * Nozzle Heights: 
+  * Head: Foggy
+  * Nozzle Heights: 68,000 ft
   * Platform: Windows 7/8, Mac OS X Yosemite
