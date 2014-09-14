@@ -7,14 +7,16 @@ To add yourself to this map, create yourself a user page and add details of your
 <code>
 ==== Robox details ====
   * Robox Name: MyBOX
-  * Robox Location: 51.490N, 2.764W (Portishead, North Somerset, UK)
+  * Location: 51.490N, 2.764W (Portishead, North Somerset, UK)
   * Model: Kickstarter Early Bird, green
   * Head: #53, Rev. 4?
   * Nozzle Heights: 0.55, 0.80
   * Platform: Windows 8
 </code>
 
-You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).  Anyway, if your page contains a line like //%%Robox Location: 12.34N, 56.78E%%//, your page will get added to the map. You're encouraged to include any other relevant information, such as your OS, any configuration settings or tweaks you've made.
+You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).  Anyway, if your page contains a line like //%%Location: 12.34N, 56.78E%%//, your page will get added to the map. You're encouraged to include any other relevant information, such as your OS, any configuration settings or tweaks you've made.
+
+If you don't have a Robox yet but you still want to be on the map, no problem!  Just add yourself in the same way as above and just put something about not having one yet.  You'll be displayed on the map in the same way.
 
 ==== Users ====
    * [[user:gid]]
