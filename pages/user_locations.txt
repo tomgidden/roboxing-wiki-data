@@ -14,7 +14,11 @@ To add yourself to this map, create yourself a user page and add details of your
   * Platform: Windows 8
 </code>
 
-You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).  Anyway, if your page contains a line like //%%Location: 12.34N, 56.78E%%//, you'll be added to the map. You're encouraged to include any other relevant information, such as your OS, any configuration settings or tweaks you've made.
+You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).
+
+Anyway, if your page contains a line like //%%Location: 12.34N, 56.78E%%//, you'll be added to the map. If you're worried about privacy, chop a few digits off the end of your coordinates: 0.01 is about a kilometer at the equator. In most of the world, two decimal places should be enough, unless you live in the middle of nowhere!
+
+You're encouraged to include any other relevant information, such as your OS, any configuration settings or tweaks you've made.
 
 If you don't have a Robox yet but you still want to be on the map, no problem!  Just add yourself in the same way as above and just put something about not having one yet.  You'll be displayed on the map in the same way.
 
