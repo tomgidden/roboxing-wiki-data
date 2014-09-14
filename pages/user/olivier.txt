@@ -1,0 +1,7 @@
+==== Robox details ====
+  * Robox Name: MicroCloud
+  * Location: 
+  * Model: Kickstarter Early Bird, green
+  * Head: 
+  * Nozzle Heights: 
+  * Platform: Windows 7/8, Mac OS X Yosemite
