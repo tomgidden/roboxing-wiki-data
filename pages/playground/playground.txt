@@ -1,3 +1,7 @@
 {{tag> foo bar}}
 
 <function=file3>
+
+<olmap id="olMap" width="600px" height="400px" lat="52.0" lon="5.1" zoom="12" statusbar="1" toolbar="1" controls="1" poihoverstyle="1" baselyr="OpenStreetMap" gpxfile=":playground:hardlopen_gpx.gpx" geojsonfile=":playground:test.gsojson" kmlfile=":playground:mtb.kml" summary="This map shows a gpx trace, a kml trace and a dot">
+52.1,5.1,60,.8,marker-green.png,Just a spot
+</olmap>
