@@ -1,0 +1,3 @@
+{{tag> foo bar}}
+
+<function=helloWorld>
