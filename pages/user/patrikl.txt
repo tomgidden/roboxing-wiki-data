@@ -1,0 +1,7 @@
+==== Robox details ====
+  * Robox Name: MyBOX
+  * Location: 57.477N, (Just outside Gothenburg, Sweden)
+  * Model: Kickstarter Early Bird, green
+  * Head: 
+  * Nozzle Heights: 
+  * Platform: MacOS
