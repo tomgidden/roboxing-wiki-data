@@ -1,6 +1,6 @@
 ==== Robox details ====
   * Robox Name: MyBOX
-  * Location: 57.477N, 12.531E (Just outside Gothenburg, Sweden)
+  * Location: 57.785N, 12.091E (Just outside Gothenburg, Sweden)
   * Model: Kickstarter Early Bird, green
   * Head: 
   * Nozzle Heights: 
