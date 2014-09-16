@@ -1,6 +1,6 @@
 ====== @luis_bustamante ======
 
-  * Location:  19.420N, -99.172W (Mexico City, MX)
+  * Location:  19.420, -99.172 (Mexico City, MX)
   * Model: Kickstarter Beta tester, green
   * Head: #53, Rev. 4?
   * Nozzle Heights: 0.31, 0.41 
