@@ -1,6 +1,6 @@
 ==== Robox details ====
   * Robox Name: Boxy
-  * Location: 52.00N, 4.210O (Delft, Zuid Holland, NL)
+  * Location: 52.01N, 4.332O (Delft, Zuid Holland, NL)
   * Model: pre-order 1st delivery, not deliverd yet
   * Head: ?
   * Nozzle Heights: ?
