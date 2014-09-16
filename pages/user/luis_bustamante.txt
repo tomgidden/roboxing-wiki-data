@@ -1,3 +1,9 @@
 ====== @luis_bustamante ======
 
+  * Location:  19.420N, -99.172W (Mexico City, MX)
+  * Model: Kickstarter Beta tester, green
+  * Head: #53, Rev. 4?
+  * Nozzle Heights: 0.31, 0.41 
+  * Platform: Mac OS 10.10 Yosemite Public Beta 3
+
      * [[things:20 micron Buddha]]
