@@ -7,9 +7,8 @@ To add yourself to this map, create yourself a user page and add details of your
 <code>
 ==== Robox details ====
   * Robox Name: MyBOX
-  * Location: 51.490N, 2.764W (Portishead, North Somerset, UK)
+  * Location: 51.490N, 1.764E
   * Model: Kickstarter Early Bird, green
-  * Head: #53, Rev. 4?
   * Nozzle Heights: 0.55, 0.80
   * Platform: Windows 8
 </code>
