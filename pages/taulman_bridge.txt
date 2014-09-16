@@ -22,8 +22,8 @@
 
 ==== Print profiles and tweaks ====
   * Profile by [[:user:grimtech]]:  {{:settings:grimtech_-_bridge1-nylon.roboxfilament}}
-    * Forum post: [[http://www.cel-robox.com/forums/topic/taulman-bridge/#post-5986]]
     * Nozzle temperature: 245ºC
     * Bed temperature: 70ºC
     * Ambient temperature: 45ºC
     * Feed rate multiplier: 0.90
+    * Forum post: [[http://www.cel-robox.com/forums/topic/taulman-bridge/#post-5986]]
