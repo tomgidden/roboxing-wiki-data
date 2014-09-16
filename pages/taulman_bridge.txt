@@ -21,7 +21,7 @@
   * Keep it dry and sealed when not in use.
 
 ==== Print profiles and tweaks ====
-  * Profile by [[:user:grimtech]]:  {{:settings:grimtech_-_bridge1-nylon.roboxfilament}}
+  * Profile by @BHudson via [[:user:grimtech]]:  {{:settings:grimtech_-_bridge1-nylon.roboxfilament}}
     * Nozzle temperature: 245ºC
     * Bed temperature: 70ºC
     * Ambient temperature: 45ºC
