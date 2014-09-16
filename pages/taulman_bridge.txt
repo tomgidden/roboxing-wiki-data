@@ -1,0 +1,24 @@
+===== Taulman Bridge =====
+
+  * [[WP>Nylon]]
+
+==== Properties ====
+  * Easy to print;  easier than [[ABS]]
+  * Shrinkage: slightly higher than [[ABS]]: 0.6%
+  * Does not dissolve in acetone
+  * Temperature range: 217ºC (melting); 242ºC (printing)
+  * Glass transition: 52ºC
+  * Bed temperature: 30ºC - 65ºC
+  * Ambient temperature: 30ºC - 100ºC
+  * Hygroscopic: keep sealed with [[dessicants]], eg. silica gel
+  * Dyes well
+  * (...comments?)
+
+==== Availability ====
+  * Available from Taulman and local suppliers: [[http://taulman3d.com/buy-bridge.html]]
+
+==== Hints and Tips ====
+  * Keep it dry and sealed when not in use.
+
+==== Print profiles and tweaks ====
+  * Profile by [[:user:grimtech]]:  {{:settings:grimtech_-_bridge1-nylon.roboxfilament}}
