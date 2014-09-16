@@ -1,7 +1,7 @@
 ===== Taulman Bridge =====
 
   * [[WP>Nylon]]
-
+  * [[http://taulman3d.com/bridge-features.html]]
 ==== Properties ====
   * Easy to print;  easier than [[ABS]]
   * Shrinkage: slightly higher than [[ABS]]: 0.6%
