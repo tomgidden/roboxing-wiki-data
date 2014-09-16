@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Location: 45.361020, -75.741030
+  * Model: Kickstarter Production Run, green
+  * Nozzle Heights: 0.55, 0.80
+  * Platform: Windows 8.1
+
