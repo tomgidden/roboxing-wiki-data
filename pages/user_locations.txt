@@ -7,7 +7,7 @@ To add yourself to this map, create yourself a user page and add details of your
 <code>
 ==== Robox details ====
   * Robox Name: MyBOX
-  * Location: 51.490N, 1.764E
+  * Location: 48.8652N, 2.7797E
   * Model: Kickstarter Early Bird, green
   * Nozzle Heights: 0.55, 0.80
   * Platform: Windows 8
@@ -20,7 +20,6 @@ Anyway, if your page contains a line like //%%Location: 12.34N, 56.78E%%//, you'
 You're encouraged to include any other relevant information, such as your OS, any configuration settings or tweaks you've made.
 
 If you don't have a Robox yet but you still want to be on the map, no problem!  Just add yourself in the same way as above and just put something about not having one yet.  You'll be displayed on the map in the same way.
-
 ==== Users ====
    * [[:user:gid]]
    * [[:user:Olivier]]
