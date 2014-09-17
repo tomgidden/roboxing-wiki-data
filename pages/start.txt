@@ -19,6 +19,7 @@ Thanks in advance for your contributions!
 
   * [[https://robox.freshdesk.com/helpdesk|Robox Support Portal]]: including official solutions
 
+  * RSS feeds of the official forums and more:  [[http://roboxing.com/feeds.html|HTML]] [[http://roboxing.com/feeds.xml|OPML]]
 ===== Starter pages =====
 
   * [[Getting Started]]
