@@ -30,3 +30,4 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:Grimtech]]
    * [[:user:luis bustamante]]
    * [[:user:ijprest]]
+   * [[:user:thingol]]
