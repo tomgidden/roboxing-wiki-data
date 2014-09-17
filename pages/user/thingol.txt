@@ -1,0 +1,5 @@
+==== Robox details ====
+  * Robox Name: Not here yet
+  * Location: 53.278333N, 110.005W
+  * Model: Preorder wave 1
+  * Platform: Windows 7
