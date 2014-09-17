@@ -21,13 +21,14 @@ You're encouraged to include any other relevant information, such as your OS, an
 
 If you don't have a Robox yet but you still want to be on the map, no problem!  Just add yourself in the same way as above and just put something about not having one yet.  You'll be displayed on the map in the same way.
 ==== Users ====
+   * [[:user:Datman]]
    * [[:user:gid]]
-   * [[:user:Olivier]]
-   * [[:user:pelgrim]]
-   * [[:user:mikeg]]
-   * [[:user:PatrikL]]
-   * [[:user:Merlijn]]
    * [[:user:Grimtech]]
-   * [[:user:luis bustamante]]
    * [[:user:ijprest]]
+   * [[:user:luis bustamante]]
+   * [[:user:Merlijn]]
+   * [[:user:mikeg]]
+   * [[:user:Olivier]]
+   * [[:user:PatrikL]]
+   * [[:user:pelgrim]]
    * [[:user:thingol]]
