@@ -1,6 +1,6 @@
 ==== Robox details ====
   * Robox Name: Robbo
-  * Location: 33.849S, 151.203E (Portishead, North Somerset, UK)
+  * Location: 33.849S, 151.203E
   * Model: Pre-order 29-01-2014
   * Head: ?
   * Nozzle Heights: ?
