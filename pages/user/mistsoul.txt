@@ -1,0 +1,8 @@
+<code>
+==== Robox details ====
+  * Robox Name: Mr. Roboto
+  * Location: 34.0822N, 81.4036W
+  * Model: Pre-order
+  * Nozzle Heights: 
+  * Platform: Windows 7
+</code>
