@@ -1,0 +1,6 @@
+
+  * Robox Name: scribbleswd
+  * Location: 39.5343.2N, 84.11546W
+  * Model: Kickstarter Pre-Order, Green
+  * Nozzle Heights: 0.55, 0.80
+  * Platform: Windows 7
