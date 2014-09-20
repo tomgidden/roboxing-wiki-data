@@ -1,7 +1,7 @@
 ==== Robox details ====
-  * Robox Name: MicroCloud
+  * Robox Name: Genie In The Bootle
   * Location: 48.401852, 2.699838 (Seine-et-Marne, FR)
   * Model: Kickstarter Early Bird, green
-  * Head: Foggy
-  * Nozzle Heights: 68,000 ft
+  * Head: Buzzing, Always
+  * Nozzle Heights: Tall
   * Platform: Windows 7/8, Mac OS X Yosemite
