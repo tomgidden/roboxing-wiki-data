@@ -23,6 +23,7 @@ There is a sensor in the head, visible in the centre of the black plastic gantry
 
 This part of the operation calibrates this sensor:  it determines at what point the nozzle is considered to be touching.  As a result, it doesn't matter how far the nozzle is from the base, but how much upwards force is being applied to the nozzle by the bed.
 
+==== How to calibrate it well ====
 __The aim is to pick the setting where the upward force is as low as possible but still above zero.__
 
 To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of typical printer/copier paper can work.
