@@ -10,7 +10,7 @@ It is used to detect when the nozzle is touching the bed, and thus used to locat
 
 It is calibrated using the [[Calibrate Nozzle Height]] operation.
 
-It should not be confused with the [[Z+ limit sensor]], located inside the plastic frame of Robox where the gantry enters the electronics compartment, which detects when the gantry is at its highest level.
+It should not be confused with the [[Z-plus limit sensor|Z+ limit sensor]], located inside the plastic frame of Robox where the gantry enters the electronics compartment, which detects when the gantry is at its highest level.
 
 ==== Note ====
 
