@@ -1,4 +1,5 @@
 ====== 0.3mm (fine) nozzle ======
+(a.k.a "T0 nozzle", "fine nozzle")
 
 The left-side nozzle (when viewed from the front of Robox) is finer than many other printers of similar class, with a diameter of 0.3mm.  In addition, the [[needle valve]] may be used to reduce the effective diameter even further.  It is used to create the detailed exterior of models, and in some print modes it is used exclusively at the expense of speed.
 
