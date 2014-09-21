@@ -1,0 +1,13 @@
+====== Calibrate Nozzle Opening ======
+
+(Also known as //Needle valve calibration//)
+
+From the manual:  This routine is used to calibrate the point at which the needle valves in the head operate. The firmware has to know the point at which the plastic begins to flow in order to accurately control extrusion.
+
+Most 3D printers of Robox's class have an open nozzle and rely on the viscosity of the material to control the deposition of plastic.  This leads to smears and strings of molten plastic being stretched when the head moves.
+
+Robox's head, on the other hand, uses a needle valve at the point of each nozzle.  It can insert a needle into the nozzle itself to block the output of plastic precisely.  This allows greater detail and quality, and also allows Robox to use pressure to prime the head before printing.
+
+This calibration routine is used to set what constitutes "Open" and "Closed".  By asking the user if plastic is coming out of a particular nozzle, it can deduce how high to set the needle valve to allow or block flow.
+
+This routine directly changes the "B" values in the Head configuration panel.  Typically, the [[0.3mm fine nozzle]] setting will have a positive B value around +1.00, whereas the [[0.8mm fill nozzle]] will have a negative B value around -1.00.
