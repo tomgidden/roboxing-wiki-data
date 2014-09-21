@@ -26,7 +26,7 @@ This part of the operation calibrates this sensor:  it determines at what point 
 ==== How to calibrate it well ====
 __The aim is to pick the setting where the upward force is as low as possible but still above zero.__
 
-To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of typical printer/copier paper can work.
+To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of quality printer/copier paper works.
 
 __Adjust the nozzle height using the "Too tight" and "Too loose" buttons until the paper moves freely under the nozzle while still touching it. If you have it set correctly, then by pressing "Too tight" one more time the paper would move around as if the nozzle wasn't there at all.__
 
