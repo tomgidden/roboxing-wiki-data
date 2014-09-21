@@ -26,4 +26,11 @@ This is an unfinished guide of some things you should know before you get starte
    * Don't be too ambitious to start with: while the Robox is a lot more "plug-and-play" than other 3D printers, you still need some experience to pull off a really good print... at least for now, while the Robox is still being developed.  Do simple, easy, fast (small) prints to begin with and get used to it.  Otherwise you'll waste nine hours on a print that will fail right near the end and you'll want to defenestrate the Robox. Resist the urge.
 ==== Calibration ====
 
-(to be added)
+== Head calibration ==
+
+In theory, these two calibrations only need to be done once, as the settings are stored in the head itself.
+
+    * [[Calibrate Nozzle Opening]]: calibrates the point at which the needle valves in each nozzle are open/closed
+
+    * [[Calibrate Nozzle Height]]: calibrates the required parameters for Robox to be able to detect and set the correct height for each nozzle.
+
