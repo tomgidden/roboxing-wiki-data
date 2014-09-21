@@ -40,3 +40,8 @@ Once the calibration is complete, the setting is stored in the head.  It is a pr
 Both steps of the calibration routine affect the "Z" parameters in the Head's details.
 
 After calibration, the values can be manually changed by selecting [[Calibrate Nozzle Height]] and selecting "Adjust Offset Values" rather than "Recalibrate".
+
+
+
+----
+Ref: {{http://www.cel-robox.com/forums/topic/robox-3050-cannot-print-a-single-object-from-the-complementary-flashdisk/#post-6157}}
