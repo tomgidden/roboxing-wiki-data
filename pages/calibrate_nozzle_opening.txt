@@ -16,8 +16,7 @@ __When doing this calibration, there can be a situation where a tiny amount of p
 
 __It is better to set it when the tiny amount flows, rather than ignoring this.  Otherwise the nozzle may leak and drop when apparently blocked.__
 
-//[NOTE: I have **no** idea if that's correct or not... I seem to get better results if I set it when the first sign of any material flows, rather than holding out for normal flow.  Any thoughts? --[[user:gid|@gid]] ]//
-
+//[Note, I have **no** idea if the underlined parts are correct or not... I seem to get better results if I set it when the first sign of any material flows, rather than holding out for normal flow.  I would appreciate it if an experienced Robox user can confirm, or refute it. --[[user:gid|@gid]] ]//
 ==== Effect ====
 
 This directly affects whether the nozzle outputs plastic or not, and whether the nozzle leaks or not.  It may also affect extruder slippage, if the extruder is pushing against a closed nozzle it thinks is open.  It's not as subtle as other calibration settings that the effect of which may be more difficult to detect.
