@@ -2,6 +2,7 @@
 
 This is an unfinished guide of some things you should know before you get started with Robox, as well as some hints and tips along the way.
 
+[[Getting Started Wizard]]
 ==== Essentials ====
 
    * **DON'T mess with the electricals of the Robox while it's still plugged into the mains.**  While an obvious safety tip, this is actually pretty significant. [[Switch it off first|Here's why]]...
