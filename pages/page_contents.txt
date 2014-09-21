@@ -1,6 +1,6 @@
 	* [[:start|Welcome to Roboxing.com!]]
 	* [[:Getting Started]]
-        * [[:Wizards]]
+	* [[:Wizards]]
 	* [[:Things]]
 	* [[:Settings]]
 	* [[:Materials and Print Profiles]]
@@ -8,4 +8,3 @@
 	* [[:Experiments and Ideas]]
 	* [[:Gallery]]
 	* [[:User Locations]]
-
