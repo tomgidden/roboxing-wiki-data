@@ -10,6 +10,7 @@ When changing between two different materials, it's vital to clean out the old m
 
 To do this, the Purge Material function allows you to pick a temperature between the ideal temperatures of the two materials so it'll melt the new material enough to work, but not high enough to burn the old material.
 
+As (for example) PLA will degrade and burn at the temperature used for printing PLA, it's highly recommended you purge materials AT LEAST once before proceeding with ABS.  If the two materials are of different colours, this is made a little easier to check.  If switching between two materials of the same colour, it might even be worth purging it once with an intermediate filament of a different colour.
 ==== As a diagnostic ====
 
 If everything works well, you should see seven rows of filament: three thick lines done with the [[fill nozzle]], and four thin lines done with the [[fine nozzle]].  The thick lines will be straight, but if working absolutely perfectly, there's a tendency for the thin lines to form tight spirals/squiggles.
