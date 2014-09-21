@@ -23,11 +23,13 @@ There is a sensor in the head, visible in the centre of the black plastic gantry
 
 This part of the operation calibrates this sensor:  it determines at what point the nozzle is considered to be touching.  As a result, it doesn't matter how far the nozzle is from the base, but how much upwards force is being applied to the nozzle by the bed.
 
-The aim is to pick the setting where the upward force is as low as possible but still above zero.
+__The aim is to pick the setting where the upward force is as low as possible but still above zero.__
 
 To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of typical printer/copier paper can work.
 
-Adjust the nozzle height using the "Too tight" and "Too loose" buttons until the paper moves freely under the nozzle while still touching it. If you have it set correctly, then by pressing "Too tight" one more time the paper should move around as if the nozzle isn't there.
+__Adjust the nozzle height using the "Too tight" and "Too loose" buttons until the paper moves freely under the nozzle while still touching it. If you have it set correctly, then by pressing "Too tight" one more time the paper would move around as if the nozzle wasn't there at all.__((//This is quite subjective. I've underlined parts that I'm not totally sure about, and would appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]]//))
+
+
 
 ==== How it's used ====
 
