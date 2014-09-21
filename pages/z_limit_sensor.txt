@@ -1,0 +1,17 @@
+====== Z limit sensor ======
+
+Robox's head is supported mainly by the bottom gantry bar which it can pivot on, tipping forward to touch the bed. It is limited by touching against the top gantry bar.
+
+As the gantry lowers and the head touches the bed, the head is pushed upwards, pivoting on the bottom gantry bar. This reduces the pressure the head has on the top gantry bar, as the base is supporting the weight of the head rather than the top gantry bar.
+
+There is a sensor in the head, visible in the centre of the black plastic gantry holder directly behind the top bar. This is the Z limit sensor.
+
+It is used to detect when the nozzle is touching the bed, and thus used to locate the height of the nozzle precisely.
+
+It is calibrated using the [[Calibrate Nozzle Height]] operation.
+
+It should not be confused with the [[Z+ limit sensor]], located inside the plastic frame of Robox where the gantry enters the electronics compartment, which detects when the gantry is at its highest level.
+
+==== Note ====
+
+[[:user:BHudson]] has reported improved accuracy from the Z limit sensor by wiping the top gantry bar clean before every print.
