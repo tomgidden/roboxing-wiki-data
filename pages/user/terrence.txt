@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: terrence
+  * Location: -33.90351,18.55765
+  * Model: Kickstarter Early Bird, green
+  * Nozzle Heights: 0.56, 0.66
+  * Platform: Windows 7 x64
