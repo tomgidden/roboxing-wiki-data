@@ -10,4 +10,16 @@ Robox's head, on the other hand, uses a needle valve at the point of each nozzle
 
 This calibration routine is used to set what constitutes "Open" and "Closed".  By asking the user if plastic is coming out of a particular nozzle, it can deduce how high to set the needle valve to allow or block flow.
 
+==== What constitutes "flowing"? ====
+
+When doing this calibration, there can be a situation where a tiny amount of plastic flows but an additional step would release a more normal flow.
+
+It is better to set it when the tiny amount flows, rather than ignoring this.  Otherwise the nozzle may leak and drop when apparently blocked.
+
+//[NOTE: I have **no** idea if that's correct or not... I get better results if I set it when the first sign of any material flows, rather than holding out for normal flow.  Any thoughts? --[[user:gid|@gid]] ]//
+
+==== Effect ====
+
+This directly affects whether the nozzle outputs plastic or not, and whether the nozzle leaks or not.  It may also affect extruder slippage, if the extruder is pushing against a closed nozzle it thinks is open.  It's not as subtle as other calibration settings that the effect of which may be more difficult to detect.
+
 This routine directly changes the "B" values in the Head configuration panel.  Typically, the [[0.3mm fine nozzle]] setting will have a positive B value around +1.00, whereas the [[0.8mm fill nozzle]] will have a negative B value around -1.00.
