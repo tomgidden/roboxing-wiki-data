@@ -1,0 +1,7 @@
+====== Settings: Nozzle (1st layer) ======
+
+    * Default setting: ?
+    * Options: [[0.3mm fine nozzle]], [[0.8mm fill nozzle]]
+===== Description =====
+The target temperature of the nozzle for the first layer.  Materials will often adhere to the bed better at higher temperatures, but subsequent layers may print better at a lower temperature.
+
