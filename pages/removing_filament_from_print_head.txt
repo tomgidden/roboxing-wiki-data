@@ -1,0 +1,12 @@
+====== Removing filament from print head ======
+
+
+{{ ::clarkegn_-_broken-off_filament_2014-09-20_11.20.13.jpg?200|}}
+
+If the filament has broken off just inside the print head and there's not enough to get a grip to remove it, @[[:user:bespokeproductdesign]] has an ingenious tip:
+
+{{ ::bespokeproductdesign_-_needle_fix_imag1133.jpg?200|}}
+
+  * If you heat up a needle and carefully push it into the center of the filament (not too deep). Let the needle cool for a minute or two then it may pull out.  -- {{http://www.cel-robox.com/forums/topic/material-ejection-failure-and-more/#post-6408}}
+
+This is used in conjunction with the "[[Manual Purge]]" operation.
