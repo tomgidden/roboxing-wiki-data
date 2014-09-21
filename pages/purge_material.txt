@@ -1,0 +1,29 @@
+====== Purge Material ======
+
+(a.k.a. making squiggles)
+
+The Maintenance panel of AutoMaker contains a button to activate the Purge Material function.  This can be used to clear old material from the head safely when changing materials, and also to perform a basic diagnostic to confirm the nozzles and extruder are working correctly.
+
+==== For changing material ====
+
+When changing between two different materials, it's vital to clean out the old material before printing with the new, especially when the new material has a higher working temperature that may burn or degrade the old material.
+
+To do this, the Purge Material function allows you to pick a temperature between the ideal temperatures of the two materials so it'll melt the new material enough to work, but not high enough to burn the old material.
+
+==== As a diagnostic ====
+
+If everything works well, you should see seven rows of filament: three thick lines done with the [[fill nozzle]], and four thin lines done with the [[fine nozzle]].  The thick lines will be straight, but if working absolutely perfectly, there's a tendency for the thin lines to form tight spirals/squiggles.
+
+At the ends of each lines, a large blob of plastic will be deposited to keep the line adhered.
+
+The idea is that the filament should come out of the nozzle at the same speed (or slightly higher) than the head is moving. As a result, the lines do not need to adhere to the bed, and in fact, they're not expected to.  If the line doesn't stay put, it may be because flow is lower than it should be -- possibly due to a blockage, or an extruder problem -- and so the head's moving faster than the filament, thereby yanking away the line as it draws.
+
+== For example ==
+
+{{ ::gid_-_purge_material_-_img_3721.jpg?200|}}The image here shows a Purge Material step with PLA on a Beta-test Robox.
+
+As the lines are all in place, it's clear that the material is flowing fast enough and the extruder is working well.
+
+The bottom row was intentionally done with the bed unclipped slightly at the bottom left.  As a result, the nozzle dragged along the surface of the bed rather than above it.
+
+The fine squiggles on the third and fifth rows down from the top are good.  The wild uncontrolled loops are of interest, but probably don't indicate anything bad.  However, in this example it might be worth checking the fine nozzle opening point.
