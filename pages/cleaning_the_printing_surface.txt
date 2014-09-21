@@ -1,6 +1,6 @@
 ====== Cleaning the printing surface ======
 
-The print bed is made of [[wp>Polyetherimide]] or PEI for short.
+The [[Print bed|print bed]] is made of [[wp>Polyetherimide]] or PEI for short.
 
 As tempting as it sounds to clean off smeared ABS plastic with Acetone (nail varnish remover): **DON'T**. It'll dissolve the PEI just as well as the ABS.
 
