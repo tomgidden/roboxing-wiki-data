@@ -1,4 +1,5 @@
 ====== 0.8mm (fill) nozzle ======
+(a.k.a T1 nozzle, coarse nozzle, fill nozzle)
 
 The right-side nozzle (when viewed from the front of Robox) is coarser than many other printers of similar class, with a diameter of 0.8mm.  It is used to fill the inside of models quickly in some print modes, as well as laying down the first layer with some materials that may have more difficulty sticking to the PEI-based [[print bed]].  It is also used exclusively when printing a model in "[[Draft mode]]".
 
