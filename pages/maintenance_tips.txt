@@ -1,0 +1,4 @@
+===== Maintenance Tips =====
+
+    * [[Cleaning the printing surface]]
+    * [[Removing filament from print head]]
