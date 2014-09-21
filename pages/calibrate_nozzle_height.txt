@@ -28,7 +28,9 @@ __The aim is to pick the setting where the upward force is as low as possible bu
 
 __To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of quality printer/copier paper works, but make sure the heat of the bed doesn't curl the paper: for a good reading, the sheet needs to be perfectly flat.__
 
-__Adjust the nozzle height using the "Too tight" button until the paper moves freely under the nozzle while still touching it. Then press "Too tight" so the paper moves without the nozzle touching it at all: such that pressing "Too tight" any more would make no difference. Then press "Too loose" so you can feel the nozzle scrape very lightly against the paper surface as it moves.__
+__Adjust the nozzle height using the "Too tight" button until the paper moves freely under the nozzle while still touching it. Then press "Too tight" again as few times as possible so the paper moves without the nozzle touching it at all: such that pressing "Too tight" any more would make no difference. Then press "Too loose" once so you can feel the nozzle scrape very lightly against the paper surface as it moves.__
+
+__Basically find the boundary between non-touching and touching, and set the nozzle one step on the tight side of that boundary.__
 
 __That should the highest the nozzle can be while still touching the paper.__
 
