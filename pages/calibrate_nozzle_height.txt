@@ -27,7 +27,9 @@ __The aim is to pick the setting where the upward force is as low as possible bu
 
 To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of typical printer/copier paper can work.
 
-__Adjust the nozzle height using the "Too tight" and "Too loose" buttons until the paper moves freely under the nozzle while still touching it. If you have it set correctly, then by pressing "Too tight" one more time the paper would move around as if the nozzle wasn't there at all.__((//This is quite subjective. I've underlined parts that I'm not totally sure about, and would appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]]//))
+__Adjust the nozzle height using the "Too tight" and "Too loose" buttons until the paper moves freely under the nozzle while still touching it. If you have it set correctly, then by pressing "Too tight" one more time the paper would move around as if the nozzle wasn't there at all.__
+
+//[ Note, this is quite subjective. I've underlined parts that I'm not totally sure about, and would appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]] ]//
 
 
 
