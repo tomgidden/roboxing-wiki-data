@@ -1,0 +1,15 @@
+====== Manual Purge ======
+
+As described in the FreshDesk article {{https://robox.freshdesk.com/support/solutions/articles/1000074670-manual}}, this operation can be used if purging using the AutoMaker software fails, either using the automatic "[[Purge Material]]" operation, or the manual process of opening the nozzles and advancing the filament.
+
+The idea is that you set the software to heat the head up, and then as quickly as you can, **switch off and disconnect the Robox**, unscrew and remove the head, and then push filament into the head by hand until the nozzle is unblocked, or the head cools down.  If you need to do this, it's quite common to have to do it more than once.
+
+It's tricky, risky and tedious:
+
+  * You have to be quite quick about it.  The head cools down fast.
+  * You HAVE to be careful about it.  Removing the head without taking the correct precautions can kill the head.
+  * You HAVE to be careful not to burn yourself: you'll be handling the nozzle at 200ºC and above, in a hurry.
+  * You have to make sure you're prepared before doing it: make sure the filament to push is ready and you have the right tools.
+  * You have to remember to leave the correct nozzle selected and open in the software before removing the head.
+
+The process can be quite effective, but shouldn't be necessary with normal usage.
