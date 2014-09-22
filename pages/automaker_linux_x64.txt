@@ -15,3 +15,5 @@ If you get "Fatal Error - 3D Not Available On This Machine", you need to proceed
   * open a Terminal and run this script to open AutoMaker
 
 If something is wrong, you can find help in the [[wizards|Wizards]]
+
+Next step: [[Unboxing Robox|Unboxing Robox]]
