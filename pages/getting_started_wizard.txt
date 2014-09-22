@@ -1,3 +1,13 @@
 Getting Started Wizard: a step by step guide to setup your hardware and software for the first time.
 
 **Installation of Automaker**
+
+Download the right Automaker [[http://www.cel-robox.com/technical/downloads/|CEL download page]]
+
+Intructions for your Operating System:
+
+^Windows  |  |
+^Mac OSX  |  |
+^Linux x86 (32 bit)  |  |
+^Linux x64 (64 bit)  | [[Automaker Linux X64|Automaker Linux X64]] |
+
