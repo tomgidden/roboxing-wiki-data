@@ -6,8 +6,9 @@ How to Install Oracle Java 8 (JDK 8u20) In Ubuntu & LinuxMint Via PPA]]
   * copy your AutoMakerxxxxxx.x64-installer.run file to the installation map. (/home, I prefer /opt)
   * make your AutoMakerxxxxxx.x64-installer.run executable
   * run the installer
-  * download GraphicsOverrideLinux.zip and extract GraphicsOverrideLinux.sh.
+  * download {{:graphicsoverridelinux.zip|}} and extract GraphicsOverrideLinux.sh.
   * make GraphicsOverrideLinux.sh executable
+  * copy GraphicsOverrideLinux.sh to the CEL/Automaker map
   * open a Terminal and run this script.
 
 If all goes well, you will find in your install map CEL/AutoMaker/Automaker.run
