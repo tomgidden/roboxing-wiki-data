@@ -1,3 +1,4 @@
+  * Install Java 1.8 (last update sept 2014, is subject to change)
   * Download Automaker for Linux X64
   * Check your Grafic drivers, it is recommended to use factory drivers, not the auto-installed generic drivers.
   * copy your AutoMakerxxxxxx.x64-installer.run file to the installation map. (/home, I prefer /opt)
