@@ -5,12 +5,13 @@ How to Install Oracle Java 8 (JDK 8u20) In Ubuntu & LinuxMint Via PPA]]
   * Check your **Grafic drivers**, it is recommended to use factory drivers, not the auto-installed generic drivers.
   * copy your AutoMakerxxxxxx.x64-installer.run file to the installation map. (/home, I prefer /opt)
   * make your AutoMakerxxxxxx.x64-installer.run executable
-  * **run the installe**r
+  * **run the installer**
+If all goes well, you will find in your install map CEL/AutoMaker/Automaker.run
+If you can run things without Error message, you're done here.
+If you get "Fatal Error - 3D Not Available On This Machine", you need to proceed with next steps
   * download {{:graphicsoverridelinux.zip|}} and extract **GraphicsOverrideLinux.sh**.
   * make GraphicsOverrideLinux.sh executable
   * copy GraphicsOverrideLinux.sh to the CEL/Automaker map
-  * open a Terminal and run this script.
-
-If all goes well, you will find in your install map CEL/AutoMaker/Automaker.run
+  * open a Terminal and run this script to open AutoMaker
 
 If something is wrong, you can find help in the [[wizards|Wizards]]
