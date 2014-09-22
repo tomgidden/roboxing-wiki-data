@@ -6,4 +6,6 @@ If you've got something to show off, create a page here for yourself and link it
 
    *  [[user:gid|Tom Gidden (@gid)]]
 
+   *  [[user:Grimtech|Ross (@Grimtech)]]
+
 Upload photos, models, details of what settings you used, and so forth.
