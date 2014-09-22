@@ -1,15 +1,16 @@
-  * Install Java 1.8 (last update sept 2014, is subject to change)
+  * Install **Java 1.8** (last update sept 2014, is subject to change)
 Instructions: [[http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/|
 How to Install Oracle Java 8 (JDK 8u20) In Ubuntu & LinuxMint Via PPA]]
-  * Download Automaker for Linux X64
-  * Check your Grafic drivers, it is recommended to use factory drivers, not the auto-installed generic drivers.
+  * Download **Automaker for Linux X64**
+  * Check your **Grafic drivers**, it is recommended to use factory drivers, not the auto-installed generic drivers.
   * copy your AutoMakerxxxxxx.x64-installer.run file to the installation map. (/home, I prefer /opt)
   * make your AutoMakerxxxxxx.x64-installer.run executable
-  * run the installer
-  * download {{:graphicsoverridelinux.zip|}} and extract GraphicsOverrideLinux.sh.
+  * **run the installe**r
+  * download {{:graphicsoverridelinux.zip|}} and extract **GraphicsOverrideLinux.sh**.
   * make GraphicsOverrideLinux.sh executable
   * copy GraphicsOverrideLinux.sh to the CEL/Automaker map
   * open a Terminal and run this script.
 
 If all goes well, you will find in your install map CEL/AutoMaker/Automaker.run
+
 If something is wrong, you can find help in the [[wizards|Wizards]]
