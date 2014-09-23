@@ -42,7 +42,7 @@ The routine that actually tests how high the nozzle is above the print bed is do
 
 ==== Completion ====
 
-Once the calibration is complete, the setting is stored in the head.  __It is a property of the head itself, although removing the head will require re-calibration as the head location may have moved. //-- Is this correct?  --[[user:gid|@gid]]//__
+Once the calibration is complete, the setting is stored in the head.  __It is a property of the head itself, although removing the head will require re-calibration as the head location may have moved.__ //[-- Is this correct?  --[[user:gid|@gid]]]//
 
 Both steps of the calibration routine affect the "Z" parameters in the Head's details.
 
