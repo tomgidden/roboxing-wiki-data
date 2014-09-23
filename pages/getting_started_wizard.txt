@@ -4,6 +4,8 @@ Getting Started Wizard: a step by step guide to setup your hardware and software
 
 Download the right Automaker [[http://www.cel-robox.com/technical/downloads/|CEL download page]]
 
+Make sure you read this article on the official CEL pages: [[https://robox.freshdesk.com/support/solutions/articles/1000057967-installing-automaker-for-the-first|Installing automaker for the first]]
+
 Intructions for your Operating System:
 
 ^Windows  |  |
