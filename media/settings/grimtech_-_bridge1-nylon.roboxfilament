@@ -1,0 +1,14 @@
+#Robox data
+#Wed Aug 20 09:12:57 MST 2014
+name=Bridge1
+diameter_mm=1.75
+display_colour=\#FFFFFF
+nozzle_temperature_C=245
+first_layer_nozzle_temperature_C=245
+ambient_temperature_C=45
+first_layer_bed_temperature_C=70
+material=Nylon
+bed_temperature_C=70
+feed_rate_multiplier=0.90
+reelID=Ua554c11e73944e
+filament_multiplier=1.00
