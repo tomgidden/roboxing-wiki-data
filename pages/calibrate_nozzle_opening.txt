@@ -14,7 +14,7 @@ This calibration routine is used to set what constitutes "Open" and "Closed".  B
 
 When doing this calibration, there can be a situation where a tiny amount of plastic flows but an additional step would release a more normal flow.
 
-It is better to set it when the tiny amount flows, rather than ignoring this.  Otherwise the nozzle may leak and drip when apparently blocked, and may leave strings of plastic.
+It is better to set it when the tiny amount starts coming out of the nozzle, rather than calibrating for full flow.  Otherwise the nozzle may leak and drip when apparently blocked, and may leave strings of plastic.
 ==== Effect ====
 
 This directly affects whether the nozzle outputs plastic or not, and whether the nozzle leaks or not.  It may also affect extruder slippage, if the extruder is pushing against a closed nozzle it thinks is open.  It's not as subtle as other calibration settings that the effect of which may be more difficult to detect.
