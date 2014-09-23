@@ -1,0 +1,7 @@
+====== Settings: Nozzles - Solid infill ======
+
+    * Default setting: ?
+
+===== Description =====
+The nozzle used to fill solid layers inside the object.
+

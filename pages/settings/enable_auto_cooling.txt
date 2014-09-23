@@ -1,0 +1,6 @@
+====== Settings: Enable auto cooling ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

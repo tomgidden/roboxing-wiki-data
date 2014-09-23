@@ -1,0 +1,6 @@
+====== Settings: Support Pattern spacing ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

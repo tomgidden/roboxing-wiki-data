@@ -1,0 +1,6 @@
+====== Settings: Forced support for first layers ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

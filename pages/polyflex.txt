@@ -1,0 +1,12 @@
+===== PolyFlex =====
+
+     * by [[PolyMakr]] :  [[http://www.polymakr.com/web/about.html]]
+
+      * [[https://www.kickstarter.com/projects/1981875718/polymakr-entirely-new-materials-for-desktop-3d-pri|Kickstarter]] (est. Jul 2014 - overdue)
+   
+   
+==== Compatibility ====
+
+    * [[http://polymakr.com/blog/?p=35]].
+
+    * The Robox does use a Bowden tube, but not in a conventional way, in that it terminates with needle valves which may or may not have benefits.  Robox also has a fully enclosed dual-pinch extruder, which may help.

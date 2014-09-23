@@ -1,0 +1,6 @@
+===== PVOH =====
+
+* [[wp>https://en.wikipedia.org/wiki/Polyvinyl_alcohol]]  Better to call it PVOH - Poly(Ethenol) - rather than PVA, to avoid confusion with the related [[wp>Polyvinyl_acetate]], a.k.a PVA Glue / Elmer's Glue / wood glue.
+
+* Can be dissolved in water, so is a good candidate for support material.
+

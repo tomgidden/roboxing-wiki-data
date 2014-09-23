@@ -1,0 +1,6 @@
+====== Settings: Intermediate valve position ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

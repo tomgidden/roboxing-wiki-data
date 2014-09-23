@@ -1,0 +1,7 @@
+====== Settings: Layer height ======
+
+    * Default setting: ?
+
+===== Description =====
+Defines the height of every layer.  Robox is designed to print with layers as small as 0.02mm (20 microns) for the best quality, but the thicker the layer, the faster the print.
+

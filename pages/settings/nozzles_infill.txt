@@ -1,0 +1,7 @@
+====== Settings: Nozzles - Infill ======
+
+    * Default setting: ?
+
+===== Description =====
+The nozzle used to fill the interior of the object.  This is often the fill nozzle (0.8mm) for speed and strength.
+

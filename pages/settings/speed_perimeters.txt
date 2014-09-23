@@ -1,0 +1,7 @@
+====== Settings: Speed - Perimeters ======
+
+    * Default setting: ?
+
+===== Description =====
+The speed at which the outer shell of the object will be printed at
+

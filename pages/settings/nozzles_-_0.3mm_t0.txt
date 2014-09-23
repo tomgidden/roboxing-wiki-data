@@ -1,0 +1,6 @@
+====== Settings: Nozzles - 0.3mm T0 ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

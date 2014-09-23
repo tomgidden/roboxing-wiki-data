@@ -1,0 +1,6 @@
+====== Settings: Enable fan if layer time ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

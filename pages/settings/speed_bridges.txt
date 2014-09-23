@@ -1,0 +1,7 @@
+====== Settings: Speed - Bridges ======
+
+    * Default setting: ?
+
+===== Description =====
+The speed for printing bridges (sectors in a print that are not directly printed on underlaying layers
+

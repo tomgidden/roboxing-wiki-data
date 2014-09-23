@@ -1,0 +1,7 @@
+====== Settings: Speed - Small perimeters ======
+
+    * Default setting: ?
+
+===== Description =====
+The speed at which the perimeters of inner gaps or holes will be printed at
+

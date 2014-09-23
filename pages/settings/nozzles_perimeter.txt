@@ -1,0 +1,7 @@
+====== Settings: Nozzles - Perimeter ======
+
+    * Default setting: ?
+
+===== Description =====
+The nozzle used to print the outside track of the object.  While the object may be filled coarsely with the fill nozzle (0.8mm), the outside can be printed with the fine nozzle (0.3mm) for better quality.  
+

@@ -1,0 +1,25 @@
+===== PLA =====
+
+  * [[WP>Polylactic Acid]]
+
+==== Properties ====
+  * Easy to print;  easier than [[ABS]]
+  * Does not shrink
+  * Fair all-rounder
+  * Harder than ABS
+  * Burns cleanly; useful for casting
+  * Bio-degradable, although not that easily
+  * Does not dissolve in acetone
+  * Temperature range: 180ºC-230ºC depending on brand.
+  * Hygroscopic: keep sealed with [[dessicants]], eg. silica gel
+
+==== Availability ====
+
+  * Widely available
+  * Also available on officially-supported Robox Reel direct from CEL: [[http://robox.cel-uk.com/filament/pla-filament.html]]
+
+==== Hints and Tips ====
+  * Keep it dry and sealed when not in use.
+
+==== Print profiles and tweaks ====
+  * Standard Robox profiles

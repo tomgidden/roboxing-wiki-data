@@ -1,0 +1,7 @@
+====== Settings: Solid layers at top ======
+
+    * Default setting: ?
+
+===== Description =====
+The amount of layers that will be completely filled at the top of a surface.
+

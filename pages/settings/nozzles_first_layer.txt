@@ -1,0 +1,7 @@
+====== Settings: Nozzles - First layer ======
+
+    * Default setting: ?
+
+===== Description =====
+The nozzle used to print the first layer.  There may be some benefits to using the fill nozzle (0.8mm) for the first layer even if the rest of the print is done with the fine nozzle (0.3mm):  the first layer is the most difficult and most critical, and the fill nozzle produces thicker, less delicate tracks.
+

@@ -1,0 +1,6 @@
+====== Settings: Speed - External perimeters ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

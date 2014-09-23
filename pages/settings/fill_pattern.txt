@@ -1,0 +1,7 @@
+====== Settings: Fill pattern ======
+
+    * Default setting: ?
+
+===== Description =====
+The pattern to use to fill the inside of the object.  "Linear" is the fastest and most common, whereas other fill patterns may be stronger at the expense of speed.  Some patterns will increase strength uniformly or differently by axis.
+

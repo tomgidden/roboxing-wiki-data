@@ -1,0 +1,6 @@
+====== Settings: Go slow if layer time ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

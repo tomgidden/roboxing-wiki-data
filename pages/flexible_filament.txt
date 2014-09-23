@@ -1,0 +1,25 @@
+===== Flexible Filament =====
+
+(These pages are just stubs for now... @BHudson? @magelan? )
+
+==== Discussions ====
+   * http://www.cel-robox.com/groups/robox-beta-phase-1/forum/topic/rubber-filament-2/  [β]
+
+   * http://www.cel-robox.com/forums/topic/optimised-set-up-for-flexible-material/
+
+   * http://www.cel-robox.com/forums/topic/new-ks-project-to-create-flexible-material/
+
+==== Materials ====
+   * [[NinjaFlex]]: Available, but unsuccessful in Robox beta
+
+   * [[Zen Toolworks Flexible Filament]]: (est. Oct 2014)
+
+   * [[PolyFlex]] by [[Polymakr]]:
+
+==== Status ====
+
+@magelan and others have tried [[NinjaFlex]] flexible filament and have been unsuccessful, apparently due to the convoluted feed path and Bowden tube arrangement when combined with a soft and high-friction filament.
+
+@BHudson has considered options for either a replacement drive/extruder at the head to pull filament rather than push; or an auxiliary drive at the head to supplement the push from the main extruder.
+
+CEL have ordered some flexible filament ([[NinjaFlex]]) for experimentation. 

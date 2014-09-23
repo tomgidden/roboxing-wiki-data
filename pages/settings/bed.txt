@@ -1,0 +1,7 @@
+====== Settings: Bed ======
+
+    * Default setting: ?
+
+===== Description =====
+The target temperature of the bed, except for [[settings:Bed (1st layer)|the first layer]]
+

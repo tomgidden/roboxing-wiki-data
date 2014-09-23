@@ -1,0 +1,6 @@
+====== Settings: Partial open value ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

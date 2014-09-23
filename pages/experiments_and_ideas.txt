@@ -1,0 +1,15 @@
+===== Experiments and Ideas =====
+
+While we're meant to be concentrating on the out-of-the-box capabilities of Robox, the flexibility of the platform makes thinking up new ways to use it irresistible.  If you've got any ideas -- either already on the roadmap, or totally new -- create a page and discuss them here!
+
+Also, if you're using Robox in an interesting way, here's a good place to tell us about it.
+
+       * [[Flexible Filament]]
+
+       * [[Making silicone molds]]
+
+       * [[Laser Cutter]]
+
+       * [[CNC milling]]
+
+       * ...?

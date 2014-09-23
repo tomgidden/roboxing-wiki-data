@@ -1,0 +1,7 @@
+====== Settings: Ambient ======
+
+    * Default setting: ?
+
+===== Description =====
+The target ambient temperature of the build space for printing.  To reduce distortion, the object should cool slowly and evenly. Robox will activate the main fan to try to regulate the temperature inside the printer accordingly.
+

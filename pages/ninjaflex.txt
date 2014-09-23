@@ -1,0 +1,14 @@
+===== NinjaFlex =====
+
+Flexible / rubbery filament.
+==== Status ====
+
+   * Currently unsuccessful in Robox beta due to feed path, loading, extrusion. Tested by @magelan
+   * Unknown print profiles
+   * See Experiments:[[Flexible Filament]]
+
+==== Availability ====
+       * [[http://www.fennerdrives.com/ninjaflex3dprinting/_/3d//]]
+       * [[http://www.lulzbot.com/ninjaflex]]
+       * [[http://www.makergeeks.com/ninja-flex-pla.html]]
+       * [[http://www.adafruit.com/products/1690]]

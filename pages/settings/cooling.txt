@@ -1,0 +1,6 @@
+====== Settings: Cooling ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

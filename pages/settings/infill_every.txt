@@ -1,0 +1,7 @@
+====== Settings: Infill every ======
+
+    * Default setting: ?
+
+===== Description =====
+Determines how many layers should be filled in: typically 1, but if increased, then some layers won't be filled at all, speeding up printing and decreasing weight and material at the expense of strength.
+

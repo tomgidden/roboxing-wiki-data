@@ -1,0 +1,7 @@
+====== Settings: Speed - Top solid infill ======
+
+    * Default setting: ?
+
+===== Description =====
+The speed for filling solid layers at the top of a print
+

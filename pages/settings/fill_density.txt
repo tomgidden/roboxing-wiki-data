@@ -1,0 +1,7 @@
+====== Settings: Fill density ======
+
+    * Default setting: ?
+
+===== Description =====
+The amount of infill to be used when filling the internal space in your object. For a solid object, use 1.0. Typically, 0.4 (40% filled) is adequate.
+

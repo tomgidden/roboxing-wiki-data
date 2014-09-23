@@ -1,0 +1,7 @@
+===== Zen Toolworks Flexible Filament =====
+
+   * Estimated Oct 2014
+   * [[http://www.zentoolworks.com]]
+   * [[https://www.kickstarter.com/projects/zentoolworks/zen-toolworks-flexible-3d-printing-filament|Kickstarter]] 
+
+   * See Experiments:[[Flexible Filament]]

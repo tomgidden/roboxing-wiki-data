@@ -1,0 +1,7 @@
+====== Settings: Nozzle ======
+
+    * Default setting: ?
+
+===== Description =====
+The target temperature of the nozzle, except for [[settings:Nozzle (1st layer)|the first layer]]
+

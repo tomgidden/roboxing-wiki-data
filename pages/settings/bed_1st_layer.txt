@@ -1,0 +1,7 @@
+====== Settings: Bed (1st layer) ======
+
+    * Default setting: ?
+
+===== Description =====
+The target temperature of the bed for the first layer.  Some materials benefit from a hotter bed when laying down the initial layers, but to cool down subsequently so the layers stay fixed.
+

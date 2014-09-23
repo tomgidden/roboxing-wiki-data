@@ -1,0 +1,16 @@
+===== Twisted Bottle Of Doom™ =====
+
+This model has thin walls, so proves a challenge for the printer at the moment.
+
+{{:things:twisted_bottle_mm.stl|}}
+
+===== About this model =====
+
+The Twisted Bottle was suggested by @Restart as a good test model as StrataSys send it out as samples of their printers' output: [[http://www.cel-robox.com/forums/topic/standard-test-sample/]]
+
+The "original" model: [[http://www.thingiverse.com/thing:12278]]
+
+There is another version of the bottle with more uniform walls that may print better:  [[http://www.thingiverse.com/thing:80880]]
+===== Printing tips =====
+
+?

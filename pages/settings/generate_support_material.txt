@@ -1,0 +1,6 @@
+====== Settings: Generate support material ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

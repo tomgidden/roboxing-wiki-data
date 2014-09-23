@@ -1,0 +1,7 @@
+====== Settings: Number of perimeters ======
+
+    * Default setting: ?
+
+===== Description =====
+The number of tracks on the outer surface of a print.  When [[settings:Fill density|fill density]] is less than 1, the object is partially hollow, and usually filled with the fill nozzle (0.8mm).  However, the exterior can be printed with the fine nozzle (0.3mm), increasing detail quality.  The number of perimeters determines how thick the detailed outer wall should be.
+

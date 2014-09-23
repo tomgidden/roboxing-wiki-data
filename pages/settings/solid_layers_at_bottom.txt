@@ -1,0 +1,7 @@
+====== Settings: Solid layers at bottom ======
+
+    * Default setting: ?
+
+===== Description =====
+The amount of layers that will be completely filled at the bottom of an object.
+

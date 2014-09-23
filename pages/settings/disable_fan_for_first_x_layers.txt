@@ -1,0 +1,6 @@
+====== Settings: Disable fan for first x layers ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)

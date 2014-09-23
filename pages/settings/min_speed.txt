@@ -1,0 +1,6 @@
+====== Settings: Min speed ======
+
+    * Default setting: ?
+
+===== Description =====
+(to be added)
