@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: One
+  * Location: 33.391981N, 111.888439W
+  * Model: Kickstarter Early Bird, green
+  * Nozzle Heights: ??
+  * Platform: Windows 7 Pro, Windows 8.1
