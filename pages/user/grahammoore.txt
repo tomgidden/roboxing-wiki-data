@@ -3,4 +3,4 @@
   * Location: 51.0796N, -0.2903E
   * Model: Kickstarter, green
   * Nozzle Heights: 0.55, 0.80
-  * Platform: Windows 8
+  * Platform: Windows 8 x64
