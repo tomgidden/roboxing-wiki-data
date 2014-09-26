@@ -1,0 +1,46 @@
+====== Making the forums legible ======
+
+At this time the stylesheets on the official forums makes the text fairly unreadable on some systems, especially Mac.
+
+While @Pete at CEL has tried to fix this, the stylesheets are fairly convoluted, and it's a low-priority issue at the moment.  In the meantime, you can override the styles by using a browser plugin such as [[http://userstyles.org|Stylish]]: [[https://extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45|for Safari]], [[https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe|for Chrome]], [[https://addons.mozilla.org/en-US/firefox/addon/stylish/|for Firefox]]
+
+Set up a style for domain cel-robox.com with the code:
+
+<code>
+.bbp-reply-content, bold, strong, b {
+font-weight: bold;
+color:black;
+}
+#bbpress-forums .bbp-topic-content ul.bbp-topic-revision-log,
+#bbpress-forums .bbp-reply-content ul.bbp-topic-revision-log,
+#bbpress-forums .bbp-reply-content ul.bbp-reply-revision-log {
+color: inherit;
+}
+#bbpress-forums div.even,
+#bbpress-forums ul.even,
+#bbpress-forums div.odd,
+#bbpress-forums ul.odd {
+font-size:16px !important;
+color: black;
+}
+textarea#bbp_reply_content,
+.bbp-reply-content p {
+font-family:Georgia !important;
+}
+textarea#bbp_reply_content {
+font-size:16px !important;
+font-family:Georgia !important;
+}
+#bbpress-forums div.even,
+#bbpress-forums ul.even {
+background-color: #fff;
+}
+#bbpress-forums div.odd,
+#bbpress-forums ul.odd {
+background-color: #eee;
+}
+</code>
+
+It doesn’t fix everything, but it gets rid of the worst of it for the time being.
+
+
