@@ -19,6 +19,7 @@
 
 ==== Hints and Tips ====
   * Keep it dry and sealed when not in use.
+  * Sticks to the bed well, but shrinkage often will peel it off. Increase surface area with brims and other removable attachments.
 
 ==== Print profiles and tweaks ====
   * Profile by [[:user:bhudson]] via [[:user:grimtech]]:  {{:settings:grimtech_-_bridge1-nylon.roboxfilament}}
