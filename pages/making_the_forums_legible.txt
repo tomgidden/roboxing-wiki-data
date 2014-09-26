@@ -4,7 +4,7 @@ At this time the stylesheets on the official forums makes the text fairly unread
 
 While @Pete at CEL has tried to fix this, the stylesheets are fairly convoluted, and it's a low-priority issue at the moment.  In the meantime, you can override the styles by using a browser plugin such as [[http://userstyles.org|Stylish]]: [[https://extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45|for Safari]], [[https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe|for Chrome]], [[https://addons.mozilla.org/en-US/firefox/addon/stylish/|for Firefox]]
 
-Set up a style for domain cel-robox.com with the code:
+To install the following styles, you can [[https://userstyles.org/styles/105729/robox-forums|install it directly to Stylish]] or manually set up a style for domain cel-robox.com with the code:
 
 <code>
 .bbp-reply-content, bold, strong, b {
@@ -42,5 +42,4 @@ background-color: #eee;
 </code>
 
 It doesn’t fix everything, but it gets rid of the worst of it for the time being.
-
 
