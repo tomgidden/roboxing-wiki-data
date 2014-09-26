@@ -15,7 +15,7 @@ Thanks in advance for your contributions!
 
   * [[http://www.cel-robox.com/|Robox® Home page]]
 
-  * [[http://www.cel-robox.com/community/|Robox Official Forums]]
+  * [[http://www.cel-robox.com/community/|Robox Official Forums]]  (and [[making the forums legible]])
 
   * [[https://robox.freshdesk.com/helpdesk|Robox Support Portal]]: including official solutions
 
