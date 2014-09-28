@@ -1,0 +1,20 @@
+I want to skip this step and go right to [[Automaker Startup|Automaker Startup]]
+
+----
+
+^Action^Screenshot^
+|Start Automaker|In case an upgrade is available, this part of the wizard applies|
+|Upgrade request: choose Yes|{{:wiki:upgrade.png?nolink&500|}}  |
+|Welcome to Update: choose Next|{{:wiki:upgrade2.png?nolink|}}  |
+|Connect to the Internet: choose Next|{{:wiki:upgrade3.png?nolink|}}  |
+|If your inernet works: Update Available: choose Next  |{{:wiki:upgrade4.png?nolink|}}  |
+|Wait until download has finished  |{{:wiki:upgrade5.png?nolink|}}  |
+|License Agreement: choose accept the agreement and push Forward  |{{:wiki:startup1.png?nolink|}}  |
+|Installation Directory: choose what fits best for you and push Forward  |{{:wiki:startup2.png?nolink|}}  |
+|Create Shortcuts: choose what you like and push Forward  |{{:wiki:startup3.png?nolink|}}  |
+|Ready to Install: push Forward  |{{:wiki:startup4.png?nolink|}}  |
+|Wait until install has finished  |{{:wiki:startup5.png?nolink|}}  |
+|I recommend you view the Readme File, choose Finish  |{{:wiki:startup6.png?nolink|}}  |
+
+You successfully upgraded your AutoMaker software, next: [[Automaker Startup|Automaker Startup]]
+
