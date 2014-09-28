@@ -1,3 +1,4 @@
+I want to skip this step and go right to [[Automaker Startup|Automaker Startup]]
 
 ^Action^This is how it looks ^
 |Your package|{{:wiki:rob-000_00.jpg?nolink&800|}}|
@@ -23,6 +24,8 @@
 |Free the print bed|{{:wiki:rob-000_20.jpg?nolink&800|}}|
 |Where's the retaining clip for the head ?|{{:wiki:rob-000_21.jpg?nolink&800|}}|
 I'm told by CEL not to worry if it's not there.
+
+Next: [[Automaker Startup|Automaker Startup]]
 
 
 
