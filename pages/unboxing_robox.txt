@@ -1,5 +1,11 @@
 I want to skip this step and go right to [[Automaker Upgrade|Automaker Upgrade]]
+
+----
+
 I want to skip this step and go right to [[Automaker Startup|Automaker Startup]]
+
+----
+
 
 ^Action^This is how it looks ^
 |Your package|{{:wiki:rob-000_00.jpg?nolink&800|}}|
