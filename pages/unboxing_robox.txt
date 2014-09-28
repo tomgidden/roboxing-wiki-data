@@ -9,7 +9,7 @@ I want to skip this step and go right to [[Automaker Startup|Automaker Startup]]
 
 ^Action^This is how it looks ^
 |Your package|{{:wiki:rob-000_00.jpg?nolink&800|}}|
-|Grab a knife|{{:wiki:rob-000_01.jpg?nolink&800|}}|
+|Grab a knife (carefull, you don't want to stab your Robox on the head !|{{:wiki:rob-000_01.jpg?nolink&800|}}|
 |An accessories box and a bag with the Robox|{{:wiki:rob-000_02.jpg?nolink&800|}} |
 |Grab the accessories box|{{:wiki:rob-000_03.jpg?nolink&800|}}  |
 |Open it and lay it down, things can fall out|{{:wiki:rob-000_04.jpg?nolink&800|}}  |
