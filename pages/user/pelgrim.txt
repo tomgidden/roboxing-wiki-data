@@ -1,5 +1,5 @@
 ==== Robox details ====
-  * Robox Name: My imaginary tool
+  * Robox Name: Robox waiting to be tested
   * Location: 50.841959N, 3.319182E (Gavers Lake, Harelbeke, Belgium)
   * Model: Kickstarter PRE-ORDER
   * Head: 
