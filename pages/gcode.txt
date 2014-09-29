@@ -12,10 +12,10 @@ GCode can be edited manually, although with varying results and an element of ri
 
 However, it can also be visualised using several tools:
 
-    * GCode Viewer [http://gcode.ws/] - An online 2D/3D visualiser;
+    * GCode Viewer http://gcode.ws/ - An online 2D/3D visualiser;
 
-    * Repetier-Host [http://www.repetier.com] - Part of a larger package, but the app can be used for visualisation;
+    * Repetier-Host http://www.repetier.com - Part of a larger package, but the app can be used for visualisation;
 
-    * Pleasant3D [http://www.pleasantsoftware.com/developer/pleasant3d/] - A simple package for Mac
+    * Pleasant3D http://www.pleasantsoftware.com/developer/pleasant3d/ - A simple package for Mac
 
 By visualising the model and the way Robox intends to print it, you can identify problem spots and change design or settings accordingly.
