@@ -1,0 +1,7 @@
+
+^Action^This is how it looks^
+|Start Automaker, leave Robox powered off|{{:wiki:start01.png?nolink&500|}}  |
+|Power on Robox. You might get this upgrade option|{{:wiki:start02.png?nolink|}}  |
+|Choose "Upgrade the firmware"  | |
+|You might get this message, in that case file look at [[automaker_message_troubleshooting|Automaker message troubleshooting]] |{{:wiki:start03_1.png?nolink|}}  |
+|More steps follow ... | |
