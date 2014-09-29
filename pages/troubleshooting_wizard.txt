@@ -1,0 +1,10 @@
+
+^Problem^Solution^
+|I have a problem with Automaker|[[Automaker troubleshooting|Automaker troubleshooting]] |
+|I have a problem with Robox printer|[[Robox troubleshooting|Robox troubleshooting]]|
+|I have a message on my pc I can't resolve|[[Automaker message troubleshooting|Automaker message troubleshooting]]|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
