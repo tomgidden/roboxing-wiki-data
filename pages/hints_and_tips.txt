@@ -1,0 +1,11 @@
+====== Hints and Tips ======
+
+==== Maintenance Tips ====
+
+  * [[Cleaning the printing surface]]
+
+  * [[Purge Material]] -- used when changing filaments, or for testing
+
+==== Fixing problems ====
+
+    * [[Removing filament from print head]]
