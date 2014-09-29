@@ -4,7 +4,7 @@
 	* [[:Things]]
 	* [[:Settings]]
 	* [[:Materials and Print Profiles]]
-	* [[:Maintenance tips]]
+	* [[:Hints and tips]]
 	* [[:Experiments and Ideas]]
 	* [[:Gallery]]
 	* [[:User Locations]]
