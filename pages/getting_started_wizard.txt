@@ -15,4 +15,4 @@ Intructions for your Operating System:
 
 I want to skip this step and go right to [[Unboxing Robox|Unboxing Robox]]
 
-Recent 
+Recent [[Automaker change log|Automaker change log]]
