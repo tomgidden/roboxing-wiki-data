@@ -2,6 +2,7 @@
 
 ^Wizard^Description  ^
 |[[Getting Started Wizard]]|A Getting started walkthrough|
+|[[First Layer Wizard]]|Getting the first layer right is most important to printing success|
 |[[Troubleshooting Wizard]]|Follow the links until you find the page you need|
 |  |  |
 
