@@ -7,5 +7,5 @@
    * [[Things:20 Micron Buddha]] : Budai / Laughing Buddha, printed at ultra-fine resolution.
 
    * [[Things:Carriage Retaining Clip]] : The test print done by Roboxes during their test pass at the factory
-   * 
+ 
    * [[Things:Espresso Cup]] : Another test print from Robox
