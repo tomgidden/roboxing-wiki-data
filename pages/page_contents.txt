@@ -1,6 +1,6 @@
 	* [[:start|Welcome to Roboxing.com!]]
 	* [[:Getting Started]]
-        * [[:FAQ|Frequently Asked Questions]]
+	* [[:FAQ|Frequently Asked Questions]]
 	* [[:Wizards]]
 	* [[:Things]]
 	* [[:Settings]]
