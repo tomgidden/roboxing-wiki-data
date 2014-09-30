@@ -1,2 +1,14 @@
 ====== Carriage Retaining Clip ======
 
+    * [[STL]] model file: {{:things:rbx_gantry_packing_clip1.stl|}}
+
+==== Printing Tips ====
+
+    * Print in Draft mode with zero fill
+
+==== Discussions ====
+
+    * http://www.cel-robox.com/forums/topic/gantry-packing-clip-test-prints
+
+    * http://www.cel-robox.com/forums/topic/carriage-retaining-clip
+ 
