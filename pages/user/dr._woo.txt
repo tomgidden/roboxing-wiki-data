@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: Robox
+  * Location: 50.122237, 8.696615
+  * Model: Kickstarter, green
+  * Nozzle Heights:
+  * Platform: Mac OS X 10.10
