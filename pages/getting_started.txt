@@ -7,7 +7,7 @@ This is an unfinished guide of some things you should know before you get starte
 
    * **DON'T mess with the electricals of the Robox while it's still plugged into the mains.**  While an obvious safety tip, this is actually pretty significant. [[Switch it off first|Here's why]]...
 
-   * When you're finished using the Robox for the day, **let it cool down in it's own time**. Once the temperatures level off and the fans stop, then it's time to switch off at the back. This lets it retract filament or whatever it needs to do to keep things in good condition.
+   * When you're finished using the Robox for the day, **let it cool down in its own time**. Once the temperatures level off and the fans stop, then it's time to switch off at the back. This lets it retract filament or whatever it needs to do to keep things in good condition.
 
    * Keep an eye on the head and bed temperatures. There are currently some minor issues that may cause [[switch_it_off_first|overheating of the head]].  This can ruin the head quickly, but it may not become apparent until much later.
 
