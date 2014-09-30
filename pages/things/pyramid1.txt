@@ -1,8 +1,8 @@
 ===== Pyramid 1 =====
 
-The standard test pyramid.  Download it here:
+The standard test pyramid.  
 
-{{::things:pyramid1.stl|}}
+    * [[STL]] Model file: {{::things:pyramid1.stl|}}
 
 
 ===== Printing tips =====
