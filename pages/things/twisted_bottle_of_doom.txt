@@ -2,7 +2,7 @@
 
 This model has thin walls, so proves a challenge for the printer at the moment.
 
-{{:things:twisted_bottle_mm.stl|}}
+    * [[STL]] model file: {{:things:twisted_bottle_mm.stl|}}
 
 ===== About this model =====
 
