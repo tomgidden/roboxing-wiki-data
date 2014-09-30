@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: MyRobox
+  * Location: -8.668876N, 115.205508E
+  * Model: Kickstarter Early Bird, green
+  * Nozzle Heights: 0.55, 0.80
+  * Platform: Mac OS Maverick (10.9.5)
