@@ -19,6 +19,8 @@ At the ends of each lines, a large blob of plastic will be deposited to keep the
 
 The idea is that the filament should come out of the nozzle at the same speed (or slightly higher) than the head is moving. As a result, the lines do not need to adhere to the bed, and in fact, they're not expected to.  If the line doesn't stay put, it may be because flow is lower than it should be -- possibly due to a blockage, or an extruder problem -- and so the head's moving faster than the filament, thereby yanking away the line as it draws.
 
+It should be noted that while drawing the lines the filament is not pressed against the bed surface like a normal print.  The blobs are pressed against the surface, but when the head is drawing across the surface, the nozzle is positioned well above the print surface (1.8mm?) and dropped onto it.  As a result, the lines themselves should not adhere to the bed.
+
 == For example ==
 
 {{ ::gid_-_purge_material_-_img_3721.jpg?200|}}The image here shows a Purge Material step with PLA on a Beta-test Robox.
