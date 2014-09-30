@@ -1,7 +1,9 @@
 ====== Things ======
 
-The first model most Roboxers will/should print is the small pyramid: [[Things:Pyramid1]]
+   * [[Things:Pyramid1]] : The first model most Roboxers will/should print is the small pyramid.
 
-A more difficult -- but impressive -- model is the Twisted Bottle Of Doom™: [[Things:Twisted Bottle Of Doom]]
+   * [[Things:Twisted Bottle Of Doom]] : A more difficult -- but impressive -- model is the Twisted Bottle Of Doom™
 
-Budai / Laughing Buddha, printed at ultra-fine resolution: [[Things:20 Micron Buddha]]
+   * [[Things:20 Micron Buddha]] : Budai / Laughing Buddha, printed at ultra-fine resolution.
+
+   * [[Things:Carriage Retaining Clip]] : The test print done by Roboxes during their test pass at the factory
