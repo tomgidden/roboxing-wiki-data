@@ -1,5 +1,5 @@
 ====== Espresso Cup ======
-
+{{ :things:espresso-cup1.jpg?300|Photo courtesy of @streatsi}}
     * [[STL]] Model file: {{:things:robox_espresso.stl|}}
 
 ==== Discussions ====
