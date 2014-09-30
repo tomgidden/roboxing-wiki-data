@@ -3,7 +3,7 @@
 Recently, development has been concentrated on getting the [[ABS]] print setup working as well as possible, but it already prints [[PLA]] well.
 
 ==== Storage ====
-[[How to properly store and cure materials]]
+[[How to properly store and cure 3d printing filaments]]
 ==== Officially supported ====
 
     * [[ABS]]
