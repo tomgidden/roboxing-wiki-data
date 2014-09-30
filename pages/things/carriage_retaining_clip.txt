@@ -1,5 +1,5 @@
 ====== Carriage Retaining Clip ======
-
+{{ :things:retaining-clip.jpg?300|Image courtesy of @rudy}}
     * [[STL]] model file: {{:things:rbx_gantry_packing_clip1.stl|}}
 
 ==== Printing Tips ====
