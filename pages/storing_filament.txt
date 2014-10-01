@@ -14,15 +14,15 @@ To counter this, filament should be stored in airtight containers when not in us
    * Electrical dehumidifier : //how well do these work in a confined space, eg. filament storage box?//
 
 
-== Where to buy ==
+=== Where to buy ===
 
-= UK =
+== UK ==
    * [[http://www.ebay.co.uk/sch/i.html?_fln=1&_nkw=silica+gel|eBay UK search]]
    * [[http://www.amazon.co.uk/s/?ie=UTF8&keywords=silica+gel|Amazon UK search]]
 
-= US =
+== US ==
 
-= EU =
+== EU ==
 
 However, desiccants aren't infinitely usable: as they absorb water they become less and less effective.  Some can be "recharged" by baking or leaving on a low heat source such as a radiator.  Some silica gel products will change colour (typically blue) when used up.
 
