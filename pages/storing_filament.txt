@@ -26,9 +26,9 @@ To counter this, filament should be stored in airtight containers when not in us
 
 However, desiccants aren't infinitely usable: as they absorb water they become less and less effective.  Some can be "recharged" by baking or leaving on a low heat source such as a radiator.  Some silica gel products will change colour (typically blue) when used up.
 
-==== Recovering "wet" filament ====
+==== Recovering "damp" filament ====
 
-If a spool of filament is already showing signs of moisture, it can be dried out.  This can be done in various ways.  For more information, refer to "[[Recovering wet filament]]".
+If a spool of filament is already showing signs of moisture uptake, it can be dried out.  This can be done in various ways.  For more information, refer to "[[Recovering damp filament]]".
 
 ==== Storage regime ====
 
