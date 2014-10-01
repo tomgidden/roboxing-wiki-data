@@ -21,7 +21,7 @@ The first layer is one of the most important things to achieving a good quality 
 | 17 | Hopefully you should have a fairly good match and layer adhesion between the two nozzles, but you can see from the tips of the wheels opposite you may need to adjust the fine nozzle in very small increments to fine tune it| {{ :wiki:wiki15.jpg?200 |}} |
 
 
-feedback \ corrections \ changes welcomed - to be verified on a non-beta machine - based on A.M. Rev 1.00.13 and will likely change -  other boring disclaimers
+**feedback \ corrections \ changes welcomed - to be verified on a non-beta machine - based on A.M. Rev 1.00.13 and will likely change -  other boring disclaimers**
 
 
 
