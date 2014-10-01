@@ -16,9 +16,9 @@ The first layer is one of the most important things to achieving a good quality 
 | 12 | If the head is still too high or too low, you can manually adjust the nozzles height (not officially suggested but has worked well for myself & at least one other beta backer) | |
 | 13 | Select 'Calibrate Nozzle Height' in 'Maintenance' tab then 'Adjust nozzle offsets'| {{ :wiki:wiki6.jpg?200 |}} |
 | 14 | Adjust the 'Fill'/large nozzle's height (the RH value) in small increments (suggest .02 at a time), increase it to increase the head's height or reduce it to reduce the heads height. BE CAREFULL NOT TO REDUCE IT TOO MUCH & DAMAGE THE HEAD! Maintain the 'physical' nozzle offset difference that you calculated in step 10,by reducing or increasing the fine nozzle accordingly, this (should) assist in Normal profile printing - click Save | {{ :wiki:wiki14.jpg?200 |}} |
-| 15 | Print your model again, inspecting the first layers. If its still not correct repeat the nozzle offset operation in steps 13, 14 & 15 until you have a good first layer | {{ :wiki:wiki4.jpg?200 |}} |
-| 16 | Make sure you maintain the 'physical' nozzle offset calculated in step 10 & try a print in Normal mode| {{ :wiki:wiki4.jpg?200 |}} |
-| 17 | Hopefully you should have a fairly good match and layer adhesion between the two nozzles, but you can see from the tips of the wheels opposite you may need to adjust the fine nozzle in very small increments to fine tune it | {{ :wiki:wiki16.jpg?200 |}} {{ :wiki:wiki15.jpg?200 |}} |
+| 15 | Print your model again, inspecting the first layers. If it's still not correct, repeat the nozzle offset operation in steps 13, 14 & 15 until you have a good first layer over the whole of the models base | |
+| 16 | Make sure you maintain the 'physical' nozzle offset calculated in step 10 & try a print in Normal mode|{{ :wiki:wiki16.jpg?200 |}} |
+| 17 | Hopefully you should have a fairly good match and layer adhesion between the two nozzles, but you can see from the tips of the wheels opposite you may need to adjust the fine nozzle in very small increments to fine tune it| {{ :wiki:wiki15.jpg?200 |}} |
 
 
 feedback \ corrections \ changes welcomed - to be verified on a non-beta machine - other boring disclaimers
