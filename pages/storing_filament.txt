@@ -2,7 +2,7 @@
 
 Many types of plastic filament used by [[wp>fused filament fabrication|FFF/FDM]] printers such as Robox are [[wp>hygroscopic]]: they absorb water from the air if left unwrapped.
 
-This water can adversely affect print quality, as it can boil during the print process, bubbles bursting and spoiling the print surface.
+This water can adversely affect print quality, as it can boil during the print process, bubbles bursting and spoiling the print surface. //(picture needed)//
 
 To counter this, filament should be stored in airtight containers when not in use, ideally with silica gel packets or other desiccants -- materials that will absorb humidity more readily than the filament.
 
