@@ -1,0 +1,5 @@
+====== Recovering damp filament ======
+
+As mentioned in "[[Storing filament]]", typical printing filaments will absorb moisture from the air which will negatively affect print quality.  While it's best to take steps to avoid this, if it's too late the moisture can be purged to some degree.
+
+//(to be added.. notes about storing with lots of desiccant; tips on use of oven, after checking that Robox SmartReels can cope with that)//
