@@ -2,24 +2,26 @@ The first layer is one of the most important things to achieving a good quality 
 
 
 ^ Ref ^ Task ^ Screenshot ^
-| 1 | Run "Calibrate Nozzle Opening" which can be found in the "Maintenance" tab when clicking on the 3 dots to the right of your "Status" frame - follow on-screen instructions| {{ :wiki:wiki_1.jpg?200 |}} |
-| 2 | Run "Calibrate Nozzle Height" which can also be found in the "Maintenance" tab - follow on-screen instructions|  |
-| 3 | Load your model as per instructions manual | {{ :wiki:wiki2.jpg?200 |}} |
-| 4 | Print using "Draft" mode to check the 0.8mm nozzle  |{{ :wiki:wiki3.jpg?200 |}} |
+| 1 | Run 'Calibrate Nozzle Opening' which can be found in the 'Maintenance' tab when clicking on the 3 dots to the right of your 'Status' frame - follow on-screen instructions| {{ :wiki:wiki_1.jpg?200 |}} |
+| 2 | Run 'Calibrate Nozzle Height' which can also be found in the 'Maintenance' tab - follow on-screen instructions|  |
+| 3 | Check the underside of your PEI bed is scraped clear and the table is free from any debris - Load your model as per instructions manual | {{ :wiki:wiki2.jpg?200 |}} |
+| 4 | Print using "Draft" mode to check the 0.8mm nozzle - all default settings currently use the 0.8mm nozzle for the first layer   |{{ :wiki:wiki3.jpg?200 |}} |
 | 5 | Keep an eye on the print as it progresses, if the nozzle height is set correctly you should see a nice and flat filament extrusion on the first layer, without any gaps inside the perimeter. |{{ :wiki:wiki11.jpg?200 |}} |
 | 6 | Cancel the print after the first few layers, wait for it to cool, remove from the base and inspect the underside. A good first layer is shown opposite. | {{:wiki:wiki5.jpg?200 |}}|
-| 7 | If you can see the bed in-between filament paths, your head is set too high. This is also apparent when inspecting the underside by cylindrical beads of filament that aren't fused between paths. | {{:wiki:wiki10.jpg?200 |}} Head set too high|
-| 8 | If the head scrapes the bed or very little/no filament is extruded or it 'ploughs' through the previous layer (assuming nozzle are clear) the head is set too low.  | {{ :wiki:wiki9.jpg?200 |}} Head 'ploughing' - Head too low|
+| 7 | If you can see the bed in-between filament paths, your head is set too high. This is also apparent when inspecting the underside by cylindrical beads of filament that aren't fused between paths. | {{:wiki:wiki10.jpg?200 |}} Head set too high |
+| 8 | If the head scrapes the bed; or very little filament is extruded; or it 'ploughs' on the bed or through the previous layer (assuming nozzle are clear) the head is set too low.  | {{ :wiki:wiki9.jpg?200 |}} Head 'ploughing' - Head too low |
 | 9 | Run 'Calibrate Nozzle Height' again in the 'maintenance' tab, being sure to allow the paper to move freely but still feeling the nozzle light scraping the paper. |  |
-| 10 | MAKE A NOTE OF THE NOZZLE OFFSETS - go to 'calibrate nozzle height' then 'adjust nozzle offsets' and record the fine and course nozzle offsets on a piece of paper - subtract the two values, this is your 'physical' offset between the two nozzles - this must be maintained to achieve good printing in 'Normal' mode which uses both nozzles in the same layer| {{ :wiki:wiki7.jpg?200 |}}|
-| 11 | Print the model again and inspect the paths on the first layer as above. Note some warpage may occur to bed after heavy usage, resulting in a good flat extrusion for the majority of the first layer, but not in other areas - you will need to balance the nozzle's height to achieve good extrusion over the whole area | {{:wiki:wiki12.jpg?200 |}} Head set too high for part of the first layer|
+| 10 | MAKE A NOTE OF THE NOZZLE OFFSETS - go to 'calibrate nozzle height' then 'adjust nozzle offsets' and record the fine and course nozzle offsets on a piece of paper - subtract the two values, this is your 'physical' offset between the two nozzles - this should be maintained to achieve good printing in 'Normal' mode which uses both nozzles in the same layer| {{ :wiki:wiki7.jpg?200 |}}|
+| 11 | Print the model again and inspect the paths on the first layer as above. Note some warpage may occur to the bed after heavy use, resulting in a good flat extrusion for the majority of the first layer, but not in other areas - you will need to balance the nozzle's height to achieve good extrusion over the whole area | {{:wiki:wiki12.jpg?200 |}} Head set too high for part of the first layer |
 | 12 | If the head is still too high or too low, you can manually adjust the nozzles height (not officially suggested but has worked well for myself & at least one other beta backer) | |
-| 13 | Select 'Calibrate Nozzle Height' in 'Maintenance' tab then "Adjust nozzle offsets"| {{ :wiki:wiki6.jpg?200 |}} |
-| 14 | Adjust the coarse nozzle height (the RH value) in small increments (suggest .02 at a time), increase it to increase the head's height or reduce it to reduce the heads height. Make sure you maintain the 'physical' nozzle offset difference that you calculated in step 10, to ensure the Normal print still works well and click Save | {{ :wiki:wiki14.jpg?200 |}} |
-| 15 | Print your model again, inspecting the first layers. If its still not correct repeat the nozzle offset operation in steps 13, 14 & 15 until you have a good first layer| {{ :wiki:wiki4.jpg?200 |}} |
+| 13 | Select 'Calibrate Nozzle Height' in 'Maintenance' tab then 'Adjust nozzle offsets'| {{ :wiki:wiki6.jpg?200 |}} |
+| 14 | Adjust the 'Fill'/large nozzle's height (the RH value) in small increments (suggest .02 at a time), increase it to increase the head's height or reduce it to reduce the heads height. BE CAREFULL NOT TO REDUCE IT TOO MUCH & DAMAGE THE HEAD! Maintain the 'physical' nozzle offset difference that you calculated in step 10,by reducing or increasing the fine nozzle accordingly, this (should) assist in Normal profile printing - click Save | {{ :wiki:wiki14.jpg?200 |}} |
+| 15 | Print your model again, inspecting the first layers. If its still not correct repeat the nozzle offset operation in steps 13, 14 & 15 until you have a good first layer | {{ :wiki:wiki4.jpg?200 |}} |
 | 16 | Make sure you maintain the 'physical' nozzle offset calculated in step 10 & try a print in Normal mode| {{ :wiki:wiki4.jpg?200 |}} |
+| 17 | Hopefully you should have a fairly good match and layer adhesion between the two nozzles, but you can see from the tips of the wheels opposite you may need to adjust the fine nozzle in very small increments to fine tune it | {{ :wiki:wiki16.jpg?200 |}} {{ :wiki:wiki15.jpg?200 |}} |
 
-WORK IN PROGRESS!!!
+
+feedback \ corrections \ changes welcomed - to be verified on a non-beta machine - other boring disclaimers
 
 
 
