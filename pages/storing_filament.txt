@@ -28,9 +28,7 @@ However, desiccants aren't infinitely usable: as they absorb water they become l
 
 ==== Recovering "wet" filament ====
 
-If a spool of filament is already showing signs of moisture, it can be dried out.
-
-//(to be added.. notes about storing with lots of desiccant; use of oven, after checking that Robox SmartReels can cope with that)//
+If a spool of filament is already showing signs of moisture, it can be dried out.  This can be done in various ways.  For more information, refer to "[[Recovering wet filament]]".
 
 ==== Storage regime ====
 
