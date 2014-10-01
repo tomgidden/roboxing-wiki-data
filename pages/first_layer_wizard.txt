@@ -6,12 +6,12 @@ The first layer is one of the most important things to achieving a good quality 
 | 2 | Run "Calibrate Nozzle Height" which can also be found in the "Maintenance" tab - follow on-screen instructions|  |
 | 3 | Load your model as per instructions manual | {{ :wiki:wiki2.jpg?200 |}} |
 | 4 | Print using "Draft" mode to check the 0.8mm nozzle  |{{ :wiki:wiki3.jpg?200 |}} |
-| 5 | Keep an eye on the print as it progresses, if the nozzle height is set correctly you should see a nice and flat filament extrusion, without any gaps inside the perimeter. |{{ :wiki:wiki4.jpg?200 |}} |
+| 5 | Keep an eye on the print as it progresses, if the nozzle height is set correctly you should see a nice and flat filament extrusion on the first layer, without any gaps inside the perimeter. |{{ :wiki:wiki11.jpg?200 |}} |
 | 6 | Cancel the print after the first few layers, wait for it to cool, remove from the base and inspect the underside. A good first layer is shown opposite. | {{:wiki:wiki5.jpg?200 |}}|
 | 7 | If you can see the bed in-between filament paths, your head is set too high. This is also apparent when inspecting the underside by cylindrical beads of filament that aren't fused between paths. | {{:wiki:wiki10.jpg?200 |}}|
 | 8 | If the head scrapes the bed or very little/no filament is extruded or it 'ploughs' through the previous layer (assuming nozzle are clear) the head is set too low.  | {{ :wiki:wiki9.jpg?200 |}} Head 'ploughing'|
-| 9 | Run "Calibrate Nozzle Opening" again in the maintenance tab, being sure to allow the paper to move freely but still feeling the nozzle light scraping the paper. |  |
-| 10 | MAKE A NOTE OF THE NOZZLE OFFSETS - go to 'calibrate nozzle height' then 'adjust nozzle offsets' and record the fine and course nozzle offsets on a piece of paper | {{ :wiki:wiki7.jpg?200 |}}|
+| 9 | Run "Calibrate Nozzle Height" again in the maintenance tab, being sure to allow the paper to move freely but still feeling the nozzle light scraping the paper. |  |
+| 10 | MAKE A NOTE OF THE NOZZLE OFFSETS - go to 'calibrate nozzle height' then 'adjust nozzle offsets' and record the fine and course nozzle offsets on a piece of paper - subtract the two values, this is your 'physical' offset between the nozzles| {{ :wiki:wiki7.jpg?200 |}}|
 | 11 | Print the model again and inspect the paths on the first layer as above | awaiting image |
 | 11 | If the head is still too high or too low, you can manually adjust the nozzles height (not officially suggested but has worked well for myself & at least one other beta backer) | |
 | 12 | Select "Calibrate Nozzle Height" in "Maintenance" tab | |
