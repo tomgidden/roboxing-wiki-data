@@ -24,6 +24,10 @@ Some users have suggested that 70/30 works well, or even 99% IPA.  However, the 
 
 Note, IPA is fairly safe, but it is highly flammable. It is NOT a good idea to spray it inside the Robox, especially when it's hot. Remove the printing surface first and clean it away from the printer.
 
+==== Scraping the surface ====
+
+You may be tempted to scrape away stubborn plastic marks.  As the surface can be damaged easily, if you are intending to scrape it, metal tools are not recommended.  Instead, use a hard plastic edge.  Users report that a Nylon sharp edge works well.
+
 ----
 
 //TIP: I have a one litre spray bottle of IPA mixed 50/50 with distilled water. I keep it next to my desk for quick cleans of my computer screens and my glasses. It works well with the Robox print bed.  --[[user:gid|@gid]]//
