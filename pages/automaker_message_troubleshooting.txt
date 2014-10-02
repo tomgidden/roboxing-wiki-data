@@ -1,3 +1,4 @@
+back to [[troubleshooting_wizard|Troubleshooting Wizard]]
 
 ^Problem^Solution^
 |Automaker asks to upgrade my firmware, but I get a upgrade failed message.|Go to [[https://robox.freshdesk.com|Robox Freshdesk]] and file a new support ticket  |
