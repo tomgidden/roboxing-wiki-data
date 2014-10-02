@@ -1,7 +1,9 @@
 ====== Printing surface ======
 
-(also known as:  PEI bed; Print Bed; Printing sheet; Build platform)
+//(also known as:  PEI bed; Print Bed; Printing sheet; Build platform)//
+
 {{ ::robox-pei-printing-surface-2.png?300|}}
+
 The printing surface is the brown translucent sheet that fits on the metal heated tray inside the print area.  It is a flexible sheet cut from [[wp>Polyetherimide]] or PEI for short.  PEI was chosen as it has good all-round qualities for multiple material types with minimal maintenance.
 
 In typical usage you should not need to remove the sheet:  you should be able to clean it while fitted, and prints should remove easily once they have cooled down.
