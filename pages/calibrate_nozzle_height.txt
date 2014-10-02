@@ -38,8 +38,7 @@ __That should the highest the nozzle can be while still touching the paper.__
 
 ==== How it's used ====
 
-The routine that actually tests how high the nozzle is above the print bed is done at the start of each print ("[[North-South-East-West calibration]]"), and also in the "[[Level Gantry]]" operation:  it uses the setting here to probe the PEI-sheet-covered bed with the nozzle and detect at what height(s) the nozzle is touching the bed.  By checking at multiple locations, it can determine if the bed is level and compensate accordingly.
-
+The routine that actually tests how high the nozzle is above the print bed is done at the start of each print ("[[North-South-East-West calibration]]"), and also in the "[[Level Gantry]]" operation:  it uses the setting here to probe the PEI [[printing surface]] with the nozzle and detect at what height(s) the nozzle is touching the bed.  By checking at multiple locations, it can determine if the bed is level and compensate accordingly.
 ==== Completion ====
 
 Once the calibration is complete, the setting is stored in the head.  __It is a property of the head itself, although removing the head will require re-calibration as the head location may have moved.__ //[-- Is this correct?  --[[user:gid|@gid]]]//
