@@ -2,7 +2,7 @@
 
 This is an unfinished guide of some things you should know before you get started with Robox, as well as some hints and tips along the way.
 
-[[Getting Started Wizard List]]
+[[Getting Started Wizard Overview]]
 
 ==== Essentials ====
 
