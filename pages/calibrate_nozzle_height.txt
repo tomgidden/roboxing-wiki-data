@@ -7,7 +7,7 @@ The purpose of this routine is twofold:
   - It determines the difference in height above the bed of the two nozzles when activated;
   - It calibrates the [[Z limit sensor]], which Robox uses to detect when the nozzles are touching the bed.
 
-**Both calibrations are done with the PEI sheet removed from the print bed.**  This is so the calibration is done against the firm surface of the metal bed rather than the flexible PEI sheet that may bend or spring, affecting the calibration.
+**Both calibrations are done with the PEI [[printing surface]] removed from the print bed.**  This is so the calibration is done against the firm surface of the metal bed rather than the flexible PEI sheet that may bend or spring, affecting the calibration.
 
 ==== Difference in nozzle height ====
 
