@@ -17,9 +17,11 @@ This is an unfinished guide of some things you should know before you get starte
 
    * When you're finished with the Robox and you know you won't be using it for a while, **unload the filament and put it back in a sealed bag** with dessicant pouches.  The plastics normally used pick up humidity from the air and print quality will suffer. For more information, see "[[Storing filament]]"
 
-   * Keep it clean. Use IPA (isopropyl alcohol; isopropanol) for good results. See "[[cleaning_the_printing_surface|Cleaning the printing surface]]".  A 50/50 or 70/30 mix of IPA and deionised water is common and relatively safe, but some users prefer 99% IPA.  **DO NOT** use other solvents, such as acetone, as they can seriously damage the printer, the print bed, etc.
+   * Keep it clean. Use IPA (isopropyl alcohol; isopropanol) for good results. See "[[cleaning_the_printing_surface|Cleaning the printing surface]]".  A 50/50 or 70/30 mix of IPA and deionised water is common and relatively safe, but some users prefer 99% IPA.  **DO NOT** use other solvents, such as acetone, as they can seriously damage the printer, the [[printing surface]], etc.
 
    * However, do be careful if you're spraying solvents (diluted or otherwise) near an electrical device, esp. one that reaches temperatures of 250ºC. Additionally, the Robox's power supply is at the top of the case and has ventilation holes that spray or drips could get into.
+
+   * Don't scrape the [[printing surface]] clean with a metal blade:  a hard plastic edge will probably do as well and is less likely to damage the surface.
 
    * Ideally, wear gloves or similar when loading filament: getting dirt, oil, sweat, etc. into the filament path isn't the best idea.  At least make sure your hands are clean.
 
