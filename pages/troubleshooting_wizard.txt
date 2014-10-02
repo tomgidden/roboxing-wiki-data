@@ -1,3 +1,4 @@
+back to [[wizards|Wizards]]
 
 ^Problem^Solution^
 |I have a message on my pc I can't resolve|[[Automaker message troubleshooting|Automaker message troubleshooting]]|
