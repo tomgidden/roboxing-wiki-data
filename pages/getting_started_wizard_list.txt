@@ -1,0 +1,6 @@
+
+^Wizard name^Direct Link^
+|Installation of Automaker|[[Getting Started Wizard]]|
+|  |  |
+|  |  |
+
