@@ -1,6 +1,11 @@
+This is a list of all the steps in the Getting Started Wizard.
+If you start [[Getting Started Wizard|here]], it will guide you through the complete list.
+If you want to go to a specific step, just choose one in the list.
 
 ^Wizard name^Direct Link^
-|Installation of Automaker|[[Getting Started Wizard]]|
-|  |  |
+|Step 1: Installation of Automaker|[[Getting Started Wizard]]|
+|Step 2: Unboxing Robox|[[unboxing_robox|Unboxing Robox]] |
+|Step 3: Upgrading the software|[[automaker_upgrade|Automaker Upgrade]]|
+|Step 4: Starting Automaker |[[automaker_startup|Automaker Startup]]  |
 |  |  |
 
