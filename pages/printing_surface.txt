@@ -1,0 +1,21 @@
+====== Printing surface ======
+
+(also known as:  PEI bed; Print Bed; Printing sheet; Build platform)
+
+The printing surface is the brown translucent sheet that fits on the metal heated tray inside the print area.  It is a flexible sheet cut from [[wp>Polyetherimide]] or PEI for short.  PEI was chosen as it has good all-round qualities for multiple material types with minimal maintenance.
+
+In typical usage you should not need to remove the sheet:  you should be able to clean it while fitted, and prints should remove easily once they have cooled down.
+
+The sheet can get scratched and damaged relatively easily, and the surface quality will be reflected in the print quality of the first layer.  Sometimes the bed may perform better if flipped over.
+
+==== Removing the sheet ====
+
+Remove the pink wiper blade at the front left of the bed tray.  Slide the handle at the front-centre of the bed tray to the left to release, and then lift the front edge of the sheet using the recess to the right of the lever.  Slide the bed forwards and lift it out.
+
+==== Refitting the sheet ====
+
+Reverse the instructions above, making sure the tabs on the sheet fit correctly under the metal retaining clips at the sides and the back.  The sheet should be flush with the rim of the tray at all sides.  Remember to re-fit the pink wiper blade!
+
+==== Cleaning the sheet ====
+
+Do not use any solvents on the sheet other than IPA, water or a mixture of the two.  More details: [[Cleaning the printing surface]].
