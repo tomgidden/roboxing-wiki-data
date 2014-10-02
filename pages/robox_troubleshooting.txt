@@ -1,7 +1,7 @@
-back to [[troubleshooting_wizard]]
+back to [[troubleshooting_wizard| Troubleshooting Wizard]]
 
 ^Problem^Solution^
-|The nozzle is clogged |  |
+|The nozzle is clogged |[[NozzleCloggedWizard| Nozzle Clogged Wizard]]|
 |  |  |
 |  |  |
 |  |  |
