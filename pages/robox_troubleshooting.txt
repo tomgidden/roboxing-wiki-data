@@ -1,3 +1,4 @@
+back to [[troubleshooting_wizard]]
 
 ^Problem^Solution^
 |The nozzle is clogged||
