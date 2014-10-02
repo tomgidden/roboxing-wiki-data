@@ -6,7 +6,7 @@ This water can adversely affect print quality, as it can boil during the print p
 
 To counter this, filament should be stored in airtight containers when not in use, ideally with silica gel packets or other desiccants -- materials that will absorb humidity more readily than the filament.
 
-However, desiccants aren't infinitely usable: as they absorb water they become less and less effective.  Some can be "recharged" by baking or leaving on a low heat source such as a radiator.  Some silica gel products will change colour (typically blue) when used up.
+However, desiccants aren't infinitely usable: as they absorb water they become less and less effective.  Some can be "recharged" by baking or leaving on a low heat source such as a radiator.  Some silica gel products will change colour (typically blue or orange) when used up.
 
 ==== Recovering "damp" filament ====
 
