@@ -1,6 +1,6 @@
 ===== ABS =====
   * [[wp>Acrylonitrile Butadiene Styrene]]
-
+  * Robox ABS: Chi Mei Polylac 747  [[http://www.chimeicorp.com/upload/att/2012-11/201211021044552039775.pdf|Datasheet (PDF)]]
 ==== Properties ====
   * Good all-rounder
   * What's it like? [[WP>LEGO]]
