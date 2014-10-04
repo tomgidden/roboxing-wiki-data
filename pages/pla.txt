@@ -12,6 +12,13 @@
   * Does not dissolve in acetone
   * Temperature range: 180ºC-230ºC depending on brand.
   * Hygroscopic: keep sealed with [[Storing filament|dessicants]], eg. silica gel
+
+=== Typical physical properties ===
+  * Density: 1.24 g/cc, ie. ≈3 g/metre (1.75mm filament)
+  * Tensile strength: 16-21 kpsi
+  * Melting point: 145-160ºC
+  * Melt temperature: 210±8ºC
+
 ==== Availability ====
 
   * Widely available
