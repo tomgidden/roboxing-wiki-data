@@ -15,10 +15,9 @@
   * Hygroscopic: keep sealed with [[Storing filament|dessicants]], eg. silica gel
 
 === Typical physical properties ===
-  * Density: 1.24 g/cc, ie. ≈ 3 grams/metre (1.75mm filament)
+  * Density: 1.24 g/cm³, ie. ≈ 3 grams/metre (1.75mm filament)
   * Melting point: 145-160ºC
   * Melt temperature: 210±8ºC
-
 ==== Availability ====
 
   * Widely available
