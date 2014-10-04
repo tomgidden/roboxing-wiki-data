@@ -30,7 +30,9 @@ If a spool of filament is already showing signs of moisture uptake, it can be dr
 
    * ...?
 
-   * Electrical dehumidifier : //how well do these work in a confined space, eg. filament storage box?//
+   * Modularised desiccant units.  Eva-Dry 333-style units are cheap and easy-to-use: [[https://www.eva-dry.com/dehumidifiers/eva-dry-333-mini-dehumidifier/|Eva-Dry 333]].  They contain normal colour-change silica gel, but include built-in "recharger" heaters, and are conveniently packaged.
+ 
+   * Electrical dehumidifiers (using a coolant loop): //how well do these work in a confined space, eg. filament storage box?//
 
    * Airtight boxes
 
@@ -41,7 +43,7 @@ If a spool of filament is already showing signs of moisture uptake, it can be dr
 == UK ==
    * [[http://www.ebay.co.uk/sch/i.html?_fln=1&_nkw=silica+gel|eBay UK search]]
    * [[http://www.amazon.co.uk/s/?ie=UTF8&keywords=silica+gel|Amazon UK search]]
-   * Also, Eva-Dry 333-style units are cheap and easy-to-use, with a built-in "recharger": [[https://www.eva-dry.com/dehumidifiers/eva-dry-333-mini-dehumidifier/|Eva-Dry 333]].  Identical units are available from various sources, eg. [[http://www.amazon.co.uk/Rechargeable-Mini-Dehumidifier-Pack-Set/dp/B001P478OG|Amazon UK]], [[http://search.ebay.co.uk/rechargeable+dehumidifier|eBay UK search]]
+   * Eva-Dry units and copies are available from various sources, eg. [[http://www.amazon.co.uk/Rechargeable-Mini-Dehumidifier-Pack-Set/dp/B001P478OG|Amazon UK]], [[http://search.ebay.co.uk/rechargeable+dehumidifier|eBay UK search]]
 
 == US ==
 
