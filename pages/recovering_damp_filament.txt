@@ -2,4 +2,11 @@
 
 As mentioned in "[[Storing filament]]", typical printing filaments will absorb moisture from the air which will negatively affect print quality.  While it's best to take steps to avoid this, if it's too late the moisture can be purged to some degree.
 
-//(to be added.. notes about storing with lots of desiccant; tips on use of oven, after checking that Robox SmartReels can cope with that)//
+From the Robox manual (§4.3, p.48): 
+> If you already have ‘wet’ filament, it can be dried using an off-the-shelf dessicant or dehumidifier - look out for colour indicating silicagel which changes from orange to green to indicate it has become saturated. It can then be dried in a conventional oven to ‘recharge’ it - refer to it’s accompanying instructions.
+
+It is possible to dry filament out directly using an oven, but complications may occur: the filament may become sticky or distorted.  Drying instructions for various polymers referring to the use of heat for these purposes are really tailored to industrial settings using hot dry air across the raw material pellets rather than direct heating of already-formed filament.
+
+Instead, a safe, sure (but slower) method is to prepare a sealed container with "enough" dry silica gel (or failing that, even dry uncooked rice, salt or non-dairy creamer) and keep the filament sealed in the container.  In time (many hours, if not days), the silica gel will remove humidity from the air inside the container, and moisture will be drawn from the filament into the air accordingly.  Inclusion of a cheap hygrometer, and/or the use of colour-change silica gel will make this easier to check.  The process may be speeded up by keeping the container in a warm place: silica gel works best at room temperatures, but the warmer end of room temperature may improve liberation of moisture from the filament.
+
+See "[[Storing filament]]" for tips on hygrometers, desiccants and so forth.
