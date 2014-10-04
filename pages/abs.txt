@@ -7,10 +7,18 @@
 ==== Properties ====
   * Good all-rounder
   * What's it like? [[WP>LEGO]]
-  * Dissolves in acetone
+  * Softens and dissolves in acetone
   * Needs heated bed
   * Temperature range: 200ºC-250ºC depending on brand.
   * Hygroscopic: keep sealed with [[Storing filament|dessicants]], eg. silica gel
+  * Typically lower tensile strength than [[PLA]], but far less brittle.
+  * Shrinks significantly, so not dimensionally stable.
+
+=== Typical physical properties ===
+  * Density: 1.03 g/cc, ie. ≈2.5 grams/metre (1.75mm filament)
+  * Melting point: 145-160ºC
+  * Melt temperature: 210±8ºC
+
 ==== Availability ====
 
   * Widely available
