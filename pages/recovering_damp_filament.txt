@@ -10,3 +10,8 @@ It is possible to dry filament out directly using an oven, but complications may
 Instead, a safe, sure (but slower) method is to prepare a sealed container with "enough" dry silica gel (or failing that, even dry uncooked rice, salt or non-dairy creamer) and keep the filament sealed in the container.  In time (many hours, if not days), the silica gel will remove humidity from the air inside the container, and moisture will be drawn from the filament into the air accordingly.  Inclusion of a cheap hygrometer, and/or the use of colour-change silica gel will make this easier to check.  The process may be speeded up by keeping the container in a warm place: silica gel works best at room temperatures, but the warmer end of room temperature may improve liberation of moisture from the filament.
 
 See "[[Storing filament]]" for tips on hygrometers, desiccants and so forth.
+
+
+----
+Refs:
+   * http://www.cel-robox.com/forums/topic/how-to-properly-store-and-cure-hydrophilic-filaments-such-as-pla/#post-7371
