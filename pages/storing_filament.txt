@@ -26,7 +26,7 @@ If a spool of filament is already showing signs of moisture uptake, it can be dr
 
    * [[wp>Bentonite]] : commonly used as cat litter (although there are other types of cat litter that won't work as well).  Similarly, this can often be reconditioned by heating.  While natural (unlike silica gel), it is a less effective desiccant, and produces dust that may clog or affect the quality of 3D printing.
 
-   * Dry rice may also be used as a cheap and plentiful desiccant.
+   * Uncooked rice may also be used as a cheap and plentiful desiccant, although the effectiveness is not clear. Table salt also has desiccant effects, as does non-dairy creamer.
 
    * ...?
 
