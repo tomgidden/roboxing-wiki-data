@@ -25,7 +25,7 @@
   * Also available on officially-supported Robox Reel direct from CEL: [[http://robox.cel-uk.com/filament/abs-filament.html]]
 
 ==== Hints and Tips ====
-  * Keep it dry and sealed when not in use.
+  * [[Storing filament|Keep it dry and sealed when not in use.]]
 
 ==== Print profiles and tweaks ====
   * Standard Robox profiles
