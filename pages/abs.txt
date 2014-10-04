@@ -7,8 +7,7 @@
   * Dissolves in acetone
   * Needs heated bed
   * Temperature range: 200ºC-250ºC depending on brand.
-  * Hygroscopic: keep sealed with [[dessicants]], eg. silica gel
-
+  * Hygroscopic: keep sealed with [[Storing filament|dessicants]], eg. silica gel
 ==== Availability ====
 
   * Widely available
