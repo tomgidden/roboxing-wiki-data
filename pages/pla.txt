@@ -4,11 +4,11 @@
   * Robox PLA: NatureWorks 4043D  [[http://www.natureworksllc.com/~/media/Technical_Resources/Technical_Data_Sheets/TechnicalDataSheet_4043D_films_pdf.pdf|Datasheet (PDF)]]
 ==== Properties ====
   * Easy to print;  easier than [[ABS]]
-  * Does not shrink
-  * Fair all-rounder
-  * Harder than ABS
-  * Burns cleanly; useful for casting
-  * Bio-degradable, although not that easily
+  * Does not shrink;
+  * Fair all-rounder;
+  * Harder than ABS;
+  * Burns cleanly when fully combusted; useful for casting
+  * Bio-degradable to CO₂, water and humus, although not that easily (see datasheet above)
   * Does not dissolve in acetone
   * Temperature range: 180ºC-230ºC depending on brand.
   * Hygroscopic: keep sealed with [[Storing filament|dessicants]], eg. silica gel
