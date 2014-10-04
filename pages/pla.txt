@@ -11,8 +11,7 @@
   * Bio-degradable, although not that easily
   * Does not dissolve in acetone
   * Temperature range: 180ºC-230ºC depending on brand.
-  * Hygroscopic: keep sealed with [[dessicants]], eg. silica gel
-
+  * Hygroscopic: keep sealed with [[Storing filament|dessicants]], eg. silica gel
 ==== Availability ====
 
   * Widely available
