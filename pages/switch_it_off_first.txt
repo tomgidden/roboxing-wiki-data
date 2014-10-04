@@ -4,7 +4,7 @@ The Robox has two main sources of power: USB and the mains power supply.  It's m
 
 When powered up, there's a fairly strong 24V current going through the mainboard, through the ribbon cable joining the extruder to the main board, and along the two-wire cable in the print chamber going from the mainboard to the head.
 
-The head is connected to the mainboard via "pogo pins": two rows of small gold electrical contacts with springs in them.  These can get stuck in or make a loose connection.  There is an official support solution on this matter: [[https://robox.freshdesk.com/support/solutions/articles/1000074632-headlock-system-remove-and-replace-the|Headlock system - Remove and replace the head]]
+The head is connected to the mainboard via "pogo pins": two rows of small gold electrical contacts with springs in them.  These can get stuck in or make a loose connection.  There is an official support solution on this matter: [[https://robox.freshdesk.com/support/solutions/articles/1000074632-headlock-system-remove-and-replace-the|Headlock system - Remove and replace the head]] and [[https://robox.freshdesk.com/support/solutions/articles/1000089433-n-a-showing-for-current-nozzle-temperature-or-head-]]
 
 Now, if the 24V connection's bad for any reason -- such as stuck pins, misaligned pins or head, dirty contacts, or a loose wire or plug/socket on the 24V line -- **it can easily zap the firmware** in the head.  One unfortunate symptom of this is that the head's heater can become uncontrollable and will just continually heat up until it destroys itself.
 
