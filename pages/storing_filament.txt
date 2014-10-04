@@ -38,6 +38,8 @@ If a spool of filament is already showing signs of moisture uptake, it can be dr
 
    * Zip-lock / sealable bags
 
+   * Electronic hygrometers: very cheap (£2, €3, $4) on eBay and other sources; [[http://www.google.com/search?q=hygrometer+lcd&tbm=shop|Google Shopping search]]. Small battery-powered units with LCD readouts that can be easily included in a storage bag.  They will often fail to read below 10% for example, but that can still be useful enough to see when desiccant has failed, or alternatively indicate when a desiccant has successfully dried out a bag (and by extension, the contained filament, albeit with a longer delay)
+ 
 === Where to buy ===
 
 == UK ==
