@@ -25,9 +25,6 @@ Recently, development has been concentrated on getting the [[ABS]] print setup w
     * Copolyesters
        * [[Taulman Tritan]]
 
-   * Others
-       * [[Taulman PCTPE]]
-
 === Support material ===
     * [[PVOH]] (a.k.a. PVA)
     * [[HIPS]] (via Limonene)
@@ -37,3 +34,4 @@ Recently, development has been concentrated on getting the [[ABS]] print setup w
     * [[NinjaFlex]]
     * [[Zen Toolworks Flexible Filament]]
     * [[PolyFlex]]
+    * [[Taulman PCTPE]]
