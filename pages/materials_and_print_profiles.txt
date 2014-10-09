@@ -21,7 +21,13 @@ Recently, development has been concentrated on getting the [[ABS]] print setup w
 
    * PET / PETT / PETE
        * [[Taulman t-glase]]
- 
+
+    * Copolyesters
+       * [[Taulman Tritan]]
+
+   * Others
+       * [[Taulman PCTPE]]
+
 === Support material ===
     * [[PVOH]] (a.k.a. PVA)
     * [[HIPS]] (via Limonene)
