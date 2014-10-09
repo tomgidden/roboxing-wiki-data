@@ -1,0 +1,5 @@
+==== Robox details ====
+  * Robox Name: Robox
+  * Location: 55.6975N, 13.4456E
+  * Model: Kickstarter Early Bird, green
+  * Platform: Mac OSX/Win 8
