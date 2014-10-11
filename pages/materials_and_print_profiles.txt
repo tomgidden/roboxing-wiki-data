@@ -12,7 +12,7 @@ The following tables are supposed to help you finding the right filament for you
 Click on individual **Filament Name** for print profile and additional information.
 
 ==== Non- and Medium-Flexibles ====
-^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Biodg. ^Reviews ^
+^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Bio ^Reviews ^
 ^:::  ^:::           ^:::            ^Tensile ^Elongation ^Modulus ^:::        ^^:::       ^:::      ^:::           ^:::     ^
 |[[wp>http://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene|ABS]] |[[:abs|Robox ABS]]  |**yes** |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|opaque |  ?//%//|  various|no  |
 |[[wp>http://en.wikipedia.org/wiki/Nylon|Nylon]] |[[:robox_nylon|Robox Nylon]] |not yet avbl.  |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|translucent |  ?//%//|  ?|no  |
@@ -24,7 +24,7 @@ Click on individual **Filament Name** for print profile and additional informati
 |[[wp>http://en.wikipedia.org/wiki/Polylactic_acid|PLA]] |[[:pla|Robox PLA (Ingenio 4043D)]] |**yes** |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|opaque |  ?//%//|  various|no  |
 
 ==== Very Flexibles and Rubberlikes ====
-^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Biodg. ^Reviews ^
+^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Biodegr. ^Reviews ^
 ^:::  ^:::           ^:::            ^Tensile ^Elongation ^Modulus ^:::        ^^:::       ^:::      ^:::           ^:::     ^
 |[[wp>http://en.wikipedia.org/wiki/Polylactic_acid|PLA]] |[[:polyflex|PolyFlex]] |no  |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|translucent, opaque (depending on color) |  ?//%//|  whitish, black|yes  |
 |[[wp>http://en.wikipedia.org/wiki/Thermoplastic_elastomer|TPE]] |[[:ninjaflex|NinjaFlex]]  |no |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|opaque |  ?//%//|  various|no  |[[https://www.youtube.com/watch?v=gTIFs_ILu1w|1]] [[https://www.youtube.com/watch?v=U_RZp7DXMT0|2]] [[https://www.youtube.com/watch?v=ZnJZTwrQcQI|3]] [[https://www.youtube.com/watch?v=WAUQPJF9wTg|4]] |
@@ -34,7 +34,7 @@ Click on individual **Filament Name** for print profile and additional informati
 See also [[:flexible_filament|Flexible Filament Printing Stub]].
 
 ==== Wood- and Stonelikes ====
-^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Biodg. ^Reviews ^
+^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Biodegr. ^Reviews ^
 ^:::  ^:::           ^:::            ^Tensile ^Elongation ^Modulus ^:::        ^^:::       ^:::      ^:::           ^:::     ^
 |Woodlike |[[:polywood|PolyWood]]  |no |  ? //psi//|  ?//%//|  ? //psi//|  100//%//|opaque |  ?//%//|  brown|no  |
 
