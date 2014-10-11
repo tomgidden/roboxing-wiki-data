@@ -15,8 +15,9 @@ Recently, development has been concentrated on getting the [[ABS]] print setup w
 ==== Not (yet) supported ====
 
     * Nylon
-        * [[Taulman Bridge|Taulman Bridge (645)]]
+        * [[Taulman Bridge]]
         * [[Nylon 618]]
+        * [[Nylon 645]]
 
    * PET / PETT / PETE
        * [[Taulman t-glase]]
