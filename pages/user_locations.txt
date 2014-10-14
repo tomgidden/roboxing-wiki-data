@@ -22,8 +22,9 @@ You're encouraged to include any other relevant information, such as your OS, an
 If you don't have a Robox yet but you still want to be on the map, no problem!  Just add yourself in the same way as above and just put something about not having one yet.  You'll be displayed on the map in the same way.
 
 ==== Users ====
-   * [[:user:BHudson]]
    * [[:user:bespokeproductdesign]]
+   * [[:user:BHudson]]
+   * [[:user:biscuitlad]]
    * [[:user:Carnivalius]]
    * [[:user:Dr. Woo]]
    * [[:user:Datman]]
@@ -39,11 +40,11 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:Olivier]]
    * [[:user:PatrikL]]
    * [[:user:pelgrim]]
+   * [[:user:rudy]]
    * [[:user:scribbleswd]]
+   * [[:user:streatsi]]
    * [[:user:terrence]]
+   * [[:user:Terry Taylor]]
    * [[:user:thingol]]
    * [[:user:Trekman42]]
-   * [[:user:biscuitlad]]
-   * [[:user:Terry Taylor]]
-   * [[:user:streatsi]]
-   * [[:user:rudy]]
+  
