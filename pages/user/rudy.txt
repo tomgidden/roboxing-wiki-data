@@ -1,0 +1,5 @@
+==== Robox details ====
+  * Robox Name: IshallREMAINunnamed
+  * Location: 37.8044N, 122.2708W
+  * Model: Kickstarter Early Bird, green
+  * Platform: Windows 7
