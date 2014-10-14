@@ -1,6 +1,6 @@
 ==== Robox details ====
   * Robox Name: Streatsi
   * Location: 51.42N, -0.13E
-  * Model: Kickstarter Early Bird, green
+  * Model: Kickstarter Beta tester, green
   * Nozzle Heights: 0.76, 0.76
   * Platform: Windows 7
