@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: Robox
+  * Location: 52.4279N, -1.9239E
+  * Model: Kickstarter Early Bird, green
+  * Nozzle Heights: 0.30, 0.80
+  * Platform: Windows 7
