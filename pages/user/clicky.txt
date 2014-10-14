@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: -
+  * Location: 52.2920N, 1.5370W
+  * Model: Kickstarter Early Bird, green
+  * Nozzle Heights: 0.55, 0.35
+  * Platform: OSX Maverics
