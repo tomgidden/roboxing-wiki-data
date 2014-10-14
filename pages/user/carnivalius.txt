@@ -1,5 +1,5 @@
 ==== Robox details ====
-  * Robox Name: Robox
+  * Robox Name: Fluffy the Destroyer
   * Location: 52.427N, -1.923E
   * Model: Kickstarter Early Bird, green
   * Nozzle Heights: 0.30, 0.80
