@@ -1,6 +1,8 @@
 Robox Forum: @bespokeproductdesign \\
 AKA: Rob Harwood \\
 Robox Status: Kickstarter Beta Tester \\
-Location: Staffordshire - UK
-//%%Location: 52.725N, 2.1164E%%//
+Location: Staffordshire - UK \\
+
+//%%Location: 52.7252N, 2.1164W%%//
+
 
