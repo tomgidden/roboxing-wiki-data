@@ -1,6 +1,6 @@
 ==== Robox details ====
   * Robox Name: ?
-  * Location: 53.9380109N,-1.04443W
+  * Location: 53.9380109N,-1.04443E
   * Model: Kickstarter Beta (first one made!), green
   * Nozzle Heights: 0.45, 0.50
   * Platform: Windows 7 Enterprise
