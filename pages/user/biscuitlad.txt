@@ -1,5 +1,5 @@
 ==== Robox details ====
-  * Robox Name: ?
+  * Robox Name: biscuitlad
   * Location: 53.9380109N,-1.04443E
   * Model: Kickstarter Beta (first one made!), green
   * Nozzle Heights: 0.45, 0.50
