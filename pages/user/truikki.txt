@@ -1,0 +1,7 @@
+==== Robox details ====
+  * Robox Name: CompanionBox
+  * Location: 64.04N, 024.E
+  * Model: Blue
+  * Nozzle Heights: 0.55, 0.80
+  * Platform: Windows 7
+  
