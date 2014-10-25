@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: Robox
+  * Location: 50.8N, 0.30E
+  * Model: Kickstarter Early Bird, green
+  * Nozzle Heights: ?, ?
+  * Platform: OS Mavericks
