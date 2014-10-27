@@ -1,3 +1,7 @@
+====Tims Robox Page====
+New to 3D printing so hopefully don't screw up my printer when I get it going!
+
+===Printer Details===
   * Robox Name: Mr Squiggles
   * Location: 52.30N, -0.59E
   * Model: First post Kickstarter batch, blue
