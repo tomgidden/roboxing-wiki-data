@@ -11,6 +11,7 @@
 
     * [[Removing filament from print head]]
 
+    * [[B Axis stuck]]
 ==== In-depth Robox and AutoMaker ====
 
   * [[GCode]]
