@@ -12,7 +12,7 @@ GCode can be edited manually, although with varying results and an element of ri
 
 However, it can also be visualised using several tools:
 
-    * GCode Viewer http://gcode.ws/ - An online 2D/3D visualiser;
+    * GCode Viewer http://gcode.joewalnes.com/ - An online 2D/3D visualiser;
 
     * Repetier-Host http://www.repetier.com - Part of a larger package, but the app can be used for visualisation;
 
