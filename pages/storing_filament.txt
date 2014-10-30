@@ -21,6 +21,8 @@ If a spool of filament is already showing signs of moisture uptake, it can be dr
 == What should I do if I use Robox every day? ==
 //(to be added... should reels be ejected at the end of each day and stored?)//
 
+Chris E. from CEL "If you are disciplined and remove reel form the printer each day and store it in provided plastic bag with silica gel then doesn't matter how many reels you have"
+
 ==== Desiccants and storage ====
    * [[wp>Silica gel]] : the small papery sealed pouches of beads that are often included with new consumer electronics. However, these are inadequate for continued use once the main container is opened. Instead, buy larger quantities (eg. 1kg) for best results. Silica gel optionally includes an indicator additive that changes colour when the beads are saturated: often they can be reconditioned by baking at low heat until the colour reverts.
 
