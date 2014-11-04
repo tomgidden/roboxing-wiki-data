@@ -24,17 +24,17 @@ There is a sensor in the head, visible in the centre of the black plastic gantry
 This part of the operation calibrates this sensor:  it determines at what point the nozzle is considered to be touching.  As a result, it doesn't matter how far the nozzle is from the base, but how much upwards force is being applied to the nozzle by the bed.
 
 ==== How to calibrate it well ====
-__The aim is to pick the setting where the upward force is as low as possible but still above zero.__
+The aim is to pick the setting where the upward force is as low as possible but still above zero.
 
-__To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of quality printer/copier paper works, but make sure the heat of the bed doesn't curl the paper: for a good reading, the sheet needs to be perfectly flat.__
+To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of quality printer/copier paper works, but make sure the heat of the bed doesn't curl the paper: for a good reading, the sheet needs to be perfectly flat.
 
 __Adjust the nozzle height using the "Too tight" button until the paper moves freely under the nozzle while still touching it. Then press "Too tight" again as few times as possible so the paper moves without the nozzle touching it at all: such that pressing "Too tight" any more would make no difference. Then press "Too loose" once so you can feel the nozzle scrape very lightly against the paper surface as it moves.__
 
 __Basically find the boundary between non-touching and touching, and set the nozzle one step on the tight side of that boundary.__
 
-__That should the highest the nozzle can be while still touching the paper.__
+__That should be the highest the nozzle can be while still touching the paper.__
 
-//[ Note, this is still quite subjective. I've underlined parts that I'm not totally sure about, and would appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]] ]//
+//[ This is still quite subjective. I've underlined parts that I'm not totally sure about, and would appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]] ]//
 
 ==== How it's used ====
 
