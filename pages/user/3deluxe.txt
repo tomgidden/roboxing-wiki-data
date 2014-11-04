@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: 3Deluxe
+  * Location: 49.78N, 7.65E
+  * Model: production build 1st wave, blue
+  * Nozzle Heights: not yet
+  * Platform: Windows
