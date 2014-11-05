@@ -36,7 +36,9 @@ __That should be the highest the nozzle can be while still touching the paper.__
 
 //[ This is still quite subjective. I've underlined parts that I'm not totally sure about, and would appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]] ]//
 
-//[ To get the sheet perfectly flat, it may be useful if the sheet is big enough to spread it with two fingers across the print-bed or use both hands to do so when sliding it under the nozzle, just make sure not to apply too much pressure otherwise you may be pushing the entire bed down which could yield faulty calibration results. ]//
+  * //To get the sheet perfectly flat, it may be useful if the sheet is big enough to spread it with two fingers across the print-bed or use both hands to do so when sliding it under the nozzle, just make sure not to apply too much pressure otherwise you may be pushing the entire bed down which could yield faulty calibration results. --[[user:mistsoul|@mistsoul]]//
+
+  * //I'm not sure I agree with @mistsoul's suggestion here, as a larger sheet being pushed down will move far less easily, so it will be harder to detect when the nozzle is touching.  --[[user:gid|@gid]]//
 
 ==== How it's used ====
 
