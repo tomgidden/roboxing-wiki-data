@@ -26,9 +26,7 @@ This part of the operation calibrates this sensor:  it determines at what point 
 ==== How to calibrate it well ====
 The aim is to pick the setting where the upward force is as low as possible but still above zero.
 
-To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of quality printer/copier paper works, but make sure the heat of the bed doesn't curl the paper: for a good reading, the sheet needs to be perfectly flat. 
-
-To get the sheet perfectly flat, it may be useful if the sheet is big enough to spread it with two fingers across the print-bed or use both hands to do so when sliding it under the nozzle, just make sure not to apply too much pressure otherwise you may be pushing the entire bed down which could yield faulty calibration results.
+To do this, any flat, smooth, even and non-compressible sheet can be used.  A sheet of quality printer/copier paper works, but make sure the heat of the bed doesn't curl the paper: if the paper isn't flat, it's harder to sense when the nozzle isn't pressing down.
 
 __Adjust the nozzle height using the "Too tight" button until the paper moves freely under the nozzle while still touching it. Then press "Too tight" again as few times as possible so the paper moves without the nozzle touching it at all: such that pressing "Too tight" any more would make no difference. Then press "Too loose" once so you can feel the nozzle scrape very lightly against the paper surface as it moves.__
 
@@ -37,6 +35,8 @@ __Basically find the boundary between non-touching and touching, and set the noz
 __That should be the highest the nozzle can be while still touching the paper.__
 
 //[ This is still quite subjective. I've underlined parts that I'm not totally sure about, and would appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]] ]//
+
+//[ To get the sheet perfectly flat, it may be useful if the sheet is big enough to spread it with two fingers across the print-bed or use both hands to do so when sliding it under the nozzle, just make sure not to apply too much pressure otherwise you may be pushing the entire bed down which could yield faulty calibration results. ]]/
 
 ==== How it's used ====
 
