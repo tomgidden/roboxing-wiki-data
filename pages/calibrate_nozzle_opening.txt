@@ -16,11 +16,9 @@ When doing this calibration, there can be a situation where a tiny amount of pla
 
 It is better to set it when the tiny amount starts coming out of the nozzle, rather than calibrating for full flow.  Otherwise the nozzle may leak and drip when apparently blocked, and may leave strings of plastic.
 
-Capturing the instance when the tiniest amount of plastic can be seen flowing out of the nozzle may require you to wait a few seconds after pressing the "No" button indicated in the AutoMaker screen. 
+Capturing the instance when the tiniest amount of plastic can be seen flowing out of the nozzle may require you to wait a few seconds after pressing the "No" button indicated in the AutoMaker screen, as it might take a short time before enough plastic flows to be visible.
 
-This is due to the fact that in this calibration, the pressure is applied slowly and incrementally, so that the optimum pressure build-up may require a few seconds in order to push the plastic out of the nozzle. 
-
-It may be helpful to do the test twice, the first test would consist of counting how many "No" clicks it takes to typically have a more normal flow released, and the second test would consist in fine tuning the calibration, so that you intentionally wait and observe the nozzle for a few seconds after clicking "No" once you get closer to the number of "No" clicks which typically yields a normal flow.
+It may be helpful to do the test twice: the first test would consist of counting how many "No" clicks it takes for plastic to clearly flow, and then a second test to fine tune the calibration, so that you intentionally wait and observe the nozzle for a few seconds after clicking "No" once you get closer to the number of "No" clicks from the first test.
 
 
 
