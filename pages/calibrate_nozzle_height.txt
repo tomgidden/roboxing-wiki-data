@@ -55,4 +55,4 @@ After calibration, the values can be manually changed by selecting [[Calibrate N
 
 
 ----
-Ref: {{http://www.cel-robox.com/forums/topic/robox-3050-cannot-print-a-single-object-from-the-complementary-flashdisk/#post-6157|Forum post by @chrisyt, one of CEL's Robox gurus}}
+Ref: [http://www.cel-robox.com/forums/topic/robox-3050-cannot-print-a-single-object-from-the-complementary-flashdisk/#post-6157|Forum post by @chrisyt, one of CEL's Robox gurus]
