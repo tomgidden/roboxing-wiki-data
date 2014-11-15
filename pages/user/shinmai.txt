@@ -1,0 +1,10 @@
+==== Robox details ====
+  * Robox Name: RoskaBox
+  * Location: 60.17370N, 24.80890E
+  * Model: Retail, blue
+  * Nozzle Heights: 0.39, 0.49
+  * Platform: Windows 8.1
+
+
+==== For sale/trade ====
+Anyone want to buy a hardly used Robox? :P (I'll also happily trade for any printer that can produce something other than a mess of hairy strings and drooping filament)
