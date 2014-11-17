@@ -4,10 +4,10 @@ back to [[troubleshooting_wizard|Troubleshooting Wizard]]
 Automaker asks to upgrade my firmware, but I get a upgrade failed message.
 
 Solutions:
-1) Try to use an usb hub instead of plugging robox directly into a usb port.
-2) Check if your microSD card on your robox is firmly in place.
-To check, remove the protection from the microSD cart, push slightly to unlock the microSD card, push it back to lock it in place.
-3) Install AM on a different PC if you have one available, plug robox on that machine and check if you have the same problem.
-Some PC's have usb ports that don't like upgrading firmware (ask CEL for that explanation if you really must know)
-4) If nothing else works, go to [[https://robox.freshdesk.com|Robox Freshdesk]] and file a new support ticket
+
+
+|**1**  |Try to use an usb hub instead of plugging robox directly into a usb port.  |
+|**2**  |Check if your microSD card on your robox is firmly in place. To check, remove the protection from the microSD cart, push slightly to unlock the microSD card, push it back to lock it in place.  |
+|**3**  |Install AM on a different PC if you have one available, plug robox on that machine and check if you have the same problem.Some PC's have usb ports that don't like upgrading firmware (ask CEL for that explanation if you really must know)  |
+|**4**  |If nothing else works, go to [[https://robox.freshdesk.com|Robox Freshdesk]] and file a new support ticket  |
 
