@@ -4,6 +4,7 @@ If calibration is done for your robox you can go right to [[first_layer_wizard|F
 
 ^Actiont^Link  ^
 |Where is my Maintenance ?  |{{:maintenance_panel1.png?nolink | Maintenance Button}} {{:maintenance_panel_2.png?nolink&200 |}} |
+|Purge  |   |
 |Calibrate Nozzle Opening  |[[Calibrate Nozzle Opening]]   |
 |Calibrate Nozzle Height  |[[Calibrate Nozzle Height]]  |
 |Calibrate Gantry (vertical calibration)  |[[Level gantry]]  |
