@@ -3,7 +3,7 @@ This is a list of all things to calibrate on the robox.
 If calibration is done for your robox you can go right to [[first_layer_wizard|First Layer Wizard]]
 
 ^Actiont^Link  ^
-|Where is my Maintenance ?  |  |
+|Where is my Maintenance ?  |{{:maintenance_panel1.png?nolink | Maintenance Button}} {{:maintenance_panel_2.png?nolink | Maintenance panel}} |
 |Calibrate Nozzle Opening  |[[Calibrate Nozzle Opening]]   |
 |Calibrate Nozzle Height  |[[Calibrate Nozzle Height]]  |
 |Calibrate Gantry (vertical calibration)  |[[Level gantry]]  |
