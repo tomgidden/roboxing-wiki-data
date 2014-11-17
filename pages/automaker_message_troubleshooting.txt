@@ -1,6 +1,5 @@
 back to [[troubleshooting_wizard|Troubleshooting Wizard]]
 
-^Problem^Solution^
 Automaker asks to upgrade my firmware, but I get a upgrade failed message.
 
 Solutions:
