@@ -7,6 +7,7 @@ If you want to go to a specific step, just choose one in the list.
 |Step 2: Unboxing Robox|[[unboxing_robox|Unboxing Robox]] |
 |Step 3: Upgrading the software|[[automaker_upgrade|Automaker Upgrade]]|
 |Step 4: Starting Automaker |[[automaker_startup|Automaker Startup]]  |
-|Step 5: Test the first layer|[[first_layer_wizard|First Layer Wizard]]  |
+|Step 5: Calibration  |[[Calibrate Nozzle Opening]]  |
+|Step 6: Test the first layer|[[first_layer_wizard|First Layer Wizard]]  |
 |  |  |
 
