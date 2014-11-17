@@ -1,7 +1,7 @@
 ====== Wizards ======
 
 ^Wizard^Description  ^
-|[[getting_started_wizard_list| Getting Started Wizard Overview]]|A Getting started walkthrough|
+|[[getting_started_wizard_list| Getting Started walkthrough from A to Z]]|A Getting started walkthrough|
 |[[First Layer Wizard]]|Getting the first layer right is most important to printing success|
 |[[Troubleshooting Wizard]]|Follow the links until you find the page you need|
 |  |  |
