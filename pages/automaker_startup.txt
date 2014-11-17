@@ -1,3 +1,6 @@
+Starting AutoMaker
+
+If you want to skip this step you can go to [[Calibration Walkthrough]]
 
 ^Action^This is how it looks^
 |Start Automaker, leave Robox powered off|{{:wiki:start01.png?nolink&500|}}  |
