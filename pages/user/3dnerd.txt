@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Location: 51.04N, 7.08E (Leverkusen, Germany)
+  * Model: production build 1st wave, blue
+  * Head: Yes - I have one ;-)
+  * Nozzle Heights: 0.40 / 0.13
+  * Platform: Windows 7 Professional, 64Bit
