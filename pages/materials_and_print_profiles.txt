@@ -23,12 +23,12 @@ Below is a list of materials to use for printing, with linked details of the mat
     * Copolyesters
        * [[Taulman Tritan]]
 
-    * Flexibles
+    * Flexibles  (see also [[Flexible Filament]])
        * [[PolyFlex]] - PLA-based
        * [[NinjaFlex]] - TPE-based, opaque
        * [[Taulman PCTPE]] - TPE-based, opaque
        * [[Zen Toolworks Flexible Filament]] - TPE-based, opaque
-      (see also [[Flexible Filament]])
+      
 
     * Wood- and Stonelikes
        * [[PolyWood]]
