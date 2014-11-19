@@ -18,23 +18,23 @@ Below is a list of materials to use for printing, with linked details of the mat
         * [[:Nylon 618]] - [[https://www.youtube.com/watch?v=1UZpix1UmQQ|1]] [[https://www.youtube.com/watch?v=clkcItgVRXM|2]] [[https://www.youtube.com/watch?v=vIwRpIUWSvs|3]] [[https://www.youtube.com/watch?v=VqLID-OVfao|4]]
 
     * [[wp>http://en.wikipedia.org/wiki/Polyethylene_terephthalate|PET, PETE, PETT]]
-       * [[:Taulman t-glase]] - transparent / translucent
+        * [[:Taulman t-glase]] - transparent / translucent
 
     * Copolyesters
-       * [[:Taulman Tritan]]
+        * [[:Taulman Tritan]]
 
     * Flexibles (see also [[:Flexible Filament]])
-       * [[:PolyFlex]] - PLA-based
-       * [[:NinjaFlex]] - [[wp>http://en.wikipedia.org/wiki/Thermoplastic_elastomer|TPE]]-based, opaque
-       * [[:Taulman PCTPE]] - TPE-based, opaque
-       * [[:Zen Toolworks Flexible Filament]] - TPE-based, opaque
+        * [[:PolyFlex]] - PLA-based
+        * [[:NinjaFlex]] - [[wp>http://en.wikipedia.org/wiki/Thermoplastic_elastomer|TPE]]-based, opaque
+        * [[:Taulman PCTPE]] - TPE-based, opaque
+        * [[:Zen Toolworks Flexible Filament]] - TPE-based, opaque
       
     * Wood- and Stonelikes
-       * [[:PolyWood]]
+        * [[:PolyWood]]
 
     * Support Materials
-       * [[:PVOH|PVOH / PVA]] - dissolves in water
-       * [[:HIPS]] - dissolves in limolene
+        * [[:PVOH|PVOH / PVA]] - dissolves in water
+        * [[:HIPS]] - dissolves in limolene
 
 ==== Storage ====
 [[:How to properly store and cure 3d printing filaments]]
