@@ -2,6 +2,8 @@
 
 Below is a list of materials to use for printing, with linked details of the materials, their properties and any available print profiles for Robox.  If you have used a material that's not on this list, or you've improved on the profile, or you've got other wisdom to add, please do add the material to the list or edit the material's page.
 
+A [[:​Comparison of materials|comparison table]] of various materials is also available.
+
 ----
 ===== Officially supported =====
 
