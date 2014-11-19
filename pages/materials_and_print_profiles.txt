@@ -13,38 +13,27 @@ Below is a list of materials to use for printing, with linked details of the mat
 ==== Not (yet) supported ====
 
     * [[wp>http://en.wikipedia.org/wiki/Nylon|Nylon]]
-
         * [[:Taulman Bridge]] - translucent, bendable
-
         * [[:Nylon 645]] - very similar to Taulman Bridge
-
         * [[:Nylon 618]] - [[https://www.youtube.com/watch?v=1UZpix1UmQQ|1]] [[https://www.youtube.com/watch?v=clkcItgVRXM|2]] [[https://www.youtube.com/watch?v=vIwRpIUWSvs|3]] [[https://www.youtube.com/watch?v=VqLID-OVfao|4]]
 
     * [[wp>http://en.wikipedia.org/wiki/Polyethylene_terephthalate|PET, PETE, PETT]]
-
        * [[:Taulman t-glase]] - transparent / translucent
 
     * Copolyesters
-
        * [[:Taulman Tritan]]
 
     * Flexibles (see also [[:Flexible Filament]])
-
        * [[:PolyFlex]] - PLA-based
-
        * [[:NinjaFlex]] - [[wp>http://en.wikipedia.org/wiki/Thermoplastic_elastomer|TPE]]-based, opaque
        * [[:Taulman PCTPE]] - TPE-based, opaque
-
        * [[:Zen Toolworks Flexible Filament]] - TPE-based, opaque
       
     * Wood- and Stonelikes
-
        * [[:PolyWood]]
 
     * Support Materials
-
        * [[:PVOH|PVOH / PVA]] - dissolves in water
-
        * [[:HIPS]] - dissolves in limolene
 
 ==== Storage ====
