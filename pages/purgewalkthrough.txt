@@ -1,0 +1,10 @@
+Back to [[Calibration Walkthrough]]
+
+Purging material.
+
+AutoMaker is started and Robox is powered up, connected and recognized by AutoMaker.
+
+^Action^This is how it looks^
+|In Maintenance tab, choose Purge Material  |{{:wiki:purge0.png?nolink&800 |}}  |
+
+Back to [[Calibration Walkthrough]]
