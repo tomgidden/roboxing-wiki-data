@@ -1,0 +1,39 @@
+===== Comparison of materials =====
+
+The following tables are supposed to help you finding the right filament for your intended purpose by listing the most important properties for direct comparison. Feel free to add new filaments, information and make corrections. (The Strength section needs to be improved/completed so filament durability can be compared).
+
+A more complete list of materials may be available in the [[Materials and Print Profiles]] section.
+
+Click on individual **Filament Name** for print profile and additional information.
+
+==== Non- and Medium-Flexibles ====
+^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Bio ^Reviews ^
+^:::  ^:::           ^:::            ^Tensile ^Elongation ^Modulus ^:::        ^^:::       ^:::      ^:::           ^:::     ^
+|[[wp>http://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene|ABS]] |[[:abs|Robox ABS]]  |**yes** |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|opaque |  ?//%//|  various|no  |
+|[[wp>http://en.wikipedia.org/wiki/Nylon|Nylon]] |[[:robox_nylon|Robox Nylon]] |not yet avbl.  |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|translucent |  ?//%//|  ?|no  |
+|::: |[[:taulman_bridge|Taulman Bridge]] |no  |  4795 //psi//|  248.2//%//|  27141 //psi//|  68//%//|translucent |  0.6//%// |  whitish|no  |
+|::: |[[:taulman_tritan|Taulman Tritan]] |no |  6600 //psi//|  18.0//%//|  53000 //psi//|  9//%//|transparent |  0.62//%//|  clear|no  |
+|::: |[[:nylon_618|Taulman 618]] |no |  4575 //psi//|  86.2//%//|  22190 //psi//|  91//%//|opaque |  0.74//%//|  whitish|no  |[[https://www.youtube.com/watch?v=1UZpix1UmQQ|1]] [[https://www.youtube.com/watch?v=clkcItgVRXM|2]] [[https://www.youtube.com/watch?v=vIwRpIUWSvs|3]] [[https://www.youtube.com/watch?v=VqLID-OVfao|4]]  |
+|::: |[[:nylon_645|Taulman 645]] |no |  5188 //psi//|  186.0//%//|  30845 //psi//|  65//%//|translucent |  0.62//%//|  whitish|no  |
+|[[wp>http://en.wikipedia.org/wiki/Polyethylene_terephthalate|PET, PETE, PETT]] |[[:taulman_t-glase|Taulman t-glase]]  |no |  4516 //psi//|  7.8//%//|  80315 //psi//|  6-48//%//|transp. to translucent dep. on tint |  0.29//%//|  clear, various tints|no  |
+|[[wp>http://en.wikipedia.org/wiki/Polylactic_acid|PLA]] |[[:pla|Robox PLA (Ingenio 4043D)]] |**yes** |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|opaque |  ?//%//|  various|no  |
+
+==== Very Flexibles and Rubberlikes ====
+^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Bio ^Reviews ^
+^:::  ^:::           ^:::            ^Tensile ^Elongation ^Modulus ^:::        ^^:::       ^:::      ^:::           ^:::     ^
+|[[wp>http://en.wikipedia.org/wiki/Polylactic_acid|PLA]] |[[:polyflex|PolyFlex]] |no  |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|translucent, opaque (depending on color) |  ?//%//|  whitish, black|yes  |
+|[[wp>http://en.wikipedia.org/wiki/Thermoplastic_elastomer|TPE]] |[[:ninjaflex|NinjaFlex]]  |no |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|opaque |  ?//%//|  various|no  |[[https://www.youtube.com/watch?v=gTIFs_ILu1w|1]] [[https://www.youtube.com/watch?v=U_RZp7DXMT0|2]] [[https://www.youtube.com/watch?v=ZnJZTwrQcQI|3]] [[https://www.youtube.com/watch?v=WAUQPJF9wTg|4]] |
+|::: |[[:taulman_pctpe|Taulman PCTPE]] |no  |  4500 //psi//|  370.0//%//|  13500 //psi//|  ?//%//|translucent |  ?//%//|  whitish|no  |
+|::: |[[:zen_toolworks_flexible_filament|Zen Toolworks Flexible]] |no  |  ? //psi//|  ?//%//|  ? //psi//|  ?//%//|translucent, opaque (depending on color) |  ?//%//|  various|no  |[[https://www.youtube.com/watch?v=NvEoQrTAen4|1]] [[https://www.youtube.com/watch?v=xgGvaA9S44E|2]] [[https://www.youtube.com/watch?v=xAVSZdpchDQ|3]] |
+
+See also [[:flexible_filament|Flexible Filament Printing Stub]].
+
+==== Wood- and Stonelikes ====
+^Type ^Filament Name ^Robox Approved ^  Strength                 ^^^  Opacity  ^^Shrinkage ^Color(s) ^Bio ^Reviews ^
+^:::  ^:::           ^:::            ^Tensile ^Elongation ^Modulus ^:::        ^^:::       ^:::      ^:::           ^:::     ^
+|Woodlike |[[:polywood|PolyWood]]  |no |  ? //psi//|  ?//%//|  ? //psi//|  100//%//|opaque |  ?//%//|  brown|no  |
+
+==== Support Materials ====
+^Type ^Filament Name ^Robox Approved ^Shrinkage ^Dissolves in ^Reviews ^
+|[[wp>http://en.wikipedia.org/wiki/Polyvinyl_alcohol|PVOH, PVA]] |[[:pvoh|PVOH]]  |no |  ?//%//|  Water|
+|[[wp>http://en.wikipedia.org/wiki/Polystyrene#Copolymers|HIPS]] |[[:hips|HIPS]]  |no |  ?//%//|  Limonene|
