@@ -28,7 +28,7 @@ These filaments are not directly supported by CEL, but may have been tested succ
     * [[:Nylon 618]] - [[https://www.youtube.com/watch?v=1UZpix1UmQQ|1]] [[https://www.youtube.com/watch?v=clkcItgVRXM|2]] [[https://www.youtube.com/watch?v=vIwRpIUWSvs|3]] [[https://www.youtube.com/watch?v=VqLID-OVfao|4]]
 
 === PET, PETE, PETT ===
-([[wp>http://en.wikipedia.org/wiki/Polyethylene_terephthalate]])
+([[wp>http://en.wikipedia.org/wiki/Polyethylene_terephthalate|Polyethylene terephthalate]])
 
     * [[:Taulman t-glase]] - transparent / translucent
 
