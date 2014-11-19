@@ -9,6 +9,7 @@ AutoMaker is started and Robox is powered up, connected and recognized by AutoMa
 |Read the warning and push Start Purge  |{{:wiki:purge01.png?nolink&600 |}}  |
 |Check temp. with Reel content and push Proceed |{{:wiki:purge02.png?nolink&600 |}}  |
 |Wait for robox to heat up and let it purge  |{{:wiki:purge03.png?nolink&600 |}}  |
+|Purge video with polar white PLA  | [[http://youtu.be/MwoFieR95Uw | Robox Purge on YouTube]]  |
 |Purge complete, push ok  |{{:wiki:purge04.png?nolink&600 |}}  |
 |Let things cool down  |{{:wiki:purge05.png?nolink&600 |}}  |
 |Don't open the lid until Nozzel and Bed are Cold  |{{:wiki:purge06.png?nolink&600 |}}  |
