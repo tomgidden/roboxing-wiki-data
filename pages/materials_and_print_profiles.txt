@@ -1,20 +1,8 @@
-===== Materials and Print Profiles =====
-
-Below is a list of materials to use for printing, with linked details of the materials, their properties and any available print profiles for Robox.  If you have used a material that's not on this list, or you've improved on the profile, or you've got other wisdom to add, please do add the material to the list or edit the material's page.
-
-==== Officially supported ====
-
-    * [[:ABS]] - Robox ABS (Chi Mei Polylac 747)
-
-    * [[:PLA]] - Robox PLA (Ingenio 4043D)
-
-    * [[:Robox NYLON]] - not yet available.
-
 ====== Materials and Print Profiles ======
 
 Below is a list of materials to use for printing, with linked details of the materials, their properties and any available print profiles for Robox.  If you have used a material that's not on this list, or you've improved on the profile, or you've got other wisdom to add, please do add the material to the list or edit the material's page.
 
----
+----
 ===== Officially supported =====
 
 These filaments are (or will be) available from CEL directly, and have approved settings built-in to AutoMaker.
@@ -25,7 +13,7 @@ These filaments are (or will be) available from CEL directly, and have approved 
 
     * [[:Robox NYLON]] - not yet available.
 
----
+----
 ===== Not (yet) supported =====
 
 These filaments are not directly supported by CEL, but may have been tested successfully or unsuccessfully by users.  As ever, whether or not a filament is suitable for use or will affect your warranty is a matter for you and CEL to decide.  If in doubt, ask CEL or in the forums.
@@ -69,8 +57,6 @@ These filaments are not directly supported by CEL, but may have been tested succ
 
     * [[:HIPS]] - dissolves in limolene
 
----
+----
 ===== Storage =====
-[[:How to properly store and cure 3d printing filaments]]
-==== Storage ====
 [[:How to properly store and cure 3d printing filaments]]
