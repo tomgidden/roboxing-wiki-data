@@ -1,0 +1,16 @@
+How to clean the bed
+
+**Always use gloves to handle anything with the print bed**
+
+It is optional to remove the bed if you're sure no printed plastic will be left inside robox.
+
+^Step^Action^Walkthrough^More details  ^
+|1 |Start: filled bed| {{:wiki:rob-000_26.jpg?nolink&300 |}} |
+|2 |OPTIONAL: remove bed, slide handle to left |  {{:wiki:rob-000_27.jpg?nolink&300 |}} |
+|3 |OPTIONAL: remove wipe rubber |  {{:wiki:rob-000_28.jpg?nolink&300 |}} |
+|4 |OPTIONAL: pull the bed slightly towards you until the clips are free |  {{:wiki:rob-000_29.jpg?nolink&300 |}} |
+|5 |Remove the printed material |  {{:wiki:rob-000_31.jpg?nolink&300 |}} |
+|6 |Take a cleaning wipe with isopropol |  {{:wiki:rob-000_32.jpg?nolink&300 |}} |
+|7 |Wipe the bed until all is cleaned |  {{:wiki:rob-000_33.jpg?nolink&300 |}} |
+|8 |OPTIONAL: reinstall the bed, take care all metal clips cover the bed |  {{:wiki:rob-000_34.jpg?nolink&300 |}} |
+|9 |OPTIONAL: Do not forget to close the handle and reinstall the wipe rubber |  {{:wiki:rob-000_34.jpg?nolink&300 |}} |
