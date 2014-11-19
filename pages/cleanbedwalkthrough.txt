@@ -13,4 +13,4 @@ It is optional to remove the bed if you're sure no printed plastic will be left 
 |6 |Take a cleaning wipe with isopropol |  {{:wiki:rob-000_32.jpg?nolink&300 |}} |
 |7 |Wipe the bed until all is cleaned |  {{:wiki:rob-000_33.jpg?nolink&300 |}} |
 |8 |OPTIONAL: reinstall the bed, take care all metal clips cover the bed |  {{:wiki:rob-000_34.jpg?nolink&300 |}} |
-|9 |OPTIONAL: Do not forget to close the handle and reinstall the wipe rubber |  {{:wiki:rob-000_34.jpg?nolink&300 |}} |
+|9 |OPTIONAL: Do not forget to close the handle and reinstall the wipe rubber |  {{:wiki:rob-000_28.jpg?nolink&300 |}} |
