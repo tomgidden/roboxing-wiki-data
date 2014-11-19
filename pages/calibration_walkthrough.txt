@@ -2,12 +2,12 @@ This is a list of all things to calibrate on the robox.
 
 If calibration is done for your robox you can go right to [[first_layer_wizard|First Layer Wizard]]
 
-^Action^Link  ^
-|Where is my Maintenance ?  |{{:maintenance_panel1.png?nolink | Maintenance Button}} {{:maintenance_panel_2.png?nolink&200 |}} |
-|Purge  |   |
-|Calibrate Nozzle Opening  |[[Calibrate Nozzle Opening]]   |
-|Calibrate Nozzle Height  |[[Calibrate Nozzle Height]]  |
-|Calibrate Gantry (vertical calibration)  |[[Level gantry]]  |
-|Calibrate X Axis (vertical calibration)  |[[Level X]]  |
-|4 point leveling  |[[Pre-print height calibration]]  |
+^Action^Walkthrough^More details  ^
+|Where is my Maintenance ?|  |{{:maintenance_panel1.png?nolink | Maintenance Button}} {{:maintenance_panel_2.png?nolink&200 |}} |
+|Purge |  [[purgewalkthrough| Purge]] |   |
+|Calibrate Nozzle Opening  |  |[[Calibrate Nozzle Opening]]   |
+|Calibrate Nozzle Height  |  |[[Calibrate Nozzle Height]]  |
+|Calibrate Gantry (vertical calibration)  |  |[[Level gantry]]  |
+|Calibrate X Axis (vertical calibration)  |  |[[Level X]]  |
+|4 point leveling  |  |[[Pre-print height calibration]]  |
 
