@@ -5,7 +5,7 @@ Nozzle opening calibration.
 AutoMaker is started and Robox is powered up, connected and recognized by AutoMaker.
 Tweezers are needed to clean the nozzles manualy.
 
-Automaker has a nise wizard that guides you through the procedure and is probably going to change.
+Automaker has a nice wizard that guides you through the procedure and is probably going to change.
 The documentation and video below is to give you an idea what to expect.
 
 You can watch this also [[http://youtu.be/MwoFieR95Uw | YouTube: Nozzle opening calibration]]
