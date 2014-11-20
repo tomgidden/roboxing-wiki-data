@@ -1,0 +1,28 @@
+Back to [[Calibration Walkthrough]]
+
+Nozzle opening calibration.
+
+AutoMaker is started and Robox is powered up, connected and recognized by AutoMaker.
+Tweezers are needed to clean the nozzles manualy.
+
+You can whats this also on [[http://youtu.be/MwoFieR95Uw | YouTube: Nozzle opening calibration]]
+
+^Action^This is how it looks^
+|In Maintenance tab, choose Calibrate Nozzle Opening  |{{:wiki:nozzle01.png?nolink |}}  |
+|push Start Calibration  |{{:wiki:nozzle02.png?nolink&600 |}}  |
+|Wait while initializing |{{:wiki:purge03.png?nolink&600 |}}  |
+|Wait while the nozzles are hearted  |{{:wiki:nozzle04.png?nolink&600 |}}  |
+|Check no material escapes from nozzles  | {{ :wiki:nozzle05.jpg?nolink |}}  |
+|Check material is comming from left nozzle  |{{:wiki:nozzle07.png?nolink&600 |}}  |
+|Check material is comming from right nozzle  |{{:wiki:nozzle08.png?nolink&600 |}}  |
+|Clean the nozzle with tweezers. Attention: nozzles are hot  |{{:wiki:nozzle10.png?nolink&600 |}}  |
+|Start calibration for left nozzle  |{{:wiki:nozzle11.png?nolink&600 |}}  |
+|Start calibration for right nozzle  |{{:wiki:nozzle12.png?nolink&600 |}}  |
+|Clean the nozzle with tweezers. Attention: nozzles are still hot  |{{:wiki:nozzle13.png?nolink&600 |}}  |
+|Check no material escapes from nozzles  |{{:wiki:nozzle14.png?nolink&600 |}}  |
+|See that material flows from left nozzle  |{{:wiki:nozzle15.png?nolink&600 |}}  |
+|See that material flows from right nozzle  |{{:wiki:nozzle17.png?nolink&600 |}}  |
+|Save settings  |{{:wiki:nozzle18.png?nolink&600 |}}  |
+|Do this procedure twice, [[Calibrate Nozzle Opening | read here for more details]]  |{{:wiki:nozzle18.png?nolink&600 |}}  |
+
+Back to [[Calibration Walkthrough]]
