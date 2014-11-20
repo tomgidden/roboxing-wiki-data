@@ -4,8 +4,8 @@ If calibration is done for your robox you can go right to [[first_layer_wizard|F
 
 ^Step^Action^Walkthrough^More details  ^
 |1 |Where is my Maintenance ?|  |{{:maintenance_panel1.png?nolink | Maintenance Button}} {{:maintenance_panel_2.png?nolink&200 |}} |
-|2 |Purge |  [[purgewalkthrough| Purge]] |   |
-|3 |Clean Bed |  [[cleanbedwalkthrough| Clean Bed]] |   |
+|2 |Purge  | [[purgewalkthrough| Purge]] |   |
+|3 |Clean Bed  | [[cleanbedwalkthrough| Clean Bed]] |   |
 |4 |Calibrate Nozzle Opening  | [[nozzleopeningwalkthrough| Nozzle Opening]]  |[[Calibrate Nozzle Opening]]   |
 |5 |Calibrate Nozzle Height  |  |[[Calibrate Nozzle Height]]  |
 |6 |Calibrate Gantry (vertical calibration)  |  |[[Level gantry]]  |
