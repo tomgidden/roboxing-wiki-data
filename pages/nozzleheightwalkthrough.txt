@@ -1,0 +1,24 @@
+Back to [[Calibration Walkthrough]]
+
+Nozzle height calibration.
+
+AutoMaker is started and Robox is powered up, connected and recognized by AutoMaker.
+Tweezers are needed to clean the nozzles manualy.
+
+Automaker has a nice wizard that guides you through the procedure and is probably going to change.
+The documentation and video below is to give you an idea what to expect.
+
+You can watch this also [[http://youtu.be/OOZWnWdojvY | YouTube: Nozzle height calibration]]
+
+^Action^This is how it looks^
+|In Maintenance tab, choose Calibrate Nozzle Height  |{{:wiki:nozzleheight01.png?nolink |}}  |
+|push Recalibrate  |{{:wiki:nozzleheight02.png?nolink&600 |}}  |
+|push Start Calibration and open the Robox door |{{:wiki:nozzleheight03.png?nolink&600 |}}  |
+|Wait while the nozzles are heated  |{{:wiki:nozzleheight04.png?nolink&600 |}}  |
+|Make sure the nozzles are clean, use tweazers to clean them. Push Yes  | {{ :wiki:nozzleheight05.png?nolink&600 |}}  |
+|Let robox to it's measuring  |{{:wiki:nozzleheight06.png?nolink&600 |}}  |
+|Take a piece of normal printer paper and slide it under the head  |{{:wiki:nozzleheight07.png?nolink&600 |}}  |
+|Play along with the Too tight and the Too loose buttons until you reach the height where it is just possible to move the paper back and forward without using force. Holding the paper between thumb and 1 finger is enough. Push Just right when done.  |{{:wiki:nozzleheight08.png?nolink&600 |}}  |
+|push Save settings  |{{:wiki:nozzleheight09.png?nolink&600 |}}  |
+
+Back to [[Calibration Walkthrough]]
