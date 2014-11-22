@@ -8,7 +8,7 @@
 
   * [[Storing filament]], and [[Recovering damp filament]]
 
-  * [[Prepare filament / change filament]]
+  * [[Prepare filament // change filament]]
 
 
 
