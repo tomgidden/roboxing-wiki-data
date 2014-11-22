@@ -8,7 +8,7 @@ So here the procedure to change filament:
 
 2. Eject the current filament by clicking the eject button in AutoMaker or pressing the eject button in the middle of the reel for more than 3 seconds.
 
-3. Clip the end of the PLA at a square angle.
+3. Clip the end of the new material at a square angle.
 
 4. Feed the new material into the Robox until the Robox grabs it.
 
