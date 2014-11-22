@@ -12,4 +12,7 @@ So here the procedure to change filament:
 
 4. Feed the new material into the Robox until the Robox grabs it.
 
-5. Perform at least one purge.
+5. Choose a head temperature which is in the middle between the current material and new material.
+(If new material is an original Robox reel a wizard will help you after you inserted the new reel)
+
+6. Perform at least one purge.
