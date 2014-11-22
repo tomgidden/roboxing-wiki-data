@@ -7,6 +7,11 @@
   * [[Purge Material]] -- used when changing filaments, or for testing
 
   * [[Storing filament]], and [[Recovering damp filament]]
+
+  * [[Prepare filament]]
+
+
+
 ==== Fixing problems ====
 
     * [[Removing filament from print head]]
@@ -15,5 +20,3 @@
 ==== In-depth Robox and AutoMaker ====
 
   * [[GCode]]
-
-  * [[Prepare filament]]
