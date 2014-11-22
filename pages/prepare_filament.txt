@@ -2,3 +2,14 @@ In the manual was written to cut the filament in an angle of around 45°, but no
 
 //Cut the end of the filament so the end is approximately square. We previously advised to cut filament at an angle 45° or less. We now advise a square cut on the end to avoid piercing the bowden tube//
 
+So here the procedure to change filament:
+
+1. Read the manual.
+
+2. Eject the current filament by clicking the eject button in AutoMaker or pressing the eject button in the middle of the reel for more than 3 seconds.
+
+3. Clip the end of the PLA at a square angle.
+
+4. Feed the new material into the Robox until the Robox grabs it.
+
+5. Perform at least one purge.
