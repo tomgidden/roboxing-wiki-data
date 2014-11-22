@@ -52,6 +52,7 @@ These filaments are not directly supported by CEL, but may have been tested succ
 === Wood- and Stonelikes ===
 
     * [[PolyWood]]
+    * [[laywoo-d3]]
 
 === Support Materials ===
 
