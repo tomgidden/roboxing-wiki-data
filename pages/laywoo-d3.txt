@@ -1,0 +1,3 @@
+Laywoo-d3
+
+this is another wood type filament but i found it too brittle and it snapped easily when trying to feed it into the extruder which resulted in it snapping off inside the extruder and having to open the extruder up to remove it so i would advise caution when attempting to use.
