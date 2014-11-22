@@ -1,0 +1,4 @@
+In the manual was written to cut the filament in an angle of around 45°, but now there is an updated recommendation from CEL:
+
+//Cut the end of the filament so the end is approximately square. We previously advised to cut filament at an angle 45° or less. We now advise a square cut on the end to avoid piercing the bowden tube//
+
