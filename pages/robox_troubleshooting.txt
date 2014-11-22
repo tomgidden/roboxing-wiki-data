@@ -2,7 +2,7 @@ back to [[troubleshooting_wizard| Troubleshooting Wizard]]
 
 ^Problem^Solution^
 |The nozzle is clogged |[[NozzleCloggedWizard| Nozzle Clogged Wizard]]|
-|  |  |
+|b axis error  | try to plug in usb first, then power up Robox  |
 |  |  |
 |  |  |
 |  |  |
