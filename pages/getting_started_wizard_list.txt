@@ -8,7 +8,7 @@ If you want to go to a specific step, just choose one in the list.
 |Step 3: Upgrading the software|[[automaker_upgrade|Automaker Upgrade]]|
 |Step 4: Starting Automaker |[[automaker_startup|Automaker Startup]]  |
 |Step 5: Calibration  |[[Calibration Walkthrough]] |
-|Step 6: Pre-print checks| [[Pre-print Walkthrough|preprintchecks]] |
+|Step 6: Pre-print checks| [[preprintchecks|Pre-print Walkthrough]] |
 |Step 7: Test the first layer|[[first_layer_wizard|First Layer Wizard]]  |
 |  |  |
 
