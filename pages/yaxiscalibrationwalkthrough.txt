@@ -11,6 +11,6 @@ You can watch this also [[http://youtu.be/uUj7yX7W3co | YouTube: Level Y]]
 
 ^Action^This is how it looks^
 |In Maintenance tab, choose Level Y  |{{:wiki:levely01.png?nolink |}}  |
-|Watch Robox level Y |{{:wiki:levaly02.png?nolink&600 |}}  |
+|Watch Robox level Y |{{:wiki:levely02.png?nolink&600 |}}  |
 
 Back to [[Calibration Walkthrough]]
