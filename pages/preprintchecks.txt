@@ -4,17 +4,17 @@ If you're sure, check it anyway, printing takes a long time, checking this list 
 
 If the pre-print checks are done for your robox you can go right to [[first_layer_wizard|First Layer Wizard]]
 
-^Step^Action^Walkthrough^More details  ^
-|1 |I moved my Robox  |  |
-|2 |Filament is loaded in Robox ?  |   |
-|3 |The build plate is cleaned with isopropol ?  |   |
-|4 |I use a new reel of filament, same material |   |
+^Step^Check^YES^NO^
+|1 |I moved my Robox  |  |  |
+|2 |Filament is loaded in Robox ?  |   |  |
+|3 |The build plate is cleaned with isopropol ?  |   |  |
+|4 |I use a new reel of filament, same material |   |  |
 |5 |I use a new reel of filament, different material  |   |   |
-|6 |Robox is powered on, AutoMaker recognized Robox  |  |
-| |  |  |
-| |  |  |
-| |  |  |
-| |  |  |
-| |  |  |
-| |I use ABS  |scale the model up by 2% in AM  |
+|6 |Robox is powered on, AutoMaker recognized Robox  |  |  |
+| |  |  |  |
+| |  |  |  |
+| |  |  |  |
+| |  |  |  |
+| |  |  |  |
+| |I use ABS  |scale the model up by 2% in AM  |  |
 
