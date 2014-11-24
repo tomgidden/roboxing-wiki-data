@@ -1,0 +1,16 @@
+Back to [[Calibration Walkthrough]]
+
+Gantry calibration.
+
+AutoMaker is started and Robox is powered up, connected and recognized by AutoMaker.
+
+Gantry calibration is fully automated in Automaker.
+The documentation and video below is to give you an idea what to expect.
+
+You can watch this also [[http://youtu.be/NI7PVuQLyI0 | YouTube: Level gantry]]
+
+^Action^This is how it looks^
+|In Maintenance tab, choose Level Gantry  |{{:wiki:gantry01.png?nolink |}}  |
+|Watch Robox level the Gantry  |{{:wiki:gantry02.png?nolink&600 |}}  |
+
+Back to [[Calibration Walkthrough]]
