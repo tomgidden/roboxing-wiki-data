@@ -8,7 +8,8 @@ If calibration is done for your robox you can go right to [[first_layer_wizard|F
 |3 |Clean Bed  | [[cleanbedwalkthrough| Clean Bed]] |   |
 |4 |Calibrate Nozzle Opening  | [[nozzleopeningwalkthrough| Nozzle Opening]]  |[[Calibrate Nozzle Opening]]   |
 |5 |Calibrate Nozzle Height  | [[nozzleheightwalkthrough| Nozzle Height]]  |[[Calibrate Nozzle Height]]  |
-|6 |Calibrate Gantry (vertical calibration)  |  |[[Level gantry]]  |
-|7 |Calibrate X Axis (vertical calibration)  |  |[[Level X]]  |
-|8 |4 point leveling  |  |[[Pre-print height calibration]]  |
+|6 |Calibrate Gantry (vertical calibration)  | [[gantrycalibrationwalkthrough| Gantry]] |[[Level gantry]]  |
+|7 |Calibrate Y Axis (vertical calibration)  | [[yaxiscalibrationwalkthrough| Y Axis]] |[[Level Y]]  |
+|8 |Text X, Y and Z Axis  | [[xyztestwalkthrough| X, Y, Z Test]] |  |
+|9 |4 point leveling  |  |[[Pre-print height calibration]]  |
 
