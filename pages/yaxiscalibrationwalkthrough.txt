@@ -1,0 +1,16 @@
+Back to [[Calibration Walkthrough]]
+
+Level Y calibration.
+
+AutoMaker is started and Robox is powered up, connected and recognized by AutoMaker.
+
+Level Y is fully automated in Automaker.
+The documentation and video below is to give you an idea what to expect.
+
+You can watch this also [[http://youtu.be/uUj7yX7W3co | YouTube: Level Y]]
+
+^Action^This is how it looks^
+|In Maintenance tab, choose Level Y  |{{:wiki:levely01.png?nolink |}}  |
+|Watch Robox level Y |{{:wiki:levaly02.png?nolink&600 |}}  |
+
+Back to [[Calibration Walkthrough]]
