@@ -1,4 +1,4 @@
-====== Wizards ======
+====== Walkthroughs & Wizards ======
 
 ^Wizard^Description  ^
 |[[getting_started_wizard_list| Getting Started walkthrough from A to Z]]|A Getting started walkthrough|
