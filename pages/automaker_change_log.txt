@@ -36,7 +36,7 @@ version 1.00.14
   * Update to version 684 firmware.
 
 version 1.00.13
-Fixed post-processing issue causing under-extrusion and large blobs of material on some models.
+  * Unordered List ItemFixed post-processing issue causing under-extrusion and large blobs of material on some models.
 Added languages - complete set is:
 	English
 	Finnish
