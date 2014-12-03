@@ -35,6 +35,8 @@ version 1.00.14
   * Version and date is written to post-processed gcode files.
   * Update to version 684 firmware.
 
+----
+
 version 1.00.13
   * Unordered List ItemFixed post-processing issue causing under-extrusion and large blobs of material on some models.
 Added languages - complete set is:
