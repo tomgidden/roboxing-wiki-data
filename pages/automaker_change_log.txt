@@ -53,13 +53,15 @@ Fixed
 ----
 
 version 1.00.12
-Major update to postprocessor to improve print quality - specifically nozzle open/close.
-All default profiles updated.
-Automatic update of user profiles included.
-Numerous minor fixes to UI behaviour (including purge and filament detection).
+  * Major update to postprocessor to improve print quality - specifically nozzle open/close.
+  * All default profiles updated.
+  * Automatic update of user profiles included.
+  * Numerous minor fixes to UI behaviour (including purge and filament detection).
+
+----
 
 version 1.00.11
-Fixed an issue preventing Slicing when a user's home directory a UNC drive (Windows only)
+  * Fixed an issue preventing Slicing when a user's home directory a UNC drive (Windows only)
 
 ----
 
