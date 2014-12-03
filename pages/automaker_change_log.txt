@@ -2,6 +2,7 @@ CEL AutoMaker README
 
 version 1.00.17
 Revision 684.2 firmware
+
 Fixes:
 ROB-263 - Filament saves incorrectly for countries using , decimal separator
 ROB-216 - Selection box corners sized incorrectly
