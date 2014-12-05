@@ -3,3 +3,5 @@
 How to ensure Robox doors are not locked:
 
 http://www.cel-robox.com/forums/topic/door-latch-holder/
+
+Download: {{:robox_accessories_and_projects:robox-latch-holder.stl|}}
