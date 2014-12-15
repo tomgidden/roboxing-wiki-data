@@ -1,5 +1,5 @@
 ==== Robox details ====
   * Robox Name: force
   * Location: 42.43N, 71.45W
-  * Model: Kickstarter Early Bird, green
+  * Model: Kickstarter Re-production, blue
   * Platform: MacOS Yosemite
