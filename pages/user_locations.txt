@@ -29,6 +29,7 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:clicky]]
    * [[:user:Dr. Woo]]
    * [[:user:Datman]]
+   * [[:user:force]]
    * [[:user:gid]]
    * [[:user:grahammoore]]
    * [[:user:Grimtech]]
