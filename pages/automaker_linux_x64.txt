@@ -49,4 +49,5 @@ Add your user account to the ''dialup'' group with the following command as root
 <code> adduser username dialup</code>
 
 Log off, and log back in. AutoMaker should now be able to detect your Robox printer.
+
 Next step: [[Unboxing Robox|Unboxing Robox]]
