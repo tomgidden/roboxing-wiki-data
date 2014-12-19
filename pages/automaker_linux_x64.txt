@@ -1,24 +1,24 @@
-  * Install **Java 1.8** (last update sept 2014, is subject to change)
-Instructions: [[http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/|
-How to Install Oracle Java 8 (JDK 8u20) In Ubuntu & LinuxMint Via PPA]]
-  * [[http://www.cel-robox.com/technical/downloads/|Download]] **Automaker for Linux X64**
-  * Check your **Grafic drivers**, it is recommended to use factory drivers, not the auto-installed generic drivers.
-  * copy your AutoMakerxxxxxx.x64-installer.run file to the installation map. (/home, I prefer /opt)
-  * make your AutoMakerxxxxxx.x64-installer.run executable
-  * **run the installer**
-If all goes well, you will find in your install map **CEL/AutoMaker/Automaker.run**
-If you can run things without Error message, you're done here.
-If you get "Fatal Error - 3D Not Available On This Machine", you need to proceed with next steps
-  * download {{:graphicsoverridelinux.zip|}} and extract **GraphicsOverrideLinux.sh**.
-  * make GraphicsOverrideLinux.sh executable
-  * copy GraphicsOverrideLinux.sh to the CEL/Automaker map
-  * open a Terminal and run this script to open AutoMaker
-
-If something is wrong, you can find help in the [[wizards|Wizards]]
-
 ==== Installation for Debian-based distributions ====
 
 If you are using a distribution based on Debian (like Debian Wheezy or Ubuntu 14), AutoMaker may be unable to properly detect the Robox printer when launched by a non-root user. This is because the way it detects the Robox depends on the "udevadm" command, but that command is only available to the root user in Debian.
+
+=== Using a pre-made package ===
+
+This is a very simple package that tries to make things a little easier for you.
+
+First, download the package from [[https://cloud.ailesse.info/public.php?service=files&t=fdd4319f2a50606cf075bb56b3ebb401|here]], and install it as root with:
+<code>dpkg -i robox-support_1.0-1_all.deb</code>
+
+Then, in the directory where you installed Automaker (normally ~/CEL), delete (or move away) ''Common/bin/RoboxDetector.linux.sh'' and replace it by a symbolic link to ''/usr/bin/robox-detect'' :
+<code>cd ~/CEL/Common/bin
+mv RoboxDetector.linux.sh RoboxDetector.linux.sh.orig
+ln -s /usr/bin/robox-detect RoboxDetector.linux.sh
+</code>
+
+Add your user account to the ''dialup'' group with the following command as root (and of course replacing //username// by your own user name!):
+<code> adduser username dialup</code>
+
+Unplug the Robox from the computer, log off, log back in and replug the Robox. AutoMaker should now be able to detect it.
 
 === Without using a package ===
 
