@@ -16,4 +16,35 @@ If you get "Fatal Error - 3D Not Available On This Machine", you need to proceed
 
 If something is wrong, you can find help in the [[wizards|Wizards]]
 
+**Installation for Debian-based distributions**
+
+If you are using a distribution based on Debian (like Debian Wheezy or Ubuntu 14), AutoMaker may be unable to properly detect the Robox printer when launched by a non-root user. This is because the way it detects the Robox depends on the "udevadm" command, but that command is only available to the root user in Debian.
+
+To solve that issue, we'll first give a proper device name to the Robox printer, so that it is easier to find. As root, create the file ''/etc/udev/rules.d/80-robox.rules'' and add the following line inside it:
+
+<code>SUBSYSTEM=="tty", SUBSYSTEMS=="usb", ATTRS{idVendor}=="16d0", ATTRS{idProduct}=="081b", ATTRS{product}=="Robox", SYMLINK+="robox%n"</code>
+
+Unplug and replug the Robox to the computer. A new file called ''/dev/robox0'' should now appear (actually, it is a symbolic link to the real device node - usually ''/dev/ttyACM0''). If it doesn't, try rebooting the computer to ensure that the new udev rules were properly taken into account.
+
+Now, in the directory where you installed Automaker (normally ~/CEL), edit ''Common/bin/RoboxDetector.linux.sh'' and replace its content by the following:
+
+<code>#!/bin/bash
+# Note - both the id and name parameters are unused here.
+for device in /dev/robox*
+do
+    name=$1
+    id=$2
+    if [[ $device = "/dev/robox*" ]] 
+    then 
+        echo NOT_CONNECTED 
+        exit 
+    fi 
+    echo $device >/dev/stdout 
+    echo " " 
+done</code>
+
+Add your user account to the ''dialup'' group with the following command as root (and of course replacing //username// by your own user name!):
+<code> adduser username dialup</code>
+
+Log off, and log back in. AutoMaker should now be able to detect your Robox printer.
 Next step: [[Unboxing Robox|Unboxing Robox]]
