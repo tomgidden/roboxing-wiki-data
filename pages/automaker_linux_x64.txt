@@ -16,9 +16,11 @@ If you get "Fatal Error - 3D Not Available On This Machine", you need to proceed
 
 If something is wrong, you can find help in the [[wizards|Wizards]]
 
-**Installation for Debian-based distributions**
+==== Installation for Debian-based distributions ====
 
 If you are using a distribution based on Debian (like Debian Wheezy or Ubuntu 14), AutoMaker may be unable to properly detect the Robox printer when launched by a non-root user. This is because the way it detects the Robox depends on the "udevadm" command, but that command is only available to the root user in Debian.
+
+=== Without using a package ===
 
 To solve that issue, we'll first give a proper device name to the Robox printer, so that it is easier to find. As root, create the file ''/etc/udev/rules.d/80-robox.rules'' and add the following line inside it:
 
