@@ -1,0 +1,15 @@
+Robox details
+
+    Robox Name: Robox
+    Location: 51.2N, 0.00E
+    Model: Production, Blue
+    Nozzle Heights: ?, ?
+    Platform: Windows 7  Pro x64
+    Supplier: Farnell Element 14
+    
+20/12/2014
+Had my Robox for about two weeks now and only last night produced first successful print of the pyramid.  Seem to be a lot of problems: B-axis stuck; will not eject filament or will not purge properly and always when starting the app I get the windows 'Do you want to allow this program to make changes...'  So a bit disappointed at the mo.
+
+B-axis error always happens after the head light goes out at the beginning of the layer about to be printed.
+
+
