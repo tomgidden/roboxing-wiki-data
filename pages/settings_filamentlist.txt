@@ -1,0 +1,14 @@
+A list of filaments and their specific settings in Automaker
+
+**PLA**
+^Name  ^Supplier  ^Order Link  ^Settings  ^
+|Robox Polar White  |CEL  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+**ABS**
+^Name  ^Supplier  ^Order Link  ^Settings  ^
+|Robox Chroma Green  |CEL  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
