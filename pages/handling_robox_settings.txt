@@ -1,0 +1,14 @@
+This is a list of catergories of things that influence your settings in AutoMaker.
+Going through this list should give you a head start fine-tuning your prints.
+Due to the endles possibilities this list will never be complete, but we are ambitious.
+If you found something, and it isn't listed here, please put it one of the lists below,
+it doesn't matter if you have the solution or not.
+
+
+^Categorie  ^Description  ^
+|[[settings_filamentlist | Filament]]  | A list of all filaments (and manufacturers) with their specific settings  |
+|[[settings_printmodelparameterlist | Print model parameters ]]  | A list of all parameters in a model that influence print settings |
+|[[settings_slicerlist | Slicer ]]  | The supported slicers |
+
+
+
