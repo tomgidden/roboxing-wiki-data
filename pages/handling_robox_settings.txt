@@ -9,7 +9,12 @@ it doesn't matter if you have the solution or not.
 |[[settings_filamentlist | Filament]]  | A list of all filaments (and manufacturers) with their specific settings  |
 |[[settings_printmodelparameterlist | Print model parameters ]]  | A list of all parameters in a model that influence print settings |
 |[[settings_slicerlist | Slicer ]]  | The supported slicers |
-|[[settings_profile| Profile settings ]] | All the settings you can set in a custom profile |
+
+Additional information about individual settings can be found here
+^Link  ^Description  ^
+|[[settings_profile| Profile settings overview ]] | All the settings you can set in a custom profile |
+|[[settings| Settings Wiki ]] | Settings Wiki |
+
 
 
 
