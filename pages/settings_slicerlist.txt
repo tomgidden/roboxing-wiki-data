@@ -1,0 +1,8 @@
+A list of supported slicers in AutoMaker and the way they influence print settings
+
+
+^Slicer homepage  ^Settings ^
+|[[http://slic3r.org/ | Slic3r]]  |  |
+|[[http://wiki.ultimaker.com/Cura | Cura]]  |  |
+|  |  |
+
