@@ -4,6 +4,7 @@
 |[[https://www.youtube.com/watch?v=7F26vj60C40|Quick guide on youtube]]|A very fast guide to get started on youtube|
 |[[getting_started_wizard_list| Getting Started walkthrough from A to Z]]|A Getting started walkthrough|
 |[[First Layer Wizard]]|Getting the first layer right is most important to printing success|
+|[[parameters_influencing_robox_settings]]|Parameters that influence the settings in AM: a guide to handle them|
 |[[RoboxMaintenance| Maintenance walkthrough]]|How to keep your robox in good shape|
 |[[Troubleshooting Wizard]]|Follow the links until you find the page you need|
 |  |  |
