@@ -1,0 +1,41 @@
+====== Profile settings ======
+
+You can create custom profiles to tweak the model specific settings you need for a great print, to get here you turn the quality slider when you start a print to custom and you will get a panel with these settings.
+
+{{::screen_shot_2014-12-24_at_12.10.28.png?200|Quality Settings}}
+
+===== Extrusion =====
+
+In the extrusion tab you set the most important settings for the slicer to deal with, these settings will make the difference between a bad print and a perfect print.
+
+{{:screen_shot_2014-12-24_at_12.07.18.png?200|Extrusion settings}}
+
+==== Layer height ====
+
+The layer height tells you how detailed your print will be and is in mm, so a layer height of 0.20 will be a 0.2mm (or 200 micron) layer height. The lower this number the more detailed your print will be but the longer it will take to print. 100 micron takes twice as long as 200 micron since it needs to lay down twice at much layers. For small, very detailed prints you usually go with 100 micron, maybe even 50 but the difference is not that great, for regular models 0.15 or 0.20 is most common. For the models where there isn't a lot of variation between the layers (for example cookie cutters or vases, without overhangs) or where you need more transparency for transparent filaments  you can even go with 0.30 or higher. Recommended settings for small models: 0.10, recommended for medium and large models: 0.20.
+
+==== Fill density ====
+
+This setting is a money and time saving setting, since a full 100% filled model will use a lot of filament. For models that undergo a lot of stress in for example functional prints you might want te set this very high or even 1.00 to make sure it doesn't break but for most models 0.20 will be enough for a good model, 0.40 usually is overkill but pretty solid and 0.10 or 0.05 can in some cases be enough for a good model but I would recommend sticking with 0.20 or 0.25 to be sure it's good enough for a smooth print. Bonus thing with a non 100% fill density is that if you have a messy first layer due to overextruding the gaps in the print due to the fill pattern will make sure this extra filament disappears in between resulting in smoother layers from there on out.
+
+==== Fill pattern ====
+
+This setting will set the shape for the infill if it's not solid. Most of the time this doesn't do a lot for the final model (just a bit depending on the model in terms of strength) but for transparent models it looks better if you use for example honeycomb instead of the standard line setting since it's more consistent looking. A nice overview of available infill settings and how they look can be found here: [[http://manual.slic3r.org/expert-mode/infill]]. 
+
+==== Infill layers ====
+
+This tells you at what interval it should print a infill layer. I usually just leave this at 1 for the most solid results.
+
+==== Solid layers at bottom and top ====
+
+If you use a infill you will see it without solid layers at the top or bottom, we usually don't want this so we make the bottom and top layers solid. This setting will tell you how many layers will be solid. For the top layers I recommend using 4 or 5 for most models, this will make sure your top layer is smooth and not dented due to half-liquid filament dropping into the gaps of the infill. For the bottom layers we need less layers since we don't have this problem here. Without a brim 2 would be enough for most parts, with a brim you need 3 or 4 layers because you might peel of the first and second layer when trying to get rid of the brim resulting in showing the insides of your model.
+
+==== Number of perimeters ====
+
+This can be a important setting; It tells you how many outlines it draws before staring with the infill. Less outlines means a less sturdy model but it might be the most good looking, more outlines means a more solid and watertight model but might look a bit less nice and it takes longer to print. For functional prints I usually go with 3 perimeters for sturdiness, for ornaments that need to look great but don't need to be all that sturdy you can go with just a single perimeter. 
+
+==== Brim width ====
+
+A brim is a solid first layer around the outside of your model to increase bed adhesion of your model preventing it from breaking apart from the bed mid-print. In general you should avoid using any brim if you can since you will always need to break/cut this off resulting in a less-nice bottom part of your print, but if you have a model with just a few contact points or small contact points in the first layer you should add a brim to prevent the breaking apart from the bed problem. I usually feel comfortable with no brim if I have a large flat surface at the bottom, if I don't I add a brim to increase the flat area. For some models a brim of 3 or 4 is enough, for others with very tiny contact point you might even go up to a brim of 15 or 20 (like this model which is quite a challenge to print: [[http://www.thingiverse.com/thing:571949/]]).
+
+Make sure you save your profile before starting the print!
