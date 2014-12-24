@@ -1,0 +1,8 @@
+A list of all parameters on a print model that affect AutoMaker settings
+
+
+^Parameter  ^Examples link  ^Settings  ^
+|Overhang  |  |  |
+|Bridge  |  |  |
+|  |  |  |
+
