@@ -6,11 +6,11 @@ To add yourself to this map, create yourself a user page and add details of your
 
 <code>
 ==== Robox details ====
-  * Robox Name: MyBOX
-  * Location: 48.8652N, 2.7797E
-  * Model: Kickstarter Early Bird, green
-  * Nozzle Heights: 0.55, 0.80
-  * Platform: Windows 8
+  * Robox Name: Tallon
+  * Location: 55.4884N, 9.1282E
+  * Model: Commercial, Blue
+  * Nozzle Heights: 0.3, 0.24
+  * Platform: Windows 7 64 bit
 </code>
 
 You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).
