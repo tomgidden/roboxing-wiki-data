@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: DiscoSteve
+  * Location: 53.413766N, 2.088809W
+  * Model: Commercial, Blue
+  * Nozzle Heights: 0.3, 0.24
+  * Platform: Windows 7 64 bit, Raspberry Pi Linux
