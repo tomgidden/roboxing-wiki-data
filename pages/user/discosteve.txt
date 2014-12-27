@@ -1,5 +1,5 @@
 ==== Robox details ====
-  * Robox Name: DiscoSteve
+  * Robox Name: Lost on M62
   * Location: 53.413766N, 2.088809W
   * Model: Commercial, Blue
   * Nozzle Heights: 0.3, 0.24
