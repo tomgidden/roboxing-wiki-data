@@ -3,3 +3,9 @@
   * Location: 42.14784, -87.94441
   * Model: Commercial, Blue
   * Platform: Windows 7 64 bit
+
+=== My quest so far: ===
+
+Quick fix to increas tension on the x-axis (just a folded piece of paper):
+
+{{ :wiki:belt_tension_x.jpg?direct |}}
