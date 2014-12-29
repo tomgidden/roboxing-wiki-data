@@ -1,5 +1,5 @@
 ==== Robox details ====
   * Robox Name: ???
-  * Location: 42.147843, -87.944405
+  * Location: 42.14784, -87.94441
   * Model: Commercial, Blue
   * Platform: Windows 7 64 bit
