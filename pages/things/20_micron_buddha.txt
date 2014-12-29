@@ -5,7 +5,7 @@ From this forum post by [[user:luis_bustamante|@luis_bustamante]] : [http://www.
 A good early 20 micron print, with some tweaking of settings.
 
 ==== Model ====
-[http://www.thingiverse.com/thing:42077]
+http://www.thingiverse.com/thing:42077
 
 ==== Results ====
 {{:things:20_micron_buddha_-_img_2934.jpg?200}}
