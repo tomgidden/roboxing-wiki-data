@@ -6,6 +6,8 @@
 
 === My quest so far: ===
 
-Quick fix to increas tension on the x-axis (just a folded piece of paper):
+  * Level nozzles with adjustment screws on left and right side of print head!
 
-{{ :wiki:belt_tension_x.jpg?direct |}}
+  * Quick fix to increas tension on the x-axis (just a folded piece of paper):
+
+{{ :wiki:belt_tension_x.jpg?direct&640 |}}
