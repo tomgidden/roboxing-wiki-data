@@ -8,6 +8,7 @@ The standard test pyramid.
 ===== Printing tips =====
 
     * If the top of the pyramid is blobby, it's because the print speeds up as the layers get smaller, so layers don't have time to cool before the next layer starts.  As a result, it's a gooey mess.  Try printing three or four pyramids at once. This should give them time to cool. //[hopefully AutoMaker will soon include a pause between small layers, or something like that.]//  Another possibility is to pause the print for a few minutes towards the end of the print.
+    * The small offset 2/3 to the top is caused by a setting for slic3r to use solid infill below a certain print volume. It changes to a different perimeter width as well. 'solid_infill_below_area' and 'solid_infill_extrusion_width' are the lines in the settings. You would need to edit the actual settings file since 'solid_infill_below_area' is not part of AM.
 
 
 ===== Examples =====
