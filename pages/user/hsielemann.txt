@@ -8,6 +8,6 @@
 
   * Level nozzles with adjustment screws on left and right side of print head!
 
-  * Quick fix to increas tension on the x-axis (just a folded piece of paper):
+  * Quick fix to increase tension on the x-axis (just a folded piece of paper):
 
 {{ :wiki:belt_tension_x.jpg?direct&640 |}}
