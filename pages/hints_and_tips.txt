@@ -17,6 +17,10 @@
     * [[Removing filament from print head]]
 
     * [[B Axis stuck]]
+==== Hints and Tips ====
+
+    * [[Bridges! How to make them work. ]]
+
 ==== In-depth Robox and AutoMaker ====
 
   * [[GCode]]
