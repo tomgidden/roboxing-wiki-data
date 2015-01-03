@@ -1,3 +1,16 @@
-Robox uses the usual three axises x, y and z.  The x axis is the left and right movement of the print head as viewed from the front of the machine.  The y axis is the movement of the print bed forward and backwards as viewed from the front.  The z axis is the vertical movement of the print head. Besides these three axises there is also a 'B axis'.  This axis is within the print head and is where the two nozzles swivel about an axis that is parallel to the y axis.  The reason for this movement is to move one of the print nozzles into play.
+====== B Axis Stuck ======
 
-The B axis stuck error appears on some machines.  One possible cause is lack of lithium grease on the cam post within the head and there is an article on how to [[https://robox.freshdesk.com/support/solutions/articles/1000077303-head|dismantle the head]]
+Robox uses the usual three cartesian axes, X, Y and Z, as well as three "pseudo"-axes:
+
+X: Head left/right
+Y: Bed forward/backward
+Z: Head up/down
+E: Extruder 1 forward/backward
+D: Extruder 2 forward/backward (not currently used)
+B: Nozzle control
+
+The nozzle control motor is used to both switch the nozzle in use, and also to open and close the nozzle valves.  The B axis ranges from "[[0.3mm (fine) nozzle|fine nozzle]] selected and fully open" (around -5), to "fine nozzle selected and closed" (around -1.1, depending on calibration), to "[[0.8mm (fill) nozzle|fill nozzle]] selected and closed" (around 1.1, depending on calibration), to "fill nozzle selected and fully open" (around 5).
+
+Apparently there are a number of different reasons B axis might stick, so it’s not a symptom that can be diagnosed in isolation. 
+
+One possible cause is lack of lithium grease on the cam post within the head and there is an article on how to [[https://robox.freshdesk.com/support/solutions/articles/1000077303-head|dismantle the head]]
