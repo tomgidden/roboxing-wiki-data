@@ -3,3 +3,7 @@
 Work in progress:
 
 http://www.thingiverse.com/thing:547553
+
+{{http://thingiverse-production.s3.amazonaws.com/renders/1b/df/63/7f/7c/reel1_preview_featured.jpg?320}}
+
+{{http://thingiverse-production.s3.amazonaws.com/renders/2b/e2/02/f9/d9/Triple-Samples-Reel_preview_featured.jpg?320}}
