@@ -2,7 +2,9 @@
 
 There are a few holders and boxes for set of knifes/cleaning tools CEL nicely provided with the printer:
 
-  * http://www.thingiverse.com/thing:536487 - printable plastic box
+  * http://www.thingiverse.com/thing:536487 - printable plastic box 
+{{http://thingiverse-production.s3.amazonaws.com/renders/67/82/6e/36/28/IMG_20141109_130430_preview_featured.jpg?320}}
   * http://www.thingiverse.com/thing:546854 - Snowball Cleanup Tool Holder
+{{http://thingiverse-production.s3.amazonaws.com/renders/aa/3a/53/bb/51/Snowball_2_preview_featured.jpg?320}}
   * http://www.thingiverse.com/thing:577681 - Robox knife holder
- 
+{{http://thingiverse-production.s3.amazonaws.com/renders/2c/72/cb/a2/98/robox_knife_holder_ver111_preview_featured.jpg?320}}
