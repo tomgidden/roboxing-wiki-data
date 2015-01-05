@@ -2,4 +2,6 @@
 
 http://www.thingiverse.com/thing:598309
 
+{{http://thingiverse-production.s3.amazonaws.com/renders/3e/a8/63/b8/62/03_preview_featured.JPG?320}}
+
 TODO - find link to forum topic... 
