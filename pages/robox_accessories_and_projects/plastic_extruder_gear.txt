@@ -4,6 +4,9 @@ If plastic (new, commercial blue Roboxes?) gear fails - there's a printable repl
 
 http://www.thingiverse.com/thing:613210
 
+Or smaller hole version is for people who plan to melt part of the gear to fuse with the rod:
+http://www.thingiverse.com/thing:623381
+
 http://www.cel-robox.com/forums/topic/extruder-gear-material-from-metal-to-plastic/
 
 http://www.cel-robox.com/forums/topic/extruder-gear-army
