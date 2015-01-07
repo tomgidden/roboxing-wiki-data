@@ -1,9 +1,9 @@
 back to [[troubleshooting_wizard| Troubleshooting Wizard]]
 
 ^Problem^Solution^
+|The nozzle wipe leaves plastic laying around  | [[thepapersolution| Nozzle paper solution]] |
 |The nozzle is clogged |[[NozzleCloggedWizard| Nozzle Clogged Wizard]]|
 |b axis error  | Try to plug in USB first, then power up Robox.  Also check that the power plug on the back of the printhead is fully into its socket.  |
-|  |  |
 |  |  |
 |  |  |
 |  |  |
