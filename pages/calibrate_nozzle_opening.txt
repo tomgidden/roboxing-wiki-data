@@ -16,9 +16,27 @@ When doing this calibration, there can be a situation where a tiny amount of pla
 
 It is better to set it when the tiny amount starts coming out of the nozzle, rather than calibrating for full flow.  Otherwise the nozzle may leak and drip when apparently blocked, and may leave strings of plastic.((Confirmed in person with @Pete  //--[[user:gid|@gid]]//))
 
-Capturing the instance when the tiniest amount of plastic can be seen flowing out of the nozzle may require you to wait a few seconds after pressing the "No" button indicated in the AutoMaker screen, as it might take a short time before enough plastic flows to be visible.
+//--[[user:mistsoul|@mistsoul]]//
+Capturing the instance when the tiniest amount of plastic can be seen flowing out of the nozzle may require you to wait a few seconds after pressing the "No" button indicated in the AutoMaker screen, as it might take a short time before plastic flows enough to be visible. 
 
-It may be helpful to do the test twice: the first test would consist of counting how many "No" clicks it takes for plastic to clearly flow, and then a second test to fine tune the calibration, so that you intentionally wait and observe the nozzle for a few seconds after clicking "No" once you get closer to the number of "No" clicks from the first test.
+So for the nozzle opening calibration, when running the click test, it is best to wait for the smallest amount of filament extruded and accept at that point or accept a click before the smallest amount of filament is extruded or after depending on the result you want to achieve and the material you are using, this is discussed further below. 
+
+What is meant by the tiniest amount of plastic is the thinnest layer you can see appearing out of the nozzle when you reach the magic number of clicks (explained below also), this is when the material just starts to flow out of the nozzle, this is not supposed to be a lot of material and could just be a thin film on the nozzle. You need to make sure your nozzle is clean and dry before the test otherwise you may not be able to distinguish it.
+
+You can perform you calibration test in three stages and repeat or shorten as needed:
+
+1-	 The first time you run the test would consist of counting how many "No" clicks it takes for plastic to clearly flow out of the nozzle.
+
+2-	 The second test would consist of counting how many "No" clicks it takes for the tiniest amount of plastic to flow out of the nozzle. Take it slow and wait after every click especially once you get closer to the number of "No" clicks from the first test. This will enable you to clearly see if something is extruded, therefore you should also count how many times it takes to extrude the finest amount of filament; this is your magic number so write it down somewhere. 
+
+3-	Then the third test can be used to fine tune the calibration, basically to see if you can refine it further in case you are off by a click or two or to set the nozzle opening where you want it to be in order get the results you desire based on the material you are using. This can only be done by knowing the magic number in order to achieve the settings below:
+
+a.	 Extremely precise- (1 or 2 clicks before fine) ABS works well with this setting but some other material like T-Glase do not do so well in this setting.
+
+b.	Precise- (the magic number of clicks) the amount of clicks it takes to extrude the smallest amount or material. This can be seen as the standard Robox setting which the calibration steps lead the user to.
+
+c.	Oozy (a few clicks after fine) – some materials may need this kind of setting if they have issues with flowability. Based on the forum this is the case for materials such as BronzeFill. 
+//--[[user:mistsoul|@mistsoul]]//
 
 
 
