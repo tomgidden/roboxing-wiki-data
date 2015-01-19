@@ -19,8 +19,7 @@
     * [[B Axis stuck]]
 ==== Hints and Tips ====
 
-    * [[Bridges! How to make them work. ]]
-
+    * [[Bridges]]: Spanning distances between two points: how to make them work well.
 ==== In-depth Robox and AutoMaker ====
 
   * [[GCode]]
