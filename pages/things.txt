@@ -26,7 +26,7 @@ Robox users on Thingiverse include:
    * [[http://www.thingiverse.com/mgg942/about|mgg942]]
    * [[http://www.thingiverse.com/robyneil/about|robyneil]]
 
-These even include [[http://www.thingiverse.com/_gid/collections/robox-parts-and-accessories|some spare parts and accessories for Robox]]!
+These even include [[robox_accessories_and_projects|some spare parts and accessories for Robox]]!
 
    * [[http://www.thingiverse.com/thing:613210|Robox extruder gear]], by Azk13
    * [[http://www.thingiverse.com/thing:623381|Robox extruder gear (smaller hole)]], by Azk13
