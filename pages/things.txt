@@ -1,12 +1,46 @@
 ====== Things ======
 
+Things to print made by other users can be found on the Robox forums, and also on third-party sites.
+
+==== Sample models to try ====
+
    * [[Things:Pyramid1]] : The first model most Roboxers will/should print is the small pyramid.
-
    * [[Things:Carriage Retaining Clip]] : The test print done by Roboxes during their test pass at the factory
- 
    * [[Things:Espresso Cup]] : Another test print from Robox
- 
    * [[Things:Twisted Bottle Of Doom]] : A more difficult -- but impressive -- model is the Twisted Bottle Of Doom™
-
    * [[Things:20 Micron Buddha]] : Budai / Laughing Buddha, printed at ultra-fine resolution.
    
+===== Third-party sites =====
+
+One of the best things about 3D printing is its part in the Maker community: other users, hobbyists and professionals alike, sharing content and helping each other out.  Please do add yourself to these lists, and share your designs!
+   
+==== Thingiverse ====
+
+Robox users on Thingiverse include:
+
+   * [[http://www.thingiverse.com/CEL-UK/about|CEL-UK]] -- Chris Elsworthy, inventor of Robox;
+   * [[http://www.thingiverse.com/Azk13/about|Azk13]];
+   * [[http://www.thingiverse.com/clicky/about|clicky]] -- [[user:clicky|@clicky]] on Roboxing and the forums;
+   * [[http://www.thingiverse.com/_gid/about|_gid]] -- [[user:gid|@gid]] on Roboxing and the forums;
+   * [[http://www.thingiverse.com/robyneil/about|robyneil]];
+
+These even include [[http://www.thingiverse.com/_gid/collections/robox-parts-and-accessories|some spare parts and accessories for Robox]]!
+
+   * [[http://www.thingiverse.com/thing:613210|Robox extruder gear]], by Azk13
+   * [[http://www.thingiverse.com/thing:623381|Robox extruder gear (smaller hole]], by Azk13
+   * [[http://www.thingiverse.com/thing:598309|Filament catcher]], by nonzero
+   * Accessory tool holders: [[http://www.thingiverse.com/thing:577681|by oneolddog]], [[http://www.thingiverse.com/thing:546854|by nonzero]], [[http://www.thingiverse.com/thing:536487|by mape]]
+   * [[http://www.thingiverse.com/thing:547553|Extra filament reel]], by [[user:clicky|clicky]]
+
+==== MyMiniFactory ====
+
+CEL and My Mini Factory have partnered to offer access to My Mini Factory content from within AutoMaker.((http://www.myminifactory.com/blog/?q=node/45))  Unlike Thingiverse where models are uploaded directly by users, My Mini Factory is a curated site, where My Mini Factory will print and photograph models themselves to test them.  This reduces the quantity of the designs available, but aims to improve the overall quality of the designs.
+
+   * [[http://www.myminifactory.com/users/CEL]] - Chris Elsworthy, inventor of Robox;
+   * [[http://www.myminifactory.com/users/_gid]] -- [[user:gid|@gid]] on Roboxing and the forums;
+
+==== 3D Hubs ====
+
+Not a collection of models per se, but a collection of 3D printer owners and companies!  Once you've reached a level of competence with your Robox, you could sign up on 3DHubs and offer your services as a 3D Printer operator.  Alternatively, if you haven't purchased a Robox yet, you could pay a local operator to do a sample print for you to see what the results are like.
+
+   * [[http://www.3dhubs.com]]
