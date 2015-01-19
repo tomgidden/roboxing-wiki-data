@@ -11,6 +11,9 @@ Anyway, please write and upload stuff!  If you've got an idea, or something cool
 
 
 Thanks in advance for your contributions!
+
+
+__NOTE:  AutoMaker has recently updated from version 1.00 to 1.01, with substantial changes.  As a result, a lot of the content in this site is out-of-date.  If you find any, please fix them or add them to the [[roboxing_errata|Errata]] page.__
 ===== Useful Links =====
 
   * [[http://www.cel-robox.com/|Robox® Home page]]
