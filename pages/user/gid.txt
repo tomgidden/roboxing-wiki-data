@@ -1,7 +1,8 @@
 ====== @gid's page ======
 
-Not much here yet!  I haven't had much luck with my Robox, as I joined the beta late and the printer hasn't really behaved itself very well.
+I set up and run this site, but I definitely see it as //our// site, not mine.  The content is all licenced with Creative Commons, freely usable (with attribution), and owned collectively by the users.
 
+Meanwhile, I'm mainly using my Robox for trying things out and making useful widgets for my own use.  I publish things on [[http://www.thingiverse.com/_gid/about|Thingiverse]]; I'm relatively active in the forums; and I'm happy to help other users out.  I'm fortunate to live less than a mile from CEL's offices, so I have been known to pop in and say Hi.  However, opinions are my own, and don't take anything I have to say as "insider knowledge" in any sense!
 ==== About me ====
    * Name: Tom Gidden
    * Occupation: Geek
