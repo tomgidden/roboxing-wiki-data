@@ -1,6 +1,6 @@
 ====== The GCode console ======
 
-AutoMaker allows the user to send low-level commands to the Robox, called "GCode".  This de-facto standard instruction language has been used in industry to control manufacturing equipment since the 1950s, and is used by most 3D printers.
+AutoMaker allows the user to send low-level commands to the Robox, called "[[GCode]]".  This de-facto standard instruction language has been used in industry to control manufacturing equipment since the 1950s, and is used by most 3D printers.
 
 {{ ::advanced_tray.png?200|}}
 To access the GCode console in AutoMaker, from the status screen (showing the Robox) find the three small circles between the left-side panel and the main Robox display. Click there, and the [[Advanced tray]] should appear.  The bottom half of this tray, a white box with a small text field and a button "Send GCode", is the GCode console.
