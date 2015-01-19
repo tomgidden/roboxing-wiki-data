@@ -1,5 +1,5 @@
 ====== Advanced tray ======
 {{ ::three_small_circles_for_advanced_tray.png?200|}}
 {{ ::advanced_tray.png?200|}}
-A number of more advanced commands, including test routines, diagnostics and calibration details are available in AutoMaker's "Advanced tray".  To open this panel from the Status screen (showing the Robox), find the three small circles between the left-side panel (showing the Robox status, reel status and the temperature graph) and the main panel showing the Robox itself.  Click the three small circles and the Advanced tray should open.
+Advanced commands, including test routines, diagnostics and calibration details are available in AutoMaker's "Advanced tray".  To open this panel from the Status screen (showing the Robox), find the three small circles between the left-side panel (showing the Robox status, reel status and the temperature graph) and the main panel showing the Robox itself.  Click the three small circles and the Advanced tray should open.
 
