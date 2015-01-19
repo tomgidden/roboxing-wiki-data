@@ -1,0 +1,9 @@
+====== The GCode console ======
+
+AutoMaker allows the user to send low-level commands to the Robox, called "GCode".  This de-facto standard instruction language has been used in industry to control manufacturing equipment since the 1950s, and is used by most 3D printers.
+
+To access the GCode console in AutoMaker, from the status screen (showing the Robox) find the three small circles between the left-side panel and the main Robox display. Click there, and the [[Advanced tray]] should appear.  The bottom half of this tray, a white box with a small text field and a button "Send GCode", is the GCode console.
+
+To test the console, click the text field below the large white box and enter the GCode command ''M503''.  This should display the configuration settings for the Robox.  It's a good idea to take a copy of these settings for future reference.
+
+For more GCode commands, consult the Robox Manual: the "Supplementary Information" appendix contains a list of GCode commands.  **However, it's important to note that it's very easy to give Robox GCode instructions that may damage it, and so by doing so you may invalidate your warranty.**  If in any doubt, stop what you're doing, switch off Robox and ask on the forums or ask CEL.
