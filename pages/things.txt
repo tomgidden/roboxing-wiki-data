@@ -38,8 +38,9 @@ These even include [[robox_accessories_and_projects|some spare parts and accesso
 
 CEL and My Mini Factory have partnered to offer access to My Mini Factory content from within AutoMaker.((http://www.myminifactory.com/blog/?q=node/45))  Unlike Thingiverse where models are uploaded directly by users, My Mini Factory is a curated site, where My Mini Factory will print and photograph models themselves to test them.  This reduces the quantity of the designs available, but aims to improve the overall quality of the designs.
 
-   * [[http://www.myminifactory.com/users/CEL]] - Chris Elsworthy, inventor of Robox;
-   * [[http://www.myminifactory.com/users/_gid]] -- [[user:gid|@gid]] on Roboxing and the forums;
+   * [[http://www.myminifactory.com/users/CEL]] - Chris Elsworthy, inventor of Robox
+   * [[http://www.myminifactory.com/users/clicky]] -- [[user:clicky|@clicky]] on Roboxing and [[http://www.cel-robox.com/members/clicky|the forums]]
+   * [[http://www.myminifactory.com/users/_gid]] -- [[user:gid|@gid]] on Roboxing and [[http://www.cel-robox.com/members/gid|the forums]]
 
 ==== 3D Hubs ====
 
