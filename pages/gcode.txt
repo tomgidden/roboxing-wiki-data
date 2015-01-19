@@ -20,6 +20,10 @@ However, it can also be visualised using several tools:
 
 By visualising the model and the way Robox intends to print it, you can identify problem spots and change design or settings accordingly.
 
+==== Running arbitrary GCode ====
+
+Robox allows the user to upload and run a ''.gcode'' file.  To do this, use the Maintenance panel in the [[Advanced tray]].
+
 ==== Sharing GCode ====
 
 //(To be added... apparently, GCode can be shared between users.  I'm not sure if this is original or post-processed GCode, or how Robox/AutoMaker will handle it.  It brings up the possibility of using a different slicer.  More experimentation needed.  --[[user:gid|@gid]])//
