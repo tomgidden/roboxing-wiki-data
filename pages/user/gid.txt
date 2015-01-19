@@ -9,6 +9,7 @@ Not much here yet!  I haven't had much luck with my Robox, as I joined the beta 
      * Robox forums: http://www.cel-robox.com/members/gid/
      * Facebook: http://facebook.com/tomgidden
      * Twitter: http://twitter.com/tomgidden
+     * Thingiverse: http://www.thingiverse.com/_gid/about
 
 {{ :users:gid:oops1.jpg?200|This is what happens when you miscalibrate needle height}}
 ==== Robox details ====
