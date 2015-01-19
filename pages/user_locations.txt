@@ -47,6 +47,7 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:PatrikL]]
    * [[:user:pbsui]]
    * [[:user:pelgrim]]
+   * [[:user:roebi]]
    * [[:user:rudy]]
    * [[:user:scribbleswd]]
    * [[:user:SimonAllen]]
