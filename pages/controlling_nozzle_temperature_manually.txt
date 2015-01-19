@@ -1,0 +1,17 @@
+====== Controlling nozzle temperature manually ======
+
+AutoMaker version 1.00 allowed the user to manually set the temperature of the nozzles, bed and the ambient temperature.  However, this capability let the user do operations that might damage the head or cause major support issues.
+
+The capability to adjust temperature is still possible from within AutoMaker version 1.01, but it's harder to do:  if you learn how to do it, then hopefully you will also understand the problems it may cause.
+
+To set the nozzle temperature manually, switch to the [[GCode console]] and use the command ''M104 S150'' to set the target temperature to 150ºC, for example.
+
+To switch off the nozzle heater and let it return to "cold", use the command ''M104 S0''.
+
+Similar commands exist for the bed and ambient temperatures.  ''M140'' will set the bed target temperature, and ''M170'' will set the ambient target temperature.
+
+**IMPORTANT: Do not leave the temperature set for longer than necessary**:  plastics can degrade when kept hot.  In normal use, the plastic is kept flowing through the head while it's hot, so it doesn't degrade.
+
+Also, make sure the temperature you choose is appropriate for the plastic inside the head.
+
+As with any manual GCode instruction, you would do this at your own risk, and you may invalidate the warranty.
