@@ -16,7 +16,7 @@ One of the best things about 3D printing is its part in the Maker community: oth
    
 ==== Thingiverse ====
 
-Robox users on Thingiverse include:
+There is a Robox users' group on Thingiverse: [[http://www.thingiverse.com/groups/robox-users]]; Robox users include:
 
    * [[http://www.thingiverse.com/CEL-UK/about|CEL-UK]] -- Chris Elsworthy, inventor of Robox
    * [[http://www.thingiverse.com/Azk13/about|Azk13]]
