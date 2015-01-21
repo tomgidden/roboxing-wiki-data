@@ -48,6 +48,6 @@ Not a collection of models per se, but a collection of 3D printer owners and com
 
    * [[http://www.3dhubs.com]]
 
-====== Creating your own content ======
+===== Creating your own content =====
 
 This is probably outside the scope of this site, but the [[Content Creation]] article may help.
