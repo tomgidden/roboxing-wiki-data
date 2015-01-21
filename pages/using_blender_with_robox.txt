@@ -1,0 +1,13 @@
+====== Using Blender with Robox ======
+
+[[http://blender.org]]
+
+Blender is a full-featured 3D editing system, freely available to all users.
+
+It's fairly complex to learn, but for the purpose of 3D Printing, only a small part needs to be learned, as the complex animation, surface/material/texture, and rendering capabilities can be ignored.
+
+There is a standard Export add-on available for exporting STL files, as well as a more useful [[http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox|3D Printing Toolbox]] with various validation and export tools.  Both of these can be enabled in the ''Add-ons'' tab of the ''User Preferences'' (under the ''File'' menu).
+
+==== Configuring Blender for Robox ====
+
+(To be added:  need to determine best arrangement of Blender units to match Robox scaling)
