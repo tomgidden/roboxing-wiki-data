@@ -1,0 +1,23 @@
+====== Content Creation ======
+
+While you can download and print [[Things|existing content]], creating new 3D content for printing is one of the most complex tasks, and not really within the scope of this site.
+
+There are a number of approaches, including CAD; manual modelling; mathematical formulation; scientific data-set gathering/generation; and 3D scanning.  The particular requirements and capabilities of the user will determine which technique to use.
+
+Manual modelling is where the user will interactively construct the object(s) using a 3D view.  It's time consuming and takes time, patience and skill to learn how to do it well.
+
+The best 3D modelling packages are very expensive, and even the lower-end applications can cost more than the Robox itself.  However, there are a few freely-available options that are worth considering.  The commercial packages often see educational licenses for a reduced price, but unfortunately they rarely offer such deals to hobbyists anymore.
+
+=== Freely available / Open-source ===
+
+     * Blender: [[http://www.blender.org|Blender]];   A full-featured 3D editing system.  It's fairly complex to learn, but for the purpose of 3D Printing, only a small part needs to be learned, as the complex animation, surface/material/texture, and rendering capabilities are of no use.  There is a standard Export add-on available for exporting STL files, as well as a more useful 3D Printing add-on with various validation and export tools.  [[Using Blender with Robox]]
+
+     * OpenSCAD: [[http://www.openscad.org|OpenSCAD]];   This package appeals to programmers, as it allows the user to describe the object in code form.
+ 
+     * Clara.io: [[http://clara.io|Clara.IO]];
+
+=== Commercial ===
+
+     * [[http://rhino3d.com|Rhinoceros 3D]];
+     * [[http://www.thefoundry.co.uk/products/modo/|MODO]];
+     * [[http://www.autodesk.com/products/3ds-max/overview|3DS Max]]
