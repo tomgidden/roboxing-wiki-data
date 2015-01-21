@@ -21,6 +21,7 @@ The best 3D modelling packages are very expensive, and even the lower-end applic
      * [[http://rhino3d.com|Rhinoceros 3D]];
      * [[http://www.thefoundry.co.uk/products/modo/|MODO]];
      * [[http://www.autodesk.com/products/3ds-max/overview|3DS Max]]
+     * [[http://http://www.sketchup.com/|Sketchup]] - free, cut-down version for non-commercial use. Very easy to learn and start making 3d designs. Exports STL (plugin might be needed for cut-down version) for AM.
 
 ==== Other tools ====
 
