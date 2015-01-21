@@ -1,6 +1,6 @@
 ==== Robox details ====
   * Robox Name: @azk13
-  * Location: 55.4884N, 9.1282E
+  * Location: 1.2943730N ,103.7834010E
   * Model: Commercial, Blue
   * Nozzle Heights: 0.55, 0.24
   * Platform: Windows 7 64 bit
