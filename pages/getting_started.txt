@@ -45,7 +45,7 @@ In theory, these two calibrations only need to be done once, as the settings are
 
     * [[Pre-print height calibration]]:  the four point check done by Robox before every print.
 
-=== What to print ===
+==== What to print ====
 
     * [[Things]]: models that other users have made;
 
