@@ -1,6 +1,6 @@
 ====== Content Creation ======
 
-While you can download and print [[Things|existing content]], creating new 3D content for printing is one of the most complex tasks, and not really within the scope of this site.
+While you can download and print [[Things|existing content]], creating new 3D content for printing is one of the most complex tasks, and probably not within the scope of this site.
 
 There are a number of approaches, including CAD; manual modelling; mathematical formulation; scientific data-set gathering/generation; and 3D scanning.  The particular requirements and capabilities of the user will determine which technique to use.
 
