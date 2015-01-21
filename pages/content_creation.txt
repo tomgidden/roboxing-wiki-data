@@ -21,3 +21,13 @@ The best 3D modelling packages are very expensive, and even the lower-end applic
      * [[http://rhino3d.com|Rhinoceros 3D]];
      * [[http://www.thefoundry.co.uk/products/modo/|MODO]];
      * [[http://www.autodesk.com/products/3ds-max/overview|3DS Max]]
+
+==== Other tools ====
+
+=== Fixing STL files ====
+
+[[STL]] files can often contain faulty geometry that AutoMaker will fail to load or print correctly.  Such problems can be fixed with third-party tools:
+
+  * [[http://meshlab.sourceforge.net|MeshLab]] - a full-featured mesh viewing and maintenance tool;
+  * [[http://www.cloudcompare.org||CloudCompare]] - originally designed for point-cloud manipulation, but may be of use with STL files;
+  * [[http://netfabb.azurewebsites.net|NetFabb]] - an online tool to repair files: upload an STL file, and download a fixed version.
