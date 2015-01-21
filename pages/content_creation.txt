@@ -16,6 +16,8 @@ The best 3D modelling packages are very expensive, and even the lower-end applic
  
      * Clara.io: [[http://clara.io|Clara.IO]];
 
+     * FreeCAD: [[http://www.freecadweb.org/|FreeCADweb.org]];
+
 === Commercial ===
 
      * [[http://rhino3d.com|Rhinoceros 3D]];
