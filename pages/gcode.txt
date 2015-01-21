@@ -2,27 +2,33 @@
 
 As with most [[wp>fused filament fabrication|FFF/FDM]] 3D printers, AutoMaker uses [[wp>GCode]] to communicate with Robox.  This is a simple language containing relatively low-level instructions to the printer firmware.
 
-AutoMaker generates the GCode by passing the model to [[Slic3r]] which generates the required GCode.  AutoMaker then post-processes the GCode to add in extra instructions to handle Robox-specific capabilities not yet supported by Slic3r.
+AutoMaker generates the GCode by passing the model to a slicing engine -- [[Slic3r]] or [[Cura]], depending on user preference -- which generates the required GCode.  AutoMaker then post-processes the GCode to add in extra instructions to handle Robox-specific capabilities not yet supported by the slicing engine.
 
 The two GCode files are stored in the ''CEL\PrintJobs'' directory:  each print job has a subdirectory with a (currently) random name.  To find the relevant print job, list the directory by 'Date Modified' or 'Date Added'.  Inside you'll find several files including the relevant profiles used; the original [[STL]] file(s); and the original and post-processed ''gcode'' files.
 
 ==== Viewing GCode ====
 
-GCode can be edited manually, although with varying results and an element of risk. This is certainly an advanced topic.
+GCode can be visualised using several tools, which can be helpful in identifying problems.  To do so, run a print job and then pause the job.  Find the relevant GCode file as above, and then use one of the tools listed below to visualise it.  You can then stop the job and adjust settings, or continue the job.
 
-However, it can also be visualised using several tools:
+    * AM GCodePreview: http://www.cel-robox.com/forums/topic/gcode-preview/ - a dedicated solution for Robox, written by [[user:clicky|@clicky]]
 
-    * GCode Viewer http://gcode.joewalnes.com/ - An online 2D/3D visualiser;
+    * GCode Viewer: http://gcode.joewalnes.com/ - online;
 
-    * Repetier-Host http://www.repetier.com - Part of a larger package, but the app can be used for visualisation;
+    * GCode Analyzer: http://gcode.ws - online;
 
-    * Pleasant3D http://www.pleasantsoftware.com/developer/pleasant3d/ - A simple package for Mac
+    * 3D Genius: http://www.3dgeni.us/gCodeViewer/ - online;
+
+    * Repetier-Host: http://www.repetier.com - Part of a larger package, but the app can be used for visualisation;
+
+    * Pleasant3D: http://www.pleasantsoftware.com/developer/pleasant3d/ - A simple package for Mac
 
 By visualising the model and the way Robox intends to print it, you can identify problem spots and change design or settings accordingly.
 
 ==== Running arbitrary GCode ====
 
 Robox allows the user to upload and run a ''.gcode'' file.  To do this, use the Maintenance panel in the [[Advanced tray]].
+
+GCode can be edited manually, although with varying results and an element of risk. This is certainly an advanced topic.
 
 ==== Sharing GCode ====
 
