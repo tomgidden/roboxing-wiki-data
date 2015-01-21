@@ -37,8 +37,16 @@ In theory, these two calibrations only need to be done once, as the settings are
 
     * [[Calibrate Nozzle Height]]: calibrates the required parameters for Robox to be able to detect and set the correct height for each nozzle.
 
+    * [[Calibrate Nozzle Alignment]]: calibrates the relative lateral position of the two nozzles, so the fine and fill nozzle can match their locations on the bed precisely.
+
 === Other calibration ===
 
     * [[Level gantry]], [[Level X]]:  calibrates the overall vertical position of the bed;
 
     * [[Pre-print height calibration]]:  the four point check done by Robox before every print.
+
+=== What to print ===
+
+    * [[Things]]: models that other users have made;
+
+    * [[Content Creation]]: making your own models to print.
