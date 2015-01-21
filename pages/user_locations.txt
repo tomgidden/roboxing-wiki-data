@@ -6,7 +6,8 @@ To add yourself to this map, create yourself a user page and add details of your
 
 <code>
 ==== Robox details ====
-  * Robox Name: Tallon
+  * Robox Name: smitty[[===== http://example.com|External Link =====
+]]
   * Location: 55.4884N, 9.1282E
   * Model: Commercial, Blue
   * Nozzle Heights: 0.3, 0.24
