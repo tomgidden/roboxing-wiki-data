@@ -14,4 +14,4 @@ You can create 3D content and export it to STL files using a range of 3D editor 
 
 ==== Fixing STL files ====
 
-STL files can often contain faulty geometry that AutoMaker will fail to load or print correctly.  Such problems can be fixed by using a tool like the free applications [[http://meshlab.sourceforge.net|MeshLab]] and [[http://www.cloudcompare.org||CloudCompare]], or the online tool [[http://netfabb.azurewebsites.net|NetFabb]].
+STL files can often contain faulty geometry that AutoMaker will fail to load or print correctly.  Such problems can be fixed by using a tool like the free applications [[http://meshlab.sourceforge.net|MeshLab]] and [[http://www.cloudcompare.org|CloudCompare]], or the online tool [[http://netfabb.azurewebsites.net|NetFabb]].
