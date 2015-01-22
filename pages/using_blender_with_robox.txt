@@ -11,3 +11,22 @@ There is a standard Export add-on available for exporting STL files, as well as 
 ==== Configuring Blender for Robox ====
 
 (To be added:  need to determine best arrangement of Blender units to match Robox scaling)
+
+
+=== Possible settings ===
+
+{{ ::blender_scene_units_panel.png|}}
+{{ ::blender_grid_units_panel.png|}}
+  * In the Properties Window (the right-side panel in the default view):  In ''Scene: Units'' set Units to ''None''.
+
+  * Press ''N'' to reveal the Properties Shelf.  Set Grid scale to 10.000.  This makes the floor grid match.
+
+  * Press ''Shift''-''C'' to reset the view.
+
+  * From here, coordinates in Blender should be analogous to millimetres when exported to AutoMaker.
+
+  * However, the lights and camera will be too small, but for 3D printing these shouldn't matter.
+
+Using "Metric" units might seem sensible, but by default they're in metres, rather than millimetres, so extra scaling is necessary.  The 3D Printing Toolbox allows for application of the unit scaling factor on Export, but it's not clear how this affects the print.
+
+//If you have more luck with getting a default setup going where units match between Blender and AutoMaker, please do refine this section!  -- [[user:gid|@gid]]//
