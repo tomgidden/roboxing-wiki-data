@@ -34,6 +34,11 @@ Using "Metric" units might seem sensible, but by default they're in metres, rath
 === Print3D toolbox ===
 
 {{:wiki:blender3dprinttoolbox.png?nolink&200 |}}
-Activating the toolbox: go to the User Preferences (Menu: File - User Preferences, shortcut: Ctrl Alt U),
-type "3D print" in the search box and activate it. It will appear as a tab together with all the other toolboxes.
+Activating the toolbox: go to the User Preferences 
+
+(Menu: File - User Preferences, shortcut: Ctrl Alt U),
+
+type "3D print" in the search box and activate it. 
+
+It will appear as a tab together with all the other toolboxes.
 
