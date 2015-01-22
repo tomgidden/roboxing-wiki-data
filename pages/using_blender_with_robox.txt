@@ -30,3 +30,10 @@ There is a standard Export add-on available for exporting STL files, as well as 
 Using "Metric" units might seem sensible, but by default they're in metres, rather than millimetres, so extra scaling is necessary.  The 3D Printing Toolbox allows for application of the unit scaling factor on Export, but it's not clear how this affects the print.
 
 //If you have more luck with getting a default setup going where units match between Blender and AutoMaker, please do refine this section!  -- [[user:gid|@gid]]//
+
+=== Print3D toolbox ===
+
+{{:wiki:blender3dprinttoolbox.png?nolink&200 |}}
+Activating the toolbox: go to the User Preferences (Menu: File - User Preferences, shortcut: Ctrl Alt U),
+type "3D print" in the search box and activate it. It will appear as a tab together with all the other toolboxes.
+
