@@ -6,12 +6,20 @@ Blender is a full-featured 3D editing system, freely available to all users.
 
 It's fairly complex to learn, but for the purpose of 3D Printing, only a small part needs to be learned, as the complex animation, surface/material/texture, and rendering capabilities can be ignored.
 
-There is a standard Export add-on available for exporting STL files, as well as a more useful [[http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox|3D Printing Toolbox]] with various validation and export tools.  Both of these can be enabled in the ''Add-ons'' tab of the ''User Preferences'' (under the ''File'' menu).
+{{ :wiki:blender3dprinttoolbox.png?nolink&200|}}
 
-==== Configuring Blender for Robox ====
+There is a standard Export add-on available for exporting STL files, as well as a more useful [[http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox|3D Printing Toolbox]] with various validation and export tools.  Both of these can be enabled in the ''Add-ons'' tab of ''User Preferences'':
+
+To activate the toolbox: go to ''User Preferences'' in the ''File'' menu; shortcut: ''Ctrl''-''Alt''-''U''.
+
+Type "3D print" in the search box to find the add-on, and activate it. 
+
+It will appear as a tab together with all the other toolboxes.
+
+
+==== Configuring scaling factors for AutoMaker ====
 
 (To be added:  need to determine best arrangement of Blender units to match Robox scaling)
-
 
 === Possible settings ===
 
@@ -27,18 +35,16 @@ There is a standard Export add-on available for exporting STL files, as well as 
 
   * However, the lights and camera will be too small, but for 3D printing these shouldn't matter.
 
-Using "Metric" units might seem sensible, but by default they're in metres, rather than millimetres, so extra scaling is necessary.  The 3D Printing Toolbox allows for application of the unit scaling factor on Export, but it's not clear how this affects the print.
+=== Using "Metric" units instead ===
+
+When units are set to use ''Metric'' rather than ''None'', most dimensions are in metres rather than millimetres, so extra scaling is necessary.  You can set the Units ''Scale'' to 0.001, and you may have to set the Clip range in the ''View''.
+
+Using "Metric" units might seem sensible, but by default Blender's units are translated to metres, rather than millimetres, so extra scaling is necessary for small-scale 3D printing.
+
+However, the output file format [[STL]] used by AutoMaker does not specify the scaling factor for units, so the model is likely to appear the wrong size by several levels of magnitude anyway.
+
+Instead, you could model everything in metres and mentally scale down to millimetres, but at that point the benefit of using Metric scaling is unclear.
+
+The 3D Printing Toolbox allows for application of the unit scaling factor on Export, but it's not clear how this affects the print.
 
 //If you have more luck with getting a default setup going where units match between Blender and AutoMaker, please do refine this section!  -- [[user:gid|@gid]]//
-
-=== Print3D toolbox ===
-
-{{:wiki:blender3dprinttoolbox.png?nolink&200 |}}
-Activating the toolbox: go to the User Preferences 
-
-(Menu: File - User Preferences, shortcut: Ctrl Alt U),
-
-type "3D print" in the search box and activate it. 
-
-It will appear as a tab together with all the other toolboxes.
-
