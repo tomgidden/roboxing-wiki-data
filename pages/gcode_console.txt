@@ -8,3 +8,20 @@ To access the GCode console in AutoMaker, from the status screen (showing the Ro
 To test the console, click the text field below the large white box and enter the GCode command ''M503''.  This should display the configuration settings for the Robox.  It's a good idea to take a copy of these settings for future reference.
 
 For more GCode commands, consult the Robox Manual: the "Supplementary Information" appendix contains a list of GCode commands.  **However, it's important to note that it's very easy to give Robox GCode instructions that may damage it, and so by doing so you may invalidate your warranty.**  If in any doubt, stop what you're doing, switch off Robox and ask on the forums or ask CEL.
+
+==== Useful GCode commands ====
+
+(As mentioned above, only use these if you fully understand what you're doing!)
+
+^ GCode ^ Action ^ Notes ^
+| T0 | Switch to [[0.3mm_fine_nozzle]] | |
+| T1 | Switch to [[0.8mm_fill_nozzle]] | |
+| G0 B0 | Close current nozzle | |
+| G0 B2 | Open current nozzle | |
+| M105 | Show temperature and power summary | See [[Show temperature summary]] |
+| M503 | Show all settings | See [[Show all settings]] || M104 Sxxx | Set nozzle temperature to 'xxx'ºC | See [[controlling_nozzle_temperature_manually]] |
+| M104 S0 | Switch off nozzle heater | |
+| M140 Sxxx | Set bed temperature to 'xxx'ºC | |
+| M140 S0 | Switch off bed heater | |
+| G37 | Unlock door immediately: move the bed forward to unlock the door | |
+| G37 Sxxx | Unlock door when the bed temperature reaches 'xxx'ºC | |
