@@ -6,7 +6,11 @@ AutoMaker generates the GCode by passing the model to a slicing engine -- [[Slic
 
 The two GCode files are stored in the ''CEL\PrintJobs'' directory:  each print job has a subdirectory with a (currently) random name.  To find the relevant print job, list the directory by 'Date Modified' or 'Date Added'.  Inside you'll find several files including the relevant profiles used; the original [[STL]] file(s); and the original and post-processed ''gcode'' files.
 
-==== Viewing GCode ====
+==== Ad-hoc GCode instructions ====
+
+Robox can be controlled directly using GCode commands and the [[GCode console]].
+
+==== Viewing GCode files ====
 
 GCode can be visualised using several tools, which can be helpful in identifying problems.  To do so, run a print job and then pause the job.  Find the relevant GCode file as above, and then use one of the tools listed below to visualise it.  You can then stop the job and adjust settings, or continue the job.
 
@@ -24,12 +28,12 @@ GCode can be visualised using several tools, which can be helpful in identifying
 
 By visualising the model and the way Robox intends to print it, you can identify problem spots and change design or settings accordingly.
 
-==== Running arbitrary GCode ====
+==== Running arbitrary GCode files ====
 
 Robox allows the user to upload and run a ''.gcode'' file.  To do this, use the Maintenance panel in the [[Advanced tray]].
 
 GCode can be edited manually, although with varying results and an element of risk. This is certainly an advanced topic.
 
-==== Sharing GCode ====
+==== Sharing GCode files ====
 
 //(To be added... apparently, GCode can be shared between users.  I'm not sure if this is original or post-processed GCode, or how Robox/AutoMaker will handle it.  It brings up the possibility of using a different slicer.  More experimentation needed.  --[[user:gid|@gid]])//
