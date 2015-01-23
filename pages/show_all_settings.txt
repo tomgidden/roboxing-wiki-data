@@ -1,0 +1,41 @@
+====== Show all settings ======
+
+In [[GCode console]], run the command ''M503'' and you should get a list of configuration settings currently stored in Robox's flash memory:
+
+''
+Version: 2f32aa37
+uSteps per Unit:
+  M92 X132.333 Y132.333 Z6400.0 E747.0 D747.0 B2500.0
+Acceleration:
+  M201 S12
+Maximum Speed (mm/s):
+  M202 X200.0 Y200.0 Z3.5 E35.0 D35.0 B6.0
+Nozzle Tempcon:
+  M301 P8.0e-2 F2.9e-3 D-2.2e-1 B4380.0 T19193.0 U0
+Bed Tempcon:
+  M302 P8.0e-2 F4.0e-3 D-1.6e-1 B3977.0 T62508.0 U0
+Ambient Tempcon:
+  M303 P1.0e-1 F0.0 D0.0 B3977.0 T318790.0 U0
+Axis Invert:
+  M510 X1 Y1 Z1 E0 D0 B1
+Axis Travel:
+  M520 X226.0 Y155.0 Z100.0 B5.0
+Switch Invert:
+  M526 X0 Y0 Z0 E1 D1 B0
+Home Distance:
+  M527 X-0.5 Y-0.5 Z-0.2 E350.0 D350.0
+Motor Current (A):
+  M906 X1.104 Y1.104 Z0.897 E1.302 D1.302 B1.016
+Motor Hold Current (A):
+  M907 X0.5 Y0.5 Z0.302 E0.5 D0.5 B0.103
+Motor Reduced Current (A):
+  M908 E0.699 D0.699
+Filament slip threshold (mm):
+  M909 S10.0
+''
+
+Each of these can be changed with the appropriate ''M'' command.  This setting will stay intact until the Robox is reset (by powering off, for example).  To store the settings permanently, execute the ''M500'' command.
+
+However, altering these settings is usually unnecessary unless you've been instructed to do so by CEL.  Changing the settings can easily damage your Robox.
+
+If you intend to change any settings, it's a good idea to do an ''M503'' command and take a copy of the results.  These parameters change between AutoMaker versions, such as reduction of motor currents or speeds to decrease or increase torque, for example.
