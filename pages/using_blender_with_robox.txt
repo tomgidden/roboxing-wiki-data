@@ -2,11 +2,12 @@
 
 [[http://blender.org]]
 
+{{ :wiki:blender3dprinttoolbox.png?100|}}
+
 Blender is a full-featured 3D editing system, freely available to all users.
 
 It's fairly complex to learn, but for the purpose of 3D Printing, only a small part needs to be learned, as the complex animation, surface/material/texture, and rendering capabilities can be ignored.
 
-{{ :wiki:blender3dprinttoolbox.png?100|}}
 
 There is a standard Export add-on available for exporting STL files, as well as a more useful [[http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox|3D Printing Toolbox]] with various validation and export tools.  Both of these can be enabled in the ''Add-ons'' tab of ''User Preferences'':
 
