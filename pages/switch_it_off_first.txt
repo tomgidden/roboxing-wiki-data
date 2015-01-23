@@ -1,5 +1,9 @@
 ====== Switch it off first ======
 
+**Firstly, [[switching off|do not switch off]] Robox while the fans are running; doing so could damage the head permanently.**
+
+However, before disassembling Robox in any way, you do need to switch it off. So, wait for the fans to stop and then switch off and proceed with disassembly.
+
 The Robox has two main sources of power: USB and the mains power supply.  It's meant to be able to do basic configuration and so forth on just USB, but to do anything that involves heating, movement, lighting and so forth, it needs to be powered up.
 
 When powered up, there's a fairly strong 24V current going through the mainboard, through the ribbon cable joining the extruder to the main board, and along the two-wire cable in the print chamber going from the mainboard to the head.
