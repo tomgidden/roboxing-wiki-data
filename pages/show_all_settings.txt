@@ -2,7 +2,7 @@
 
 In [[GCode console]], run the command ''M503'' and you should get a list of configuration settings currently stored in Robox's flash memory:
 
-''
+<code>
 Version: 2f32aa37
 uSteps per Unit:
   M92 X132.333 Y132.333 Z6400.0 E747.0 D747.0 B2500.0
@@ -32,7 +32,7 @@ Motor Reduced Current (A):
   M908 E0.699 D0.699
 Filament slip threshold (mm):
   M909 S10.0
-''
+</code>
 
 Each of these can be changed with the appropriate ''M'' command.  This setting will stay intact until the Robox is reset (by powering off, for example).  To store the settings permanently, execute the ''M500'' command.
 
