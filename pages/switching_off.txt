@@ -1,0 +1,7 @@
+====== Switching off ======
+
+From CEL:
+
+> **NEVER switch the power off while fans are still running on Robox.** This is vital… If the residual heat of the head is allowed to heat the rear of the head it will cause the filament there to distort and potentially jam. The fans keep this area cool and will automatically run while the head is over 60°C. This transition point has been carefully designed and the heatsink/fan is tuned to maintain the solidity of the filament before it is melted.
+
+-- [[http://www.cel-robox.com/forums/topic/automaker-1-01-00-released-this-is-a-huge-update/#post-13587]]
