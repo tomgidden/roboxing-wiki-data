@@ -19,7 +19,8 @@ For more GCode commands, consult the Robox Manual: the "Supplementary Informatio
 | G0 B0 | Close current nozzle | |
 | G0 B2 | Open current nozzle | |
 | M105 | Show temperature and power summary | See [[Show temperature summary]] |
-| M503 | Show all settings | See [[Show all settings]] || M104 Sxxx | Set nozzle temperature to 'xxx'ºC | See [[controlling_nozzle_temperature_manually]] |
+| M503 | Show all settings | See [[Show all settings]] |
+| M104 Sxxx | Set nozzle temperature to 'xxx'ºC | See [[controlling_nozzle_temperature_manually]] |
 | M104 S0 | Switch off nozzle heater | |
 | M140 Sxxx | Set bed temperature to 'xxx'ºC | |
 | M140 S0 | Switch off bed heater | |
