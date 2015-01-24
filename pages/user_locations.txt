@@ -42,6 +42,7 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:medeiros]]
    * [[:user:MeMorris]]
    * [[:user:Merlijn]]
+   * [[:user:MiffMaster]]
    * [[:user:mikeg]]
    * [[:user:mistsoul]]
    * [[:user:Olivier]]
