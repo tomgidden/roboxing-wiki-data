@@ -1,0 +1,8 @@
+====== @MiffMaster's page ======
+
+
+==== Robox details ====
+  * Robox Name: MiffMaker
+  * Location: 57.7060206N, 11.9352577E
+  * Model: Kickstarter, Green
+  * Platform: Windows 7 64 bit, Linux 64 bit
