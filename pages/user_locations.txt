@@ -38,6 +38,7 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:hsielemann]]
    * [[:user:ijprest]]
    * [[:user:Jacob]]
+   * [[:user:Johan Jensen]]
    * [[:user:luis bustamante]]
    * [[:user:medeiros]]
    * [[:user:MeMorris]]
