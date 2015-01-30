@@ -19,7 +19,7 @@ NOTE:  AutoMaker has recently updated from version 1.00 to 1.01, with substantia
 
   * [[http://www.cel-robox.com/|Robox® Home page]]
 
-  * [[http://www.cel-robox.com/community/|Robox Official Forums]]  (and [[making the forums legible]])
+  * [[http://www.cel-robox.com/community/|Robox Official Forums]]  (and [[keeping track of the forums]])
 
   * [[https://robox.freshdesk.com/helpdesk|Robox Support Portal]]: including official solutions
 
