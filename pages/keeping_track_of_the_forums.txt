@@ -1,0 +1,34 @@
+====== Keeping track of the forums ======
+
+Keeping up-to-date on posts on the official forums can be tricky.
+
+While the website does offer RSS feeds, they're tricky to find.  Instead, Roboxing proxies them through FeedBurner for convenience:
+
+  * http://feeds.feedburner.com/RoboxingDiffs
+  
+  * http://feeds.feedburner.com/RoboxArticles
+  
+  * http://feeds.feedburner.com/RoboxBlogComments
+  
+  * http://feeds.feedburner.com/RoboxChatter
+  
+  * http://feeds.feedburner.com/RoboxFeatureRequest
+  
+  * http://feeds.feedburner.com/RoboxMaterials
+  
+  * http://feeds.feedburner.com/RoboxOtherPrinters
+  
+  * http://feeds.feedburner.com/RoboxShowUsBits
+  
+  * http://feeds.feedburner.com/RoboxSoftware
+  
+  * http://feeds.feedburner.com/RoboxTechSupport
+ 
+
+or an OPML file to set up RSS software is available:  http://roboxing.com/feeds.xml
+
+===== Reader Software =====
+
+As RSS is less popular than it used to be, software is a little harder to find.  Google Reader has been discontinued.
+
+[[http://feedly.com|Feedly]] is a good cross-platform aggregator, and they maintain a [http://feedly.com/apps.html|comprehensive list of RSS apps] you might try.
