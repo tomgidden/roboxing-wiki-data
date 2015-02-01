@@ -25,6 +25,6 @@ this is another wood type filament but i found it too brittle and it snapped eas
     * I only change Tab Düsen
     * All 5 Düse Settings to 0.8mm (T1), because of Recommendation use Nozzle greater than 0.5mm
 
-  * Results are not bad, but could be better.
+  * Results - for to set only Laywood adapted Values - are not bad, but could be better.
     * {{:robox_robot_wood_40percent_resized.jpg?100|}}
  
