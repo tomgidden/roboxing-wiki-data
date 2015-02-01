@@ -1,6 +1,13 @@
 ==== Robox details ====
-  * Robox Name: Roebi
+  * Robox Name: Roebi Robox
   * Location: 47.550456N, 9.302294E
   * Model: Commercial, Blue
-  * Nozzle Heights: 0.3, 0.24
+  * Nozzle Heights
+
+^Axle^0,3 mm (T0)^0,8 mm (T1)^
+|X|15.13| 0.88|
+|Y|05.03| 4.97|
+|Z|00.40| 0.47|
+|B|01.20|-1.40|
+
   * Platform: Windows 8 64 bit
