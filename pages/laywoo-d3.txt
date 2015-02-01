@@ -4,7 +4,27 @@ this is another wood type filament but i found it too brittle and it snapped eas
 
 2015-02-01 User [[user:roebi|Roebi]] print some Mini Figures with Laywoo-d3.
 
-  * For Filament Settings see {{:laywoodd3-pla.roboxfilament|}} // Located in C:\Users\myUsername\Documents\CEL Robox\Filaments
-  * For Profile  Settings see {{:laywoodd3.roboxprofile|}} // Located in C:\Users\myUsername\Documents\CEL Robox\PrintProfiles
+  * For Filament Settings see {{:laywoodd3-pla.roboxfilament|}}
+    * Located in C:\Users\myUsername\Documents\CEL Robox\Filaments
+    * Settings:
+    * Materialname LaywoodD3
+    * Materialtyp PLA
+    * Color: #6d5e1e (Brown - not really relevant)
+    * Filament 1.75 mm
+    * Filament-Muliplikator 1.00
+    * Vorschub-Muliplikator 1.00
+    * Bett(1.Layer) 55°C
+    * Bett 55°C
+    * Düse(1.Layer) 200°C
+    * Düse 200°C
+    * Environment 25°C
 
+  * For Profile  Settings see {{:laywoodd3.roboxprofile|}}
+    * Located in C:\Users\myUsername\Documents\CEL Robox\PrintProfiles
+    * Settings
+    * I only change Tab Düsen
+    * All 5 Düse Settings to 0.8mm (T1), because of Recommendation use Nozzle greater than 0.5mm
+
+  * Results are not bad, but could be better.
+    * ... 
  
