@@ -31,4 +31,4 @@ or an OPML file to set up RSS software is available:  http://roboxing.com/feeds.
 
 As RSS is less popular than it used to be, software is a little harder to find.  Google Reader has been discontinued.
 
-[[http://feedly.com|Feedly]] is a good cross-platform aggregator, and they maintain a [http://feedly.com/apps.html|comprehensive list of RSS apps] you might try.
+[[http://feedly.com|Feedly]] is a good cross-platform aggregator, and they maintain a [[http://feedly.com/apps.html|comprehensive list of RSS apps]] you might try.
