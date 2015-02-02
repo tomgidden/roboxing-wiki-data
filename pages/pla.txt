@@ -1,7 +1,7 @@
 ===== PLA =====
 
   * [[WP>Polylactic Acid]]
-  * Robox PLA: NatureWorks 4043D  [[http://www.natureworksllc.com/~/media/Technical_Resources/Technical_Data_Sheets/TechnicalDataSheet_4043D_films_pdf.pdf|Datasheet (PDF)]]
+  * Robox PLA: NatureWorks 4043D  ((Details of CEL ABS and PLA confirmed by Chris White (Robox Engineer): http://www.cel-robox.com/forums/topic/how-to-properly-store-and-cure-hydrophilic-filaments-such-as-pla/page/2/#post-7371))[[http://www.natureworksllc.com/~/media/Technical_Resources/Technical_Data_Sheets/TechnicalDataSheet_4043D_films_pdf.pdf|Datasheet (PDF)]]
 ==== Properties ====
   * Easy to print;  easier than [[ABS]]
   * Does not shrink, so easier to make precision parts.
