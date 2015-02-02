@@ -1,0 +1,26 @@
+====== Calculating the cost of a print ======
+
+AutoMaker doesn't display the cost of a print, and only indirectly shows the amount of filament used.  However, the numbers are available if you need them.  A rough guide is visible in the main screen with the amount of filament remaining on the reel (rounded in metres).
+
+Open the [[Advanced tray]] and select the "Reel" tab.  You should see a large number saying "Remaining": this is the estimated amount of filament remaining on the reel in millimetres.  Note this down before your print.
+
+Once the print has completed, note down the new value of "Remaining" in the Reel tab.  Subtract one from the other and you will have the amount of filament used, in millimetres.  Multiply by 1000 to get it in metres.  A typical small [[:things:pyramid1|Test Pyramid]] may use about 1 metre of filament.
+
+The price of the filament is dependent on material, supplier, and so forth.  However, CEL Robox [[ABS]] is around £28 / €37 / US$42 for a 240 metre reel, once delivery is considered; so it comes out to roughly £28/240m = £0.12 / €0.15 / 18¢ per metre.  Multiply the cost per metre by the number of metres, and you get the estimated cost (± 50% or so!)
+
+==== Using ''*.statistics'' files ====
+
+If you forget to note down the amount of filament remaining before the job, you can work it out from the print job file.
+
+In the ''CEL/PrintJobs'' folder, there should be a sub-folder for each print job.  Inside, there will be a file with the name ending in ''.statistics''.  Open the file up in Notepad or a text editor.
+
+You should see something like:
+<code>
+{
+  "numberOfLines" : 38318,
+  "volumeUsed" : 1672.2622999880587,
+...
+}
+</code>
+
+The ''volumeUsed'' is in cubic millimetres, so to convert this to metres of 1.75mm filament, divide it by 2400 (ie. roughly ''(π * (0.00175 / 2)² * 1000000'') to get the metres of filament used, and apply the costs above.
