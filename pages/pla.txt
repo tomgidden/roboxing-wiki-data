@@ -26,7 +26,7 @@
 ==== Availability ====
 
   * Widely available
-  * Also available on officially-supported Robox Reel direct from CEL: [[http://robox.cel-uk.com/filament/pla-filament.html]]
+  * Also available on officially-supported Robox Reel direct from CEL: [[http://robox.cel-uk.com/filament/pla.html]]
 
 ==== Hints and Tips ====
   * [[Storing filament|Keep it dry and sealed when not in use.]]
