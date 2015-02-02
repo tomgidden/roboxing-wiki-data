@@ -1,7 +1,12 @@
 ===== PLA =====
 
   * [[WP>Polylactic Acid]]
-  * Robox PLA: NatureWorks 4043D  ((Details of CEL ABS and PLA confirmed by Chris White (Robox Engineer): http://www.cel-robox.com/forums/topic/how-to-properly-store-and-cure-hydrophilic-filaments-such-as-pla/page/2/#post-7371))[[http://www.natureworksllc.com/~/media/Technical_Resources/Technical_Data_Sheets/TechnicalDataSheet_4043D_films_pdf.pdf|Datasheet (PDF)]]
+  * Robox PLA: NatureWorks 4043D  ((Details of CEL ABS and PLA confirmed by Chris White (Robox Engineer): http://www.cel-robox.com/forums/topic/how-to-properly-store-and-cure-hydrophilic-filaments-such-as-pla/page/2/#post-7371)) 
+     * [[http://www.natureworksllc.com/~/media/Technical_Resources/Regulatory_Affairs/Material_Safety_Data_Sheets/MSDS_4043D_ansi_english_nw_pdf.pdf|Safety Data Sheet (PDF)]] ({{:natureworks-4043d-sds.pdf|Cached}})
+     * [[http://www.natureworksllc.com/~/media/Technical_Resources/Technical_Data_Sheets/TechnicalDataSheet_4043D_films_pdf.pdf|Technical Data Sheet (PDF)]] ({{:natureworks-4043d-tds.pdf|Cached}})
+     * [[http://www.natureworksllc.com/~/media/Technical_Resources/Properties_Documents/PropertiesDocument_Engineering-Properties_pdf.pdf|Engineering Properties (PDF)]] ({{:natureworks-4043d-properties.pdf|Cached}})
+     * [[http://www.natureworksllc.com/~/media/Technical_Resources/Properties_Documents/PropertiesDocument_Solubility-Test-Results_pdf.pdf|Solubility (PDF)]] ({{:natureworks-4043d-solubility.pdf|Cached}})
+
 ==== Properties ====
   * Easy to print;  easier than [[ABS]]
   * Does not shrink, so easier to make precision parts.
