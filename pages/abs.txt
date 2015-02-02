@@ -1,9 +1,9 @@
 ===== ABS =====
   * [[wp>Acrylonitrile Butadiene Styrene]]
   * Robox ABS: Chi Mei Polylac 747  [[http://www.chimeicorp.com/en-us/products/plastics/abs/]]
-     * [[http://www.chimeicorp.com/upload/att/2014-08/201408101743372243211.pdf|Material Safety Data Sheet (PDF)]]
-     * [[http://www.chimeicorp.com/upload/att/2012-11/201211021044545799613.pdf|Physical properties (PDF)]]
-     * [[http://www.chimeicorp.com/upload/att/2013-04/201304101127144581291.pdf|ISO (PDF)]]
+     * [[http://www.chimeicorp.com/upload/att/2014-08/201408101743372243211.pdf|Material Safety Data Sheet (PDF)]] ({{:chimei-747-msds.pdf|Local copy}})
+     * [[http://www.chimeicorp.com/upload/att/2015-01/201501221040144649031.pdf|Physical properties (PDF)]] ({{:chimei-747-astm.pdf|Local copy}})
+     * [[http://www.chimeicorp.com/upload/att/2015-01/201501081700559036471.pdf|ISO (PDF)]] ({{:chimei-747-iso.pdf|Local copy}})
 ==== Properties ====
   * Good all-rounder
   * What's it like? [[WP>LEGO]]
