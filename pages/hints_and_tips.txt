@@ -1,5 +1,9 @@
 ====== Hints and Tips ======
 
+==== Cost of materials ====
+
+  * [[Calculating model cost]]
+
 ==== Maintenance ====
 
   * [[Cleaning the printing surface]]
@@ -10,16 +14,16 @@
 
   * [[Prepare filament, change filament]]
 
-
-
 ==== Fixing problems ====
 
     * [[Removing filament from print head]]
 
     * [[B Axis stuck]]
-==== Hints and Tips ====
+
+==== Improving results ====
 
     * [[Bridges]]: Spanning distances between two points: how to make them work well.
+
 ==== In-depth Robox and AutoMaker ====
 
   * [[GCode]]
