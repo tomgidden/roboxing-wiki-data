@@ -4,6 +4,9 @@
      * [[http://www.chimeicorp.com/upload/att/2014-08/201408101743372243211.pdf|Material Safety Data Sheet (PDF)]] ({{:chimei-747-msds.pdf|Cached}})
      * [[http://www.chimeicorp.com/upload/att/2015-01/201501221040144649031.pdf|Physical properties (PDF)]] ({{:chimei-747-astm.pdf|Cached}})
      * [[http://www.chimeicorp.com/upload/att/2015-01/201501081700559036471.pdf|ISO (PDF)]] ({{:chimei-747-iso.pdf|Cached}})
+
+((Details of CEL ABS and PLA confirmed by Chris White (Robox Engineer): http://www.cel-robox.com/forums/topic/how-to-properly-store-and-cure-hydrophilic-filaments-such-as-pla/page/2/#post-7371))
+
 ==== Properties ====
   * Good all-rounder
   * What's it like? [[WP>LEGO]]
