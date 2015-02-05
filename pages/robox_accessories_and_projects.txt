@@ -3,8 +3,11 @@
 
 [[Robox Accessories and Projects::Small Robox Reel]] : Small Robox Reel
 
+[[Robox Accessories and Projects::Colorfabb Robox spool holder]] : Colorfabb/Robox spool holder
+
 [[Robox Accessories and Projects::Knife Holders]] : Knife Holders
 
 [[Robox Accessories and Projects::Filament Catcher]] : Filament Catcher
 
 [[Robox Accessories and Projects::Plastic Extruder Gear]] : Plastic Extruder Gear
+
