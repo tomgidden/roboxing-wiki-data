@@ -1,0 +1,12 @@
+Go back to [[preprintchecks| Pre print checks]]
+
+Check the thickness of your filament in folowing cases:
+- You install new filament
+- Filament was exposed for several days to open air
+- You had trouble before with this type of filament
+
+Diameter should be 1.75 mm with a 0.05 mm tolerance.
+Too thick can cause problems with the bowden tubes as it can get stuck more easily,
+and any deviation of 1.75 mm diameter can cause faults in your print with too much
+or too less filament being fed to the print head.
+Change print parameters accordingly.
