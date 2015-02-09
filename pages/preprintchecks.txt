@@ -6,7 +6,7 @@ If the pre-print checks are done for your robox you can go right to [[first_laye
 
 ^Step^Check^YES^NO^
 |1 |I moved my Robox  |  |  |
-|2 |Filament is loaded in Robox?  |   |  |
+|2 |Filament is loaded in Robox?  |[[preprintchecks_filament|Check filament thickness]]|[[preprintchecks_filament|Check filament thickness]]|
 |3 |The build plate is cleaned with isopropyl alcohol?  |   |  |
 |4 |I use a new reel of filament, same material |   |  |
 |5 |I use a new reel of filament, different material  |   |   |
