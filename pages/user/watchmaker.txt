@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: watchmaker
+  * Location: 51°50'36.43" N   2°12'13.35" W
+  * Model: Commercial, Blue
+  * Nozzle Heights: 0.1, 0.18
+  * Platform: Windows 7 64 bit
