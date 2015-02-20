@@ -4,6 +4,7 @@ If calibration is done for your robox you can go right to [[preprintchecks|Pre-p
 
 Overview of all calibration functions:
 {{ :wiki:roboxmaintenance600.png?nolink&900 |}}
+All usual calibration functions have moved to the Calibrate button in the main window.
 
 ^Step^Action^Walkthrough^More details  ^
 |1 |Where is my Maintenance?  Open the [[Advanced tray]]|{{:roboxmaintenancedetail.png?nolink&150 | Maintenance Button}}  | {{:maintenance_panel_2.png?nolink&200 |}} |
