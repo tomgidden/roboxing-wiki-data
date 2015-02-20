@@ -12,11 +12,11 @@ You can watch this also [[http://youtu.be/OOZWnWdojvY | YouTube: Nozzle opening 
 
 ^Action^This is how it looks^
 |In Calibration menu, choose Nozzle Opening  |{{:wiki:calibrationnozzleopening01.png?nolink |}}  |
-|push Start Calibration  |{{:wiki:nozzle02.png?nolink&600 |}}  |
-|Wait while initializing |{{:wiki:purge03.png?nolink&600 |}}  |
+|Step 1: Start  |{{:wiki:calibrationnozzleopening02.png?nolink&600 |}}  |
+|Wait |The head will purge material from both nozzles and go back to the center of the bed  |
 |Wait while the nozzles are heated  |{{:wiki:nozzle04.png?nolink&600 |}}  |
-|Check no material escapes from nozzles  | {{ :wiki:nozzle05.jpg?nolink |}}  |
-|Check material is comming from left nozzle  |{{:wiki:nozzle07.png?nolink&600 |}}  |
+|Step 2: check for material flow  | {{ :wiki:calibrationnozzleopening03.jpg?nolink |}}  |
+|If no, the calibration failed  |{{:wiki:calibrationnozzleopening04.png?nolink&600 |}}  |
 |Check material is comming from right nozzle  |{{:wiki:nozzle08.png?nolink&600 |}}  |
 |Clean the nozzle with tweezers. Attention: nozzles are hot  |{{:wiki:nozzle10.png?nolink&600 |}}  |
 |Start calibration for left nozzle  |{{:wiki:nozzle11.png?nolink&600 |}}  |
