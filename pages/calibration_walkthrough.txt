@@ -8,7 +8,7 @@ All usual calibration functions have moved to the Calibrate button in the main w
 
 ^Step^Action^Walkthrough^More details  ^
 |1 |Where is my Maintenance?  Open the [[Advanced tray]]|{{:roboxmaintenancedetail.png?nolink&150 | Maintenance Button}}  | {{:maintenance_panel_2.png?nolink&200 |}} |
-|2 |Purge  | [[purgewalkthrough| Purge]] |   |
+|2 |Purge Material  | [[purgewalkthrough| Purge]] |   |
 |3 |Clean Bed  | [[cleanbedwalkthrough| Clean Bed]] | [[cleaning_the_printing_surface | Cleaning printing surface]]  |
 |4 |Calibrate Nozzle Opening  | [[nozzleopeningwalkthrough| Nozzle Opening]]  |[[Calibrate Nozzle Opening]]   |
 |5 |Calibrate Nozzle Height  | [[nozzleheightwalkthrough| Nozzle Height]]  |[[Calibrate Nozzle Height]]  |
