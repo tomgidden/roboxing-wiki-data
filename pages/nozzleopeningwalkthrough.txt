@@ -14,7 +14,6 @@ You can watch this also [[http://youtu.be/OOZWnWdojvY | YouTube: Nozzle opening 
 |In Calibration menu, choose Nozzle Opening  |{{:wiki:calibrationnozzleopening01.png?nolink |}}  |
 |Step 1: Start  |{{:wiki:calibrationnozzleopening02.png?nolink&600 |}}  |
 |Wait |The head will purge material from both nozzles and go back to the center of the bed  |
-|Wait while the nozzles are heated  |{{:wiki:nozzle04.png?nolink&600 |}}  |
 |Step 2: check for material flow  | {{ :wiki:calibrationnozzleopening03.jpg?nolink |}}  |
 |If no, the calibration failed  |{{:wiki:calibrationnozzleopening04.png?nolink&600 |}}  |
 |Check material is comming from right nozzle  |{{:wiki:nozzle08.png?nolink&600 |}}  |
