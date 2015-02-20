@@ -3,7 +3,7 @@ This is a list of all things to calibrate on the robox.
 If calibration is done for your robox you can go right to [[preprintchecks|Pre-print Walkthrough]]
 
 Overview of all calibration functions:
-{{ :wiki:roboxmaintenance600.png?nolink&300 |}}
+{{ :wiki:roboxmaintenance600.png?nolink&600 |}}
 
 ^Step^Action^Walkthrough^More details  ^
 |1 |Where is my Maintenance?  Open the [[Advanced tray]]|{{:roboxmaintenancedetail.png?nolink&150 | Maintenance Button}}  | {{:maintenance_panel_2.png?nolink&200 |}} |
