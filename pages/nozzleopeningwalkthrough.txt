@@ -11,7 +11,7 @@ The documentation and video below is to give you an idea what to expect.
 You can watch this also [[http://youtu.be/OOZWnWdojvY | YouTube: Nozzle opening calibration]]
 
 ^Action^This is how it looks^
-|In Maintenance tab, choose Calibrate Nozzle Opening  |{{:wiki:nozzle01.png?nolink |}}  |
+|In Maintenance tab, choose Calibrate Nozzle Opening  |{{:wiki:calibrationnozzleopening01.png?nolink |}}  |
 |push Start Calibration  |{{:wiki:nozzle02.png?nolink&600 |}}  |
 |Wait while initializing |{{:wiki:purge03.png?nolink&600 |}}  |
 |Wait while the nozzles are heated  |{{:wiki:nozzle04.png?nolink&600 |}}  |
