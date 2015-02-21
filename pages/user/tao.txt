@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: tao
+  * Location: 60.92N, 24.98E
+  * Model: Kickstarter, Green
+  * Nozzle Heights: ?
+  * Platform: Windows 7 64 bit
