@@ -55,6 +55,7 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:SimonAllen]]
    * [[:user:streatsi]]
    * [[:user:Tallon]]
+   * [[:user:tao]]
    * [[:user:terrence]]
    * [[:user:Terry Taylor]]
    * [[:user:thingol]]
