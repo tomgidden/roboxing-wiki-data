@@ -5,8 +5,6 @@
 
 [[Robox Accessories and Projects::Filament Catcher]] : Filament Catcher
 
-[[Robox Accessories and Projects::Robox Tool Holder Bits]] : Robox Tool Holder Bits
-
 [[Robox Accessories and Projects::Knife Holders]] : Knife Holders
 
 [[Robox Accessories and Projects::Small Robox Reel]] : Small Robox Reel
