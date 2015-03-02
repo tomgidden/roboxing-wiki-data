@@ -39,6 +39,18 @@ In theory, these two calibrations only need to be done once, as the settings are
 
     * [[Calibrate Nozzle Alignment]]: calibrates the relative lateral position of the two nozzles, so the fine and fill nozzle can match their locations on the bed precisely.
 
+=== First-Print Nozzle Height Calibration ===
+After you complete the three calibrations above, this calibration step will refine the nozzle settings to make sure you have optimal positioning for the nozzles to get the best first-layer adhesion. 
+  - Open the Head tab in the Advanced section of AutoMaker. Write down the Z values for both nozzles.
+  - Select a simple print. The Robox™ cube works well or a simple cube or cylinder will be fine, though right-angles work best.
+  - Print only the first layer of this print with the Draft profile. You really only need part of the first layer but don't let the second layer start. Cancel the print before the second layer starts. Remove the print from the bed.
+  - Repeat the print with the Fine profile, again stopping before the second layer is deposited. Remove the print from the bed.
+  - Examine the first layer result. You are looking for two qualities:
+      * The extrusion paths expand to meet each other so the first layer is one unbroken sheet of plastic.
+      * The nozzle is not rubbing on the first layer enough to create troughs or depressions in the first layer. If there are traces or bubbles of plastic on the nozzle, it is rubbing.
+  - Adjust the Z value of the nozzle up or down by .05 increments. If you see gaps between extrusion paths, adjust down. If the nozzle is rubbing, adjust up. Don't forget to write the new values to the head.
+  - Repeat until the two qualities above are evident. The ideal first later will be unbroken and will be slightly wavy on a path perpendicular to the path of nozzle travel. For PLA, it is usually better to err slightly low; for PET it is better to err slightly high.
+
 === Other calibration ===
 
     * [[Level gantry]], [[Level X]]:  calibrates the overall vertical position of the bed;
