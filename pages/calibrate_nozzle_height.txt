@@ -36,10 +36,27 @@ That should be the highest the nozzle can be while still touching the paper.
 
   * //This is still quite subjective. I'd appreciate it if an experienced Robox user can confirm.  --[[user:gid|@gid]]//
 
+  * //I think it is really accurate for a starting position. Then move on to the actual print calibration I added below and it should be good.  --[[user:bhudson|@bhudson]]//
+
   * //To get the sheet perfectly flat, it may be useful if the sheet is big enough to spread it with two fingers across the print-bed or use both hands to do so when sliding it under the nozzle, just make sure not to apply too much pressure otherwise you may be pushing the entire bed down which could yield faulty calibration results. --[[user:mistsoul|@mistsoul]]//
 
   * //I'm not sure I agree with @mistsoul's suggestion here, as a larger sheet being pushed down will move far less easily, so it will be harder to detect when the nozzle is touching.  --[[user:gid|@gid]]//
 
+  * //If your bed is moving down during this process, you are pushing too hard or your bed is broken. The bed should be fully supported for this step and since you are pressing in the center of the bed it should not move at all. It takes only gentle pressure to move the paper back and forth. --[[user:bhudson|@bhudson]]//
+
+First-Print Nozzle Height Calibration
+
+After you complete the three Robox head calibration steps, this additional calibration step will refine the nozzle settings to make sure you have optimal positioning for the nozzles to get the best first-layer adhesion.
+
+Open the Head tab in the Advanced section of AutoMaker. Write down the Z values for both nozzles.
+Select a simple print. The Robox™ cube works well or a simple cube or cylinder will be fine, though right-angles work best.
+Print only the first layer of this print with the Draft profile. You really only need part of the first layer but don't let the second layer start. Cancel the print before the second layer starts. Remove the print from the bed.
+Repeat the print with the Fine profile, again stopping before the second layer is deposited. Remove the print from the bed.
+Examine the first layer result. You are looking for two qualities:
+The extrusion paths expand to meet each other so the first layer is one unbroken sheet of plastic.
+The nozzle is not rubbing on the first layer enough to create troughs or depressions in the first layer. If there are traces or bubbles of plastic on the nozzle, it is rubbing.
+Adjust the Z value of the nozzle up or down by .05 increments. If you see gaps between extrusion paths, adjust down. If the nozzle is rubbing, adjust up. Don't forget to write the new values to the head.
+Repeat until the two qualities above are evident. The ideal first later will be unbroken and will be slightly wavy on a path perpendicular to the path of nozzle travel. For PLA, it is usually better to err slightly low; for PET it is better to err slightly high.
 ==== How it's used ====
 
 The routine that actually tests how high the nozzle is above the print bed is done at the start of each print ("[[North-South-East-West calibration]]"), and also in the "[[Level Gantry]]" operation:  it uses the setting here to probe the PEI [[printing surface]] with the nozzle and detect at what height(s) the nozzle is touching the bed.  By checking at multiple locations, it can determine if the bed is level and compensate accordingly.
