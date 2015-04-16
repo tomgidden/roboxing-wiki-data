@@ -8,7 +8,7 @@ Tweezers are needed to clean the nozzles manualy.
 Automaker has a nice wizard that guides you through the procedure and is probably going to change.
 The documentation and video below is to give you an idea what to expect.
 
-You can watch this also [[http://youtu.be/OOZWnWdojvY | YouTube: Nozzle opening calibration]]
+You can watch this also [[http://youtu.be/mV2rVs27_Zw | YouTube: Nozzle opening calibration]]
 
 ^Action^This is how it looks^
 |In Calibration menu, choose Nozzle Opening  |{{:wiki:calibrationnozzleopening01.png?nolink |}}  |
