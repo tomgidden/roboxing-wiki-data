@@ -26,6 +26,5 @@ You can watch this also [[http://youtu.be/OOZWnWdojvY | YouTube: Nozzle opening 
 |Step 7: calibrate right nozzle  |{{:wiki:calibrationnozzleopening12.png?nolink&600 |}}  |
 |When material is flowing, choose Present to stop  |{{:wiki:calibrationnozzleopening13.png?nolink&600 |}}  |
 |clean nozzles  |{{:wiki:calibrationnozzleopening14.png?nolink&600 |}}  |
-|Do this procedure twice, [[Calibrate Nozzle Opening | read here for more details]]  |{{:wiki:nozzle18.png?nolink&600 |}}  |
 
 Back to [[Calibration Walkthrough]]
