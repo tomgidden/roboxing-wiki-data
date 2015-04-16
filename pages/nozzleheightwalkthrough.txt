@@ -11,14 +11,10 @@ The documentation and video below is to give you an idea what to expect.
 You can watch this also [[http://youtu.be/wC1F7tWEVH4 | YouTube: Nozzle height calibration]]
 
 ^Action^This is how it looks^
-|In Calibration menu, choose Nozzle Height  |{{:wiki:nozzleheight01.png?nolink |}}  |
-|push Recalibrate  |{{:wiki:nozzleheight02.png?nolink&600 |}}  |
-|push Start Calibration and open the Robox door |{{:wiki:nozzleheight03.png?nolink&600 |}}  |
-|Wait while the nozzles are heated  |{{:wiki:nozzleheight04.png?nolink&600 |}}  |
-|Make sure the nozzles are clean, use tweazers to clean them. Push Yes  | {{ :wiki:nozzleheight05.png?nolink&600 |}}  |
-|Let robox to it's measuring  |{{:wiki:nozzleheight06.png?nolink&600 |}}  |
-|Take a piece of normal printer paper and slide it under the head  |{{:wiki:nozzleheight07.png?nolink&600 |}}  |
-|Play along with the Too tight and the Too loose buttons until you reach the height where it is just possible to move the paper back and forward without using force. Holding the paper between thumb and 1 finger is enough. Push Just right when done.  |{{:wiki:nozzleheight08.png?nolink&600 |}}  |
-|push Save settings  |{{:wiki:nozzleheight09.png?nolink&600 |}}  |
+|In Calibration menu, choose Nozzle Height, and choose next  | {{:wiki:calibrationnozzleheight01.png?nolink |}}  |
+|Remove the print bed and choose next  | {{:wiki:calibrationnozzleheight02.png?nolink |}}  |
+|let the print head heat up  | {{:wiki:calibrationnozzleheight03.png?nolink |}}  |
+|Remove remaining material from the nozzles and choose next  | {{:wiki:calibrationnozzleheight04.png?nolink |}}  |
+|Robox will now calibrate nozzle height  | {{:wiki:calibrationnozzleheight05.png?nolink |}}  |
 
 Back to [[Calibration Walkthrough]]
