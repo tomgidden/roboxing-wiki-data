@@ -15,16 +15,17 @@ You can watch this also [[http://youtu.be/OOZWnWdojvY | YouTube: Nozzle opening 
 |Step 1: Start  |{{:wiki:calibrationnozzleopening02.png?nolink&600 |}}  |
 |Wait |The head will purge material from both nozzles and go back to the center of the bed  |
 |Step 2: check for material flow  | {{ :wiki:calibrationnozzleopening03.png?nolink |}} |
-|If no, the calibration failed  |{{:wiki:calibrationnozzleopening04.png?nolink&600 |}}  |
-|Check material is comming from right nozzle  |{{:wiki:nozzle08.png?nolink&600 |}}  |
-|Clean the nozzle with tweezers. Attention: nozzles are hot  |{{:wiki:nozzle10.png?nolink&600 |}}  |
-|Start calibration for left nozzle  |{{:wiki:nozzle11.png?nolink&600 |}}  |
-|Start calibration for right nozzle  |{{:wiki:nozzle12.png?nolink&600 |}}  |
-|Clean the nozzle with tweezers. Attention: nozzles are still hot  |{{:wiki:nozzle13.png?nolink&600 |}}  |
-|Check no material escapes from nozzles  |{{:wiki:nozzle14.png?nolink&600 |}}  |
-|See that material flows from left nozzle  |{{:wiki:nozzle15.png?nolink&600 |}}  |
-|See that material flows from right nozzle  |{{:wiki:nozzle17.png?nolink&600 |}}  |
-|Save settings  |{{:wiki:nozzle18.png?nolink&600 |}}  |
+|If no, the calibration failed  |{{:wiki:calibrationnozzleopening04notok.png?nolink&600 |}}  |
+|Head parameters: make your choice  |{{:wiki:calibrationnozzleopening04?nolink&600 |}}  |
+|Check no material is flowing  |{{:wiki:calibrationnozzleopening05.png?nolink&600 |}}  |
+|Step 3: check left nozzle  |{{:wiki:calibrationnozzleopening06.png?nolink&600 |}}  |
+|Step 4: check right nozzle  |{{:wiki:calibrationnozzleopening07.png?nolink&600 |}}  |
+|Step 5: clean nozzles  |{{:wiki:calibrationnozzleopening08.png?nolink&600 |}}  |
+|Step 6: calibrate left nozzle  |{{:wiki:calibrationnozzleopening09.png?nolink&600 |}}  |
+|When material is flowing, choose Present to stop  |{{:wiki:calibrationnozzleopening11.png?nolink&600 |}}  |
+|Step 7: calibrate right nozzle  |{{:wiki:calibrationnozzleopening12.png?nolink&600 |}}  |
+|When material is flowing, choose Present to stop  |{{:wiki:calibrationnozzleopening13.png?nolink&600 |}}  |
+|clean nozzles  |{{:wiki:calibrationnozzleopening14.png?nolink&600 |}}  |
 |Do this procedure twice, [[Calibrate Nozzle Opening | read here for more details]]  |{{:wiki:nozzle18.png?nolink&600 |}}  |
 
 Back to [[Calibration Walkthrough]]
