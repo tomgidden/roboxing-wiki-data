@@ -13,8 +13,9 @@ All usual calibration functions have moved to the Calibrate button in the main w
 |3 |Clean Bed  | [[cleanbedwalkthrough| Clean Bed]] | [[cleaning_the_printing_surface | Cleaning printing surface]]  |
 |4 |Calibrate Nozzle Opening  | [[nozzleopeningwalkthrough| Nozzle Opening]]  |[[Calibrate Nozzle Opening]]   |
 |5 |Calibrate Nozzle Height  | [[nozzleheightwalkthrough| Nozzle Height]]  |[[Calibrate Nozzle Height]]  |
-|6 |Calibrate Gantry (vertical calibration)  | [[gantrycalibrationwalkthrough| Gantry]] |[[Level gantry]]  |
-|7 |Calibrate Y Axis (vertical calibration)  | [[yaxiscalibrationwalkthrough| Y Axis]] |[[Level Y]]  |
-|8 |Text X, Y and Z Axis  | [[xyztestwalkthrough| X, Y, Z Test]] |  |
-|9 |4 point leveling  |  |[[Pre-print height calibration]]  |
+|6 |Calibrate Nozzle Alignment  | [[nozzlealignmentwalkthrough| Nozzle Alignment]]  |  |
+|7 |Calibrate Gantry (vertical calibration)  | [[gantrycalibrationwalkthrough| Gantry]] |[[Level gantry]]  |
+|8 |Calibrate Y Axis (vertical calibration)  | [[yaxiscalibrationwalkthrough| Y Axis]] |[[Level Y]]  |
+|9 |Text X, Y and Z Axis  | [[xyztestwalkthrough| X, Y, Z Test]] |  |
+|10 |4 point leveling  |  |[[Pre-print height calibration]]  |
 
