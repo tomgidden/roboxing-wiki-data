@@ -1,0 +1,19 @@
+Back to [[Calibration Walkthrough]]
+
+Nozzle alignment calibration.
+
+AutoMaker is started and Robox is powered up, connected and recognized by AutoMaker.
+Tweezers are needed to clean the nozzles manualy.
+
+Automaker has a nice wizard that guides you through the procedure and is probably going to change.
+The documentation and video below is to give you an idea what to expect.
+
+You can watch this also [[ | YouTube: Nozzle alignment calibration]]
+
+^Action^This is how it looks^
+|In Calibration menu, choose Nozzle alignment, and choose Start  | {{ :wiki:calibrationnozzlealignment01.png?nolink&600 |}}  |
+|Wait for robox to heat up and finish a calibration print  | {{ :wiki:calibrationnozzlealignment04.png?nolink&600 |}}  |
+|Take  the print and choose the right settings for your robox. After that choose next  | {{ :wiki:calibrationnozzlealignment05.png?nolink&600 |}}  |
+|Nozzle alignment is completed  | {{ :wiki:calibrationnozzlealignment06.png?nolink&600 |}}  |
+
+Back to [[Calibration Walkthrough]]
