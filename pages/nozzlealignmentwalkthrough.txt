@@ -13,7 +13,8 @@ You can watch this also [[ | YouTube: Nozzle alignment calibration]]
 ^Action^This is how it looks^
 |In Calibration menu, choose Nozzle alignment, and choose Start  | {{ :wiki:calibrationnozzlealignment01.png?nolink&600 |}}  |
 |Wait for robox to heat up and finish a calibration print  | {{ :wiki:calibrationnozzlealignment04.png?nolink&600 |}}  |
-|Take  the print and choose the right settings for your robox. After that choose next  | {{ :wiki:calibrationnozzlealignment05.png?nolink&600 |}}  |
+|The print result should look like this  | {{ :wiki:dsc08246.jpg?nolink&600 |}}  |
+|Take the print and choose the right settings for your robox. After that choose next  | {{ :wiki:calibrationnozzlealignment05.png?nolink&600 |}}  |
 |Nozzle alignment is completed  | {{ :wiki:calibrationnozzlealignment06.png?nolink&600 |}}  |
 
 Back to [[Calibration Walkthrough]]
