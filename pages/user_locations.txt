@@ -7,10 +7,10 @@ To add yourself to this map, create yourself a user page and add details of your
 <code>
 ==== Robox details ====
   * Robox Name: smitty
-  * Location: 55.4884N, 9.1282E
+  * Location: 53.0000N, -2.1833E
   * Model: Commercial, Blue
-  * Nozzle Heights: 0.3, 0.24
-  * Platform: Windows 7 64 bit
+  * Nozzle Heights: 0.3, 0.8
+  * Platform: mac os
 </code>
 
 You can also use your user page for posting examples of your prints; thoughts; and just about anything else (relevant).
