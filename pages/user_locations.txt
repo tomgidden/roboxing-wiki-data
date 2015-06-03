@@ -7,7 +7,7 @@ To add yourself to this map, create yourself a user page and add details of your
 <code>
 ==== Robox details ====
   * Robox Name: smitty
-  * Location: 53.0000N, -2.1833E
+  * Location: 53.0000, -2.1833
   * Model: Commercial, Blue
   * Nozzle Heights: 0.3, 0.8
   * Platform: mac os
