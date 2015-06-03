@@ -64,3 +64,4 @@ If you don't have a Robox yet but you still want to be on the map, no problem!  
    * [[:user:3Deluxe]]
    * [[:user:3dNerd]]
    * [[:user:watchmaker]]
+   * [[:user:Smitty]]
