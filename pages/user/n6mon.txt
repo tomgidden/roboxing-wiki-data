@@ -1,0 +1,6 @@
+==== Robox details ====
+  * Robox Name: n6mon
+  * Location: 37.6747N, -122.1301W
+  * Model: Kickstarter, Green
+  * Nozzle Heights: 0.3, 0.8
+  * Platform: Windows 7
